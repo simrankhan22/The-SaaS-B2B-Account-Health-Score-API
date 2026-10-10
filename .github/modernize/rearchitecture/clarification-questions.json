@@ -1,0 +1,326 @@
+{
+  "schema": "clarification-questions/v1",
+  "generated_at": "2026-10-10T17:45:41Z",
+  "user_input": "Yes, build a front end and connect it together. Context: build a FastAPI/Python 3.12 SaaS B2B account-health and churn scoring app with /predict for one account and asynchronous /batch-scoring for CSV or JSON batches of 1,000+ accounts, using last-login recency, core-feature usage frequency, and subscription tier. Use PostgreSQL. The prior clarification artifact defines the proposed SLAs and first-version exclusions.",
+  "title": "SaaS Account Health Dashboard",
+  "assessment_snapshot": {
+    "intro": "The project brief calls for a dashboard connected to the planned account-scoring API:",
+    "bullets": [
+      "FastAPI/Python 3.12 backend with PostgreSQL; current workspace has no existing application UI to match",
+      "Single-account prediction and asynchronous CSV/JSON batch scoring for 1,000+ accounts",
+      "A dashboard needs to show risk tiers and make batch job progress/results actionable for Customer Success"
+    ]
+  },
+  "proposed_outcome": "Create a responsive web frontend connected to the FastAPI service for single-account scoring and batch uploads, with clear job status, account risk tiers, and actionable results; use a new visual system because there is no existing interface to reproduce.",
+  "scope": [
+    "frontend",
+    "generic"
+  ],
+  "status": "awaiting_answers",
+  "questions": [
+    {
+      "id": "F1",
+      "kit": "frontend",
+      "field": "target.framework",
+      "title": "Frontend framework",
+      "question": "Which frontend framework and version should the dashboard use?",
+      "importance": "required",
+      "impact": 5,
+      "recommended": "React 19 with TypeScript",
+      "default": null,
+      "prefilled": false,
+      "prefilled_value": null,
+      "answer": null,
+      "depends_on": null,
+      "options": [
+        {
+          "value": "React 19 with TypeScript",
+          "label": "React 19 with TypeScript (Recommended)"
+        },
+        {
+          "value": "React 18 with TypeScript",
+          "label": "React 18 with TypeScript"
+        },
+        {
+          "value": "Vue 3 with TypeScript",
+          "label": "Vue 3 with TypeScript"
+        },
+        {
+          "value": "Next.js with React and TypeScript",
+          "label": "Next.js with React and TypeScript"
+        }
+      ],
+      "allow_other": true,
+      "type": "single_select"
+    },
+    {
+      "id": "F2",
+      "kit": "frontend",
+      "field": "target.component_library",
+      "title": "UI component library",
+      "question": "Which component system should provide the dashboard's controls, tables, and layout primitives?",
+      "importance": "required",
+      "impact": 5,
+      "recommended": "shadcn/ui with Tailwind CSS",
+      "default": null,
+      "prefilled": false,
+      "prefilled_value": null,
+      "answer": null,
+      "depends_on": null,
+      "options": [
+        {
+          "value": "shadcn/ui with Tailwind CSS",
+          "label": "shadcn/ui with Tailwind CSS (Recommended)"
+        },
+        {
+          "value": "Material UI (MUI)",
+          "label": "Material UI (MUI)"
+        },
+        {
+          "value": "Ant Design",
+          "label": "Ant Design"
+        },
+        {
+          "value": "Tailwind CSS without a component library",
+          "label": "Tailwind CSS without a component library"
+        }
+      ],
+      "allow_other": true,
+      "type": "single_select"
+    },
+    {
+      "id": "F4",
+      "kit": "frontend",
+      "field": "visual.design_system",
+      "title": "Visual direction",
+      "question": "What should guide the dashboard's visual design and brand tokens? There is no existing UI in the workspace, so this choice establishes the initial design system.",
+      "importance": "required",
+      "impact": 4,
+      "recommended": "Create a polished, neutral B2B SaaS dashboard design system",
+      "default": "Create a simple, accessible SaaS visual system if none is provided",
+      "prefilled": false,
+      "prefilled_value": null,
+      "answer": null,
+      "depends_on": null,
+      "options": [
+        {
+          "value": "Create a polished, neutral B2B SaaS dashboard design system",
+          "label": "Create a polished, neutral B2B SaaS dashboard design system (Recommended)"
+        },
+        {
+          "value": "I will provide brand colors, logo, or design tokens",
+          "label": "I will provide brand colors, logo, or design tokens"
+        },
+        {
+          "value": "Follow an existing external design system; provide its name or link",
+          "label": "Follow an existing external design system; provide its name or link"
+        }
+      ],
+      "allow_other": true,
+      "type": "single_select"
+    },
+    {
+      "id": "F5",
+      "kit": "frontend",
+      "field": "compliance.accessibility",
+      "title": "Accessibility target",
+      "question": "Which accessibility standard should the dashboard target?",
+      "importance": "recommended",
+      "impact": 3,
+      "recommended": "WCAG 2.2 AA",
+      "default": "WCAG 2.1 AA",
+      "prefilled": false,
+      "prefilled_value": null,
+      "answer": null,
+      "depends_on": null,
+      "options": [
+        {
+          "value": "WCAG 2.2 AA",
+          "label": "WCAG 2.2 AA (Recommended)"
+        },
+        {
+          "value": "WCAG 2.1 AA",
+          "label": "WCAG 2.1 AA"
+        },
+        {
+          "value": "No formal target",
+          "label": "No formal target"
+        }
+      ],
+      "allow_other": true,
+      "type": "single_select"
+    },
+    {
+      "id": "F6",
+      "kit": "frontend",
+      "field": "compatibility.browsers",
+      "title": "Browser targets",
+      "question": "Which browsers should the dashboard support?",
+      "importance": "recommended",
+      "impact": 2,
+      "recommended": "Latest two versions of Chrome, Edge, Firefox, and Safari",
+      "default": "modern evergreen browsers",
+      "prefilled": false,
+      "prefilled_value": null,
+      "answer": null,
+      "depends_on": null,
+      "options": [
+        {
+          "value": "Latest two versions of Chrome, Edge, Firefox, and Safari",
+          "label": "Latest two versions of Chrome, Edge, Firefox, and Safari (Recommended)"
+        },
+        {
+          "value": "Chrome and Edge only",
+          "label": "Chrome and Edge only"
+        },
+        {
+          "value": "Other browser targets",
+          "label": "Other browser targets; specify them"
+        }
+      ],
+      "allow_other": true,
+      "type": "single_select"
+    },
+    {
+      "id": "F7",
+      "kit": "frontend",
+      "field": "responsive.breakpoints",
+      "title": "Responsive behavior",
+      "question": "How should the dashboard adapt to desktop, tablet, and mobile screens?",
+      "importance": "recommended",
+      "impact": 3,
+      "recommended": "Responsive desktop-first SaaS dashboard with mobile support",
+      "default": "mobile-first using sensible responsive breakpoints",
+      "prefilled": false,
+      "prefilled_value": null,
+      "answer": null,
+      "depends_on": null,
+      "options": [
+        {
+          "value": "Responsive desktop-first SaaS dashboard with mobile support",
+          "label": "Responsive desktop-first SaaS dashboard with mobile support (Recommended)"
+        },
+        {
+          "value": "Mobile-first responsive layout",
+          "label": "Mobile-first responsive layout"
+        },
+        {
+          "value": "Desktop-only internal tool",
+          "label": "Desktop-only internal tool"
+        }
+      ],
+      "allow_other": true,
+      "type": "single_select"
+    },
+    {
+      "id": "F8",
+      "kit": "frontend",
+      "field": "i18n.locales",
+      "title": "Language support",
+      "question": "Which locales should the initial frontend support?",
+      "importance": "optional",
+      "impact": 1,
+      "recommended": "English only",
+      "default": "English only unless additional locales are requested",
+      "prefilled": false,
+      "prefilled_value": null,
+      "answer": null,
+      "depends_on": null,
+      "options": [
+        {
+          "value": "English only",
+          "label": "English only (Recommended for initial version)"
+        },
+        {
+          "value": "English plus additional locales",
+          "label": "English plus additional locales; list them"
+        }
+      ],
+      "allow_other": true,
+      "type": "single_select"
+    },
+    {
+      "id": "F9",
+      "kit": "frontend",
+      "field": "state_mgmt.preference",
+      "title": "Frontend data state",
+      "question": "What client-side state approach do you prefer for account data and batch-job status?",
+      "importance": "optional",
+      "impact": 2,
+      "recommended": "React component state plus a lightweight server-state/query library",
+      "default": "use the minimal framework-native approach that meets the UX needs",
+      "prefilled": false,
+      "prefilled_value": null,
+      "answer": null,
+      "depends_on": {
+        "question_id": "F1",
+        "visible_when": [
+          "React 19 with TypeScript",
+          "React 18 with TypeScript",
+          "Next.js with React and TypeScript"
+        ],
+        "options_when": null
+      },
+      "options": [
+        {
+          "value": "React component state plus a lightweight server-state/query library",
+          "label": "React component state plus a lightweight server-state/query library (Recommended)"
+        },
+        {
+          "value": "Redux Toolkit",
+          "label": "Redux Toolkit"
+        },
+        {
+          "value": "Keep dependencies minimal; use framework-native state",
+          "label": "Keep dependencies minimal; use framework-native state"
+        }
+      ],
+      "allow_other": true,
+      "type": "single_select"
+    },
+    {
+      "id": "F10",
+      "kit": "frontend",
+      "field": "routing.preference",
+      "title": "Navigation and routing",
+      "question": "How should the dashboard handle page navigation and deep links?",
+      "importance": "optional",
+      "impact": 2,
+      "recommended": "Use the selected framework's standard routing",
+      "default": "use the de-facto router for the chosen framework",
+      "prefilled": false,
+      "prefilled_value": null,
+      "answer": null,
+      "depends_on": null,
+      "options": [
+        {
+          "value": "Use the selected framework's standard routing",
+          "label": "Use the selected framework's standard routing (Recommended)"
+        },
+        {
+          "value": "Single-page dashboard with no additional routing library",
+          "label": "Single-page dashboard with no additional routing library"
+        }
+      ],
+      "allow_other": true,
+      "type": "single_select"
+    },
+    {
+      "id": "G5",
+      "kit": "generic",
+      "field": "constraints.additional",
+      "title": "Dashboard scope and data constraints",
+      "question": "What account-level fields should users enter or upload, which account actions should the UI support (for example review risk drivers, filter/sort/export results, inspect batch status), and do you have labeled historical churn data for model training/evaluation? If unsure, say so and I will recommend sensible defaults.",
+      "importance": "optional",
+      "impact": 5,
+      "recommended": null,
+      "default": "Assume fields are account ID, last login date, core-feature usage count over a defined window, and subscription tier; support individual scoring, CSV/JSON batch upload, job status/results, risk filtering and CSV export; use a transparent baseline model until labeled historical churn data is available.",
+      "prefilled": false,
+      "prefilled_value": null,
+      "answer": null,
+      "depends_on": null,
+      "type": "text",
+      "options": []
+    }
+  ]
+}

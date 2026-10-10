@@ -1,0 +1,2501 @@
+account_id,signed_up_on,plan,seats,seats_now,mrr_usd,region,industry,channel,churned_at
+A22285,2023-01-04,starter,1,1,12.5,AMER,public sector,organic,2025-05-13
+A20496,2023-01-06,starter,4,4,52.63,AMER,public sector,content,2023-05-23
+A21540,2023-01-06,team,24,27,282.33,EMEA,education,paid search,
+A22296,2023-01-07,starter,2,2,27.24,EMEA,media,outbound,2023-08-19
+A20104,2023-01-10,starter,2,2,25,EMEA,software,paid search,2023-05-01
+A20134,2023-01-11,team,20,21,198.38,APAC,healthcare,partner,2023-09-27
+A20208,2023-01-13,team,18,21,228.93,EMEA,healthcare,referral,
+A21104,2023-01-13,team,19,16,154.96,AMER,software,outbound,2023-04-28
+A20760,2023-01-14,team,14,14,151.04,APAC,public sector,content,2023-06-08
+A20174,2023-01-17,business,81,122,1050.9,EMEA,public sector,organic,
+A20329,2023-01-17,starter,4,3,41.23,AMER,software,organic,2023-03-17
+A20540,2023-01-19,starter,2,2,23.82,EMEA,public sector,content,2023-04-18
+A20126,2023-01-21,business,22,22,179.19,EMEA,healthcare,paid search,2023-04-09
+A21037,2023-01-21,starter,2,1,11.79,AMER,finance,paid search,2023-07-04
+A20039,2023-01-28,starter,1,1,11.11,AMER,software,referral,2023-03-22
+A20262,2023-01-31,starter,3,4,48.41,APAC,finance,partner,
+A20393,2023-01-31,business,96,111,1064.04,AMER,healthcare,partner,
+A21646,2023-01-31,business,119,108,979.57,APAC,software,paid search,2023-10-18
+A20548,2023-02-01,starter,2,2,26.73,EMEA,media,content,2023-11-04
+A22341,2023-02-02,starter,2,2,24.72,AMER,media,paid search,2023-05-15
+A20167,2023-02-03,team,21,18,162.54,EMEA,healthcare,content,2023-04-27
+A20308,2023-02-03,starter,4,3,38.61,AMER,software,outbound,2023-08-28
+A21014,2023-02-03,team,10,9,100.38,AMER,healthcare,referral,2023-06-02
+A20694,2023-02-04,team,12,19,212.91,AMER,software,paid search,
+A20934,2023-02-05,starter,3,3,32.44,AMER,media,paid search,2024-07-09
+A21322,2023-02-05,business,99,128,1150.12,AMER,finance,content,
+A22393,2023-02-05,starter,2,3,40.35,EMEA,finance,outbound,
+A20695,2023-02-06,starter,2,2,24.82,APAC,logistics,partner,2023-12-12
+A21601,2023-02-06,team,9,7,66.74,EMEA,software,paid search,2023-05-01
+A21841,2023-02-06,starter,1,1,13.1,EMEA,public sector,organic,2023-05-11
+A22472,2023-02-06,starter,3,3,37.59,EMEA,public sector,paid search,2023-05-12
+A21189,2023-02-07,starter,1,1,12.96,AMER,logistics,content,2023-04-16
+A20142,2023-02-08,business,27,44,419.81,EMEA,media,content,
+A20848,2023-02-09,team,15,24,226.1,EMEA,retail,referral,
+A22165,2023-02-09,team,9,9,81.32,APAC,software,organic,2023-10-18
+A21766,2023-02-10,business,98,87,842.62,AMER,public sector,content,2025-09-15
+A20318,2023-02-11,starter,4,4,52.07,AMER,media,content,2023-04-24
+A20932,2023-02-13,starter,1,1,13.71,APAC,retail,paid search,2025-06-02
+A21141,2023-02-13,business,98,102,845.63,EMEA,software,organic,2023-06-23
+A21692,2023-02-16,starter,3,3,36.59,APAC,retail,content,2023-03-23
+A22004,2023-02-17,team,6,5,48.51,EMEA,education,content,2023-08-09
+A21631,2023-02-18,team,11,15,161.91,LATAM,retail,paid search,
+A21249,2023-02-20,business,66,47,392.18,AMER,software,partner,2023-09-10
+A20148,2023-02-21,starter,4,3,38.52,AMER,logistics,content,2023-06-15
+A20449,2023-02-21,team,24,37,392.96,AMER,retail,outbound,
+A20779,2023-02-21,starter,3,3,35.56,EMEA,retail,organic,2024-02-12
+A22334,2023-02-21,starter,1,1,10.81,EMEA,retail,organic,
+A20234,2023-02-22,team,12,10,95.59,AMER,software,content,2025-02-16
+A21168,2023-02-23,business,65,94,802.28,APAC,finance,paid search,
+A20122,2023-02-24,starter,3,3,34.28,AMER,retail,paid search,2023-10-18
+A21619,2023-02-24,starter,4,5,67.99,AMER,software,paid search,
+A20551,2023-02-25,starter,1,1,11.01,EMEA,education,content,2025-06-22
+A20580,2023-02-25,starter,3,2,27.51,APAC,retail,paid search,2023-06-25
+A21703,2023-02-27,business,64,54,449.29,AMER,retail,organic,2023-06-02
+A20409,2023-03-01,starter,3,2,26.4,LATAM,media,content,2024-11-24
+A20339,2023-03-02,business,23,28,266.51,AMER,retail,organic,
+A20121,2023-03-03,business,50,52,459.48,APAC,public sector,organic,2025-08-13
+A21040,2023-03-03,starter,2,3,41.07,AMER,healthcare,organic,
+A21661,2023-03-05,starter,1,1,11.88,AMER,education,outbound,2024-09-09
+A22169,2023-03-05,team,8,8,84.22,AMER,public sector,organic,2023-12-15
+A22287,2023-03-07,team,18,21,221.97,AMER,software,referral,
+A21709,2023-03-09,enterprise,688,836,6127.28,AMER,retail,organic,
+A21963,2023-03-09,team,25,39,435.83,EMEA,logistics,organic,
+A22259,2023-03-09,team,10,15,135.52,AMER,media,paid search,
+A20860,2023-03-10,team,25,21,217.68,EMEA,retail,organic,2023-06-17
+A21854,2023-03-11,starter,4,4,52.42,AMER,retail,referral,2025-08-01
+A22301,2023-03-11,starter,1,1,11.96,APAC,healthcare,organic,2023-06-29
+A21824,2023-03-13,team,19,26,261.81,AMER,logistics,outbound,
+A20498,2023-03-14,team,13,15,165.07,LATAM,education,paid search,
+A20964,2023-03-14,starter,2,3,34.03,EMEA,public sector,partner,
+A22260,2023-03-14,starter,2,3,39.98,APAC,software,paid search,
+A21188,2023-03-15,starter,4,3,36.16,APAC,public sector,organic,2023-06-21
+A21217,2023-03-15,starter,3,2,23.67,APAC,software,content,2023-06-27
+A21299,2023-03-15,starter,2,2,24.22,EMEA,retail,content,2024-02-17
+A20785,2023-03-16,starter,1,1,13.38,EMEA,media,outbound,2024-04-08
+A22233,2023-03-16,team,5,8,80.83,EMEA,software,paid search,
+A21955,2023-03-23,starter,3,3,37.38,AMER,healthcare,organic,2023-08-17
+A20643,2023-03-25,business,96,90,786.68,EMEA,education,paid search,2025-07-19
+A20143,2023-03-26,team,12,11,114.17,APAC,public sector,referral,2023-06-21
+A21229,2023-03-26,starter,4,3,37.4,AMER,retail,partner,2024-01-13
+A21274,2023-03-27,team,7,7,71.88,APAC,education,organic,2023-08-28
+A20880,2023-03-28,starter,1,1,13.68,LATAM,finance,paid search,
+A21789,2023-03-28,team,8,8,82.34,APAC,logistics,organic,2024-10-10
+A22214,2023-03-28,starter,3,4,49.62,AMER,logistics,organic,
+A22462,2023-03-29,business,99,88,732.88,EMEA,software,referral,2023-10-05
+A20010,2023-03-30,starter,4,3,35.58,EMEA,finance,content,2023-07-17
+A22112,2023-03-30,team,14,18,179.48,APAC,software,paid search,
+A21017,2023-03-31,starter,1,1,13.64,AMER,education,outbound,2024-06-17
+A21522,2023-03-31,business,92,77,590.72,AMER,logistics,referral,2024-07-16
+A21770,2023-04-01,team,15,20,192.54,EMEA,healthcare,referral,
+A22421,2023-04-03,business,31,24,225.97,APAC,public sector,content,2024-12-18
+A21467,2023-04-04,business,82,75,629.67,AMER,retail,organic,2024-01-12
+A22288,2023-04-04,starter,3,2,23.36,APAC,education,content,2024-03-26
+A20416,2023-04-05,starter,4,3,38.91,EMEA,finance,organic,2023-07-29
+A21205,2023-04-05,starter,4,5,60.44,APAC,healthcare,organic,
+A20744,2023-04-06,starter,3,3,33,AMER,logistics,outbound,2023-08-24
+A21623,2023-04-06,starter,3,2,26.84,EMEA,healthcare,content,2024-06-20
+A22340,2023-04-08,team,11,18,170.08,EMEA,media,outbound,
+A21376,2023-04-09,team,14,13,144.49,AMER,finance,referral,2024-03-13
+A21706,2023-04-09,starter,1,1,11.5,AMER,retail,referral,2024-04-15
+A21539,2023-04-10,business,29,26,246.86,AMER,education,outbound,2025-02-26
+A20249,2023-04-11,team,11,15,160.68,EMEA,education,referral,
+A20583,2023-04-11,business,31,47,376.67,APAC,public sector,organic,
+A20888,2023-04-11,business,22,19,176.7,EMEA,healthcare,content,2025-08-15
+A22420,2023-04-11,starter,3,2,24.49,AMER,software,referral,2023-06-26
+A20302,2023-04-12,team,7,6,57.17,AMER,media,content,2025-11-14
+A20841,2023-04-14,team,15,12,114.86,AMER,education,referral,2025-01-02
+A21443,2023-04-17,starter,4,3,36.94,EMEA,public sector,content,2023-10-21
+A21335,2023-04-18,business,118,202,1711.08,AMER,healthcare,paid search,
+A21525,2023-04-18,business,58,79,752.4,AMER,finance,content,
+A21690,2023-04-18,team,9,14,156.63,AMER,software,organic,
+A21207,2023-04-19,team,5,6,67.24,EMEA,public sector,paid search,
+A20014,2023-04-20,team,7,12,120.19,EMEA,retail,referral,
+A21968,2023-04-20,team,19,14,127.75,AMER,media,partner,2023-07-21
+A20439,2023-04-21,team,18,18,181.85,EMEA,software,referral,2023-10-01
+A20140,2023-04-22,enterprise,424,513,3126.53,AMER,media,organic,
+A21504,2023-04-22,team,5,4,41.28,AMER,education,organic,2023-08-17
+A21572,2023-04-22,starter,2,2,23.69,EMEA,healthcare,paid search,2023-08-01
+A22100,2023-04-22,starter,3,3,34.6,APAC,media,content,2023-07-18
+A21080,2023-04-23,team,25,36,377.47,APAC,logistics,referral,
+A21152,2023-04-23,starter,2,2,24.57,EMEA,public sector,content,2025-10-03
+A21283,2023-04-25,starter,4,4,48.63,EMEA,retail,outbound,2023-07-21
+A20720,2023-04-26,team,6,5,46.8,EMEA,education,organic,2025-02-08
+A20304,2023-04-27,starter,1,1,10.96,AMER,finance,organic,2023-09-09
+A20341,2023-04-28,starter,4,4,44.16,AMER,media,referral,2024-04-09
+A20641,2023-04-28,business,72,105,822.92,AMER,healthcare,organic,
+A20926,2023-04-28,starter,4,3,39.96,EMEA,public sector,partner,2024-09-19
+A21695,2023-04-28,business,98,154,1331.24,APAC,public sector,paid search,
+A20826,2023-04-29,starter,4,4,43.83,AMER,retail,referral,2023-06-28
+A22117,2023-04-29,team,8,13,123.7,AMER,education,content,
+A20546,2023-04-30,team,20,31,336.14,EMEA,software,outbound,
+A22278,2023-04-30,starter,4,6,69.42,EMEA,logistics,organic,
+A20549,2023-05-01,team,10,7,69.4,AMER,education,paid search,2023-07-19
+A20119,2023-05-02,starter,2,2,25.74,AMER,logistics,organic,2023-08-19
+A21716,2023-05-03,starter,4,4,45.35,AMER,finance,paid search,2023-06-20
+A21754,2023-05-03,team,8,7,64.51,LATAM,healthcare,paid search,2023-09-07
+A22017,2023-05-03,starter,1,1,12.05,AMER,retail,paid search,2024-12-30
+A20238,2023-05-05,starter,4,5,65.02,EMEA,finance,outbound,
+A20335,2023-05-06,starter,4,4,50.97,AMER,retail,content,2023-10-28
+A20283,2023-05-08,starter,2,2,27.24,EMEA,retail,organic,2023-09-16
+A21351,2023-05-08,starter,3,3,39.15,AMER,finance,referral,2023-09-24
+A20394,2023-05-09,business,99,149,1140.13,APAC,healthcare,outbound,
+A21879,2023-05-09,team,14,12,135.05,EMEA,retail,paid search,2023-08-24
+A20074,2023-05-10,business,108,146,1386.29,AMER,education,content,
+A21508,2023-05-10,team,9,9,99.81,EMEA,public sector,paid search,2023-08-30
+A20216,2023-05-11,starter,4,4,50.08,LATAM,media,content,2023-10-24
+A20477,2023-05-11,business,90,131,1129.85,APAC,public sector,content,
+A20139,2023-05-12,business,83,140,1272.9,AMER,software,referral,
+A21620,2023-05-12,starter,3,3,36.95,APAC,education,referral,2024-12-14
+A20631,2023-05-13,business,46,66,554.83,AMER,healthcare,organic,
+A21326,2023-05-13,business,44,34,266.54,AMER,retail,content,2025-05-22
+A20771,2023-05-14,business,119,196,1517.94,EMEA,media,outbound,
+A20215,2023-05-15,business,80,130,1020.9,AMER,healthcare,referral,
+A21022,2023-05-15,business,38,59,484.86,AMER,software,outbound,
+A22264,2023-05-17,business,114,153,1437.57,EMEA,finance,content,
+A20939,2023-05-18,business,24,32,262.96,AMER,healthcare,content,
+A22496,2023-05-18,team,10,11,115.64,EMEA,media,organic,
+A20503,2023-05-19,team,8,7,63.81,EMEA,logistics,outbound,2023-06-28
+A22051,2023-05-19,business,54,67,585.68,AMER,healthcare,organic,
+A21064,2023-05-20,starter,3,2,23.38,AMER,software,outbound,2024-01-26
+A20550,2023-05-22,starter,4,3,36.11,EMEA,healthcare,organic,2023-08-23
+A21462,2023-05-22,team,20,31,310.5,AMER,software,content,
+A20656,2023-05-23,starter,1,1,11.3,APAC,education,partner,
+A21711,2023-05-23,business,97,145,1298.15,EMEA,finance,outbound,
+A20893,2023-05-25,team,13,12,128.33,LATAM,finance,referral,2023-08-19
+A21726,2023-05-25,team,21,20,228.98,EMEA,retail,organic,2025-03-17
+A22033,2023-05-25,team,12,16,149.95,EMEA,software,paid search,
+A22171,2023-05-25,enterprise,330,405,2488.9,AMER,finance,content,
+A20300,2023-05-26,business,61,44,388.57,AMER,education,paid search,2024-05-27
+A21455,2023-05-26,starter,1,1,11.71,EMEA,healthcare,paid search,2023-08-20
+A21777,2023-05-26,starter,1,2,27.51,AMER,healthcare,organic,
+A22050,2023-05-26,starter,1,1,10.87,APAC,public sector,content,2023-08-10
+A22223,2023-05-26,business,44,55,472.29,AMER,education,organic,
+A20737,2023-05-27,starter,2,3,36.12,EMEA,education,outbound,
+A21127,2023-05-27,starter,4,4,49.13,AMER,logistics,referral,2023-08-06
+A21419,2023-05-27,starter,2,2,25.47,EMEA,media,content,2025-04-27
+A20258,2023-05-28,starter,2,2,27.35,AMER,education,organic,2023-09-02
+A20674,2023-05-28,starter,3,3,34.8,AMER,logistics,content,2024-06-14
+A20889,2023-05-28,starter,4,4,52.76,AMER,healthcare,organic,2023-09-19
+A21855,2023-05-28,starter,2,2,24.01,AMER,finance,content,2024-06-28
+A20749,2023-05-30,team,6,5,55.51,LATAM,media,organic,2024-08-13
+A22013,2023-05-31,starter,3,5,68.53,APAC,software,outbound,
+A21815,2023-06-01,starter,4,4,55.02,APAC,finance,organic,2025-05-04
+A20615,2023-06-02,team,25,24,234.39,APAC,public sector,partner,2024-06-25
+A21272,2023-06-02,business,41,46,396.53,AMER,healthcare,outbound,
+A21896,2023-06-02,enterprise,725,951,6588.21,APAC,media,paid search,
+A20696,2023-06-04,enterprise,697,1089,6819.15,EMEA,public sector,paid search,
+A20790,2023-06-05,starter,3,2,22.46,APAC,logistics,referral,2023-10-31
+A21439,2023-06-05,starter,2,2,26.78,EMEA,logistics,outbound,2023-07-24
+A21722,2023-06-06,starter,3,3,37.49,EMEA,media,organic,2023-09-14
+A20209,2023-06-07,starter,2,2,27.28,AMER,healthcare,organic,2023-12-22
+A21015,2023-06-07,team,13,22,249.42,AMER,finance,content,
+A21742,2023-06-08,business,117,105,1012.6,LATAM,software,referral,2025-05-18
+A22242,2023-06-08,business,103,168,1572.97,EMEA,education,paid search,
+A21793,2023-06-09,starter,4,4,45.98,EMEA,software,organic,2024-01-07
+A20778,2023-06-10,starter,3,2,22.47,LATAM,software,referral,2023-08-11
+A20782,2023-06-10,business,40,35,301.83,AMER,media,outbound,2024-06-09
+A21919,2023-06-10,business,98,125,1087.69,EMEA,software,content,
+A21920,2023-06-10,starter,4,4,55.15,APAC,healthcare,paid search,2023-10-18
+A21420,2023-06-11,enterprise,335,387,2366.87,APAC,public sector,referral,
+A20883,2023-06-13,starter,1,1,11.84,EMEA,public sector,referral,2023-08-21
+A22129,2023-06-13,enterprise,505,748,4783.52,AMER,finance,partner,
+A22190,2023-06-13,starter,2,3,39.31,AMER,education,paid search,
+A20884,2023-06-15,starter,4,3,38.97,EMEA,education,content,2024-04-04
+A21816,2023-06-16,starter,4,4,52.48,APAC,finance,paid search,2025-03-28
+A21538,2023-06-17,business,31,28,253.45,AMER,logistics,partner,2023-12-24
+A20659,2023-06-18,business,38,57,552.16,EMEA,public sector,partner,
+A21355,2023-06-18,starter,1,1,12.51,EMEA,retail,organic,2023-11-09
+A22252,2023-06-19,starter,1,1,11.57,AMER,software,organic,2024-03-08
+A21343,2023-06-20,team,16,15,149.45,EMEA,logistics,content,2025-02-07
+A22070,2023-06-20,starter,1,1,12.14,EMEA,software,referral,
+A20598,2023-06-22,starter,4,4,51.73,LATAM,logistics,paid search,2024-12-09
+A22432,2023-06-22,starter,4,3,33.86,APAC,finance,referral,2024-01-28
+A22053,2023-06-23,starter,3,3,39.77,AMER,retail,organic,2024-05-23
+A20488,2023-06-24,team,10,12,123.19,EMEA,education,partner,
+A20723,2023-06-24,business,46,60,575.65,EMEA,software,content,
+A21593,2023-06-25,starter,2,3,35.29,EMEA,finance,outbound,
+A21908,2023-06-25,business,22,18,152.14,AMER,logistics,content,2024-06-06
+A20204,2023-06-26,starter,3,3,38.51,EMEA,healthcare,content,2023-09-26
+A21494,2023-06-26,starter,4,3,34.31,AMER,education,partner,2025-04-21
+A21747,2023-06-26,business,40,48,397.81,AMER,software,content,
+A21983,2023-06-26,starter,1,1,11.52,AMER,media,content,2023-10-21
+A20908,2023-06-28,starter,2,2,23.14,AMER,public sector,outbound,2024-03-02
+A21259,2023-06-28,business,108,109,901.04,EMEA,retail,organic,2023-08-20
+A21893,2023-06-28,team,17,21,222.99,AMER,software,content,
+A21406,2023-06-29,team,23,21,192.39,LATAM,retail,content,2024-02-15
+A21448,2023-06-29,enterprise,459,699,4271.16,APAC,healthcare,organic,
+A20017,2023-06-30,starter,4,4,51.1,APAC,public sector,paid search,2024-02-15
+A21570,2023-06-30,starter,1,1,11.1,LATAM,media,content,2023-12-29
+A20976,2023-07-01,team,10,8,89.68,AMER,public sector,paid search,2023-08-02
+A21254,2023-07-01,team,5,7,80.05,EMEA,software,referral,
+A21755,2023-07-01,team,18,18,190.56,EMEA,healthcare,organic,2023-09-10
+A20088,2023-07-02,team,11,10,107.85,EMEA,software,organic,2024-06-22
+A20727,2023-07-02,team,18,25,271.29,AMER,logistics,referral,
+A21320,2023-07-02,enterprise,659,523,3516.21,AMER,healthcare,organic,2023-10-14
+A21333,2023-07-02,business,60,76,593.09,AMER,logistics,paid search,
+A20600,2023-07-03,starter,1,1,13.12,AMER,education,content,2023-12-08
+A21861,2023-07-03,starter,3,3,36.33,AMER,media,outbound,2023-12-05
+A20086,2023-07-04,starter,4,3,35.36,APAC,retail,referral,2024-01-13
+A21511,2023-07-04,starter,1,1,12.18,AMER,education,outbound,2023-12-07
+A20755,2023-07-05,team,11,17,189.56,AMER,retail,paid search,
+A21649,2023-07-05,starter,2,2,24.12,EMEA,logistics,content,2024-06-01
+A20190,2023-07-07,starter,3,2,24.12,AMER,finance,referral,2023-09-24
+A20705,2023-07-07,starter,1,2,22.19,AMER,retail,paid search,
+A20353,2023-07-08,team,6,8,81.65,EMEA,software,referral,
+A20542,2023-07-09,starter,1,1,10.81,AMER,finance,referral,2025-12-11
+A21970,2023-07-09,team,7,11,119.23,APAC,logistics,partner,
+A21270,2023-07-10,starter,3,2,21.75,AMER,public sector,outbound,2025-01-24
+A20743,2023-07-11,team,12,9,89.31,AMER,media,paid search,2024-07-20
+A21362,2023-07-11,team,6,6,66.27,AMER,healthcare,content,2023-09-26
+A21691,2023-07-11,team,5,4,45.55,APAC,retail,content,2024-01-26
+A21567,2023-07-12,business,100,115,1089.26,AMER,finance,organic,
+A20363,2023-07-13,starter,1,1,12.05,AMER,retail,partner,2025-06-09
+A20505,2023-07-13,starter,3,3,35.21,AMER,healthcare,outbound,2024-09-25
+A22145,2023-07-13,business,75,85,656.34,APAC,software,outbound,
+A20453,2023-07-14,enterprise,533,379,2583.81,EMEA,retail,organic,2025-12-01
+A21510,2023-07-14,team,23,26,252.72,AMER,software,partner,
+A20068,2023-07-16,starter,1,1,13.48,AMER,finance,paid search,2023-10-17
+A21584,2023-07-16,starter,1,1,13.63,EMEA,education,outbound,
+A20149,2023-07-17,team,15,18,168.79,AMER,finance,referral,
+A21502,2023-07-17,team,5,7,70.49,EMEA,media,content,
+A22019,2023-07-17,team,14,12,131.13,AMER,education,paid search,2024-03-04
+A20900,2023-07-18,team,23,24,261.57,APAC,retail,outbound,2025-08-16
+A21876,2023-07-18,starter,3,2,23.76,AMER,media,content,2023-10-03
+A22111,2023-07-18,team,25,41,428.82,AMER,education,paid search,
+A20195,2023-07-19,enterprise,505,690,5026.85,APAC,healthcare,organic,
+A22032,2023-07-19,team,18,22,222.35,EMEA,healthcare,outbound,
+A21005,2023-07-20,business,113,142,1280.43,AMER,logistics,organic,
+A22063,2023-07-20,starter,2,1,12.75,AMER,retail,referral,2024-11-17
+A20206,2023-07-22,team,24,20,195.23,AMER,retail,paid search,2025-08-09
+A22289,2023-07-22,starter,4,4,51.06,EMEA,healthcare,partner,2024-05-15
+A20237,2023-07-23,starter,1,1,11.42,APAC,finance,organic,2023-10-16
+A20443,2023-07-23,starter,1,1,11.37,APAC,logistics,referral,
+A20571,2023-07-24,starter,2,3,40.64,AMER,public sector,paid search,
+A20933,2023-07-24,team,20,33,347.88,AMER,healthcare,referral,
+A21713,2023-07-25,starter,1,1,11.2,EMEA,public sector,referral,2023-12-12
+A21817,2023-07-26,team,17,14,157.52,AMER,public sector,outbound,2025-02-21
+A21887,2023-07-26,team,8,12,136.87,APAC,healthcare,referral,
+A20777,2023-07-29,business,115,191,1808.05,EMEA,public sector,organic,
+A21537,2023-07-29,team,8,6,61.61,AMER,retail,partner,2023-12-21
+A20186,2023-07-30,enterprise,718,825,5219.11,APAC,education,partner,
+A20555,2023-07-30,starter,4,3,33.5,AMER,education,referral,2023-12-04
+A20986,2023-07-30,starter,2,2,27.22,EMEA,software,organic,2023-12-21
+A21327,2023-07-31,team,12,11,106.4,LATAM,healthcare,content,2023-09-18
+A21400,2023-07-31,starter,4,5,67.06,AMER,retail,outbound,
+A22486,2023-08-01,team,17,23,233.06,EMEA,logistics,paid search,
+A20135,2023-08-02,starter,1,1,11.45,AMER,logistics,organic,2024-05-15
+A21546,2023-08-02,starter,2,2,27.44,AMER,retail,partner,2023-12-20
+A21551,2023-08-02,starter,3,3,38.52,AMER,retail,paid search,2023-09-21
+A22029,2023-08-02,team,20,15,167.63,EMEA,media,partner,2024-12-25
+A22333,2023-08-02,business,53,50,436.26,AMER,healthcare,content,2025-09-23
+A22471,2023-08-02,business,67,56,545.19,EMEA,logistics,organic,2025-09-15
+A20336,2023-08-03,starter,2,2,26.29,AMER,education,content,
+A21407,2023-08-03,team,25,25,225.25,APAC,healthcare,paid search,2025-04-12
+A20697,2023-08-04,team,15,14,134.6,AMER,healthcare,outbound,2023-11-11
+A21670,2023-08-04,starter,3,5,54.41,LATAM,software,content,
+A21978,2023-08-04,team,9,9,90.39,AMER,retail,organic,2023-12-26
+A21278,2023-08-06,business,47,58,498,AMER,education,content,
+A20401,2023-08-07,starter,2,2,26.87,AMER,software,outbound,2025-06-11
+A21480,2023-08-08,starter,2,2,22.3,EMEA,software,content,2025-12-23
+A21787,2023-08-08,starter,3,3,32.44,AMER,software,content,2024-06-04
+A21354,2023-08-09,team,7,6,57.24,AMER,finance,paid search,2023-10-15
+A21644,2023-08-09,team,6,8,88.63,AMER,education,referral,
+A20840,2023-08-10,team,19,17,169.99,EMEA,public sector,referral,2024-09-16
+A22473,2023-08-10,team,25,41,406.15,AMER,retail,paid search,
+A22429,2023-08-11,team,13,11,117.79,APAC,finance,partner,2023-10-11
+A20096,2023-08-12,starter,4,3,32.82,AMER,public sector,organic,2024-02-24
+A20310,2023-08-12,team,11,16,170.16,EMEA,healthcare,partner,
+A20314,2023-08-12,team,6,6,64.57,APAC,software,organic,2025-06-12
+A20572,2023-08-12,business,29,28,243.05,EMEA,media,organic,2024-08-11
+A21563,2023-08-13,team,16,16,175.83,AMER,education,paid search,2025-10-16
+A22085,2023-08-13,starter,1,1,12.34,APAC,healthcare,outbound,2024-01-10
+A20446,2023-08-14,starter,1,1,11.44,APAC,public sector,content,2023-11-05
+A21423,2023-08-14,starter,2,3,33.01,AMER,software,organic,
+A20917,2023-08-15,business,110,158,1394.26,AMER,software,paid search,
+A20432,2023-08-17,team,19,15,141.13,AMER,software,partner,2025-07-17
+A21639,2023-08-17,starter,3,2,24.89,AMER,media,outbound,2023-12-12
+A22044,2023-08-17,business,23,23,198.97,AMER,healthcare,outbound,2024-04-24
+A20222,2023-08-18,team,13,17,156.69,AMER,media,organic,
+A21180,2023-08-18,business,47,39,298.55,EMEA,finance,organic,2023-11-06
+A21175,2023-08-19,starter,2,2,22.47,APAC,finance,outbound,2023-11-03
+A22354,2023-08-20,team,14,12,127.73,EMEA,logistics,referral,2024-02-11
+A22445,2023-08-20,enterprise,454,387,2279.09,AMER,healthcare,referral,2024-01-21
+A21602,2023-08-21,team,14,20,206.84,AMER,healthcare,organic,
+A21673,2023-08-21,team,24,38,351.34,APAC,logistics,outbound,
+A20609,2023-08-22,starter,2,2,25.56,AMER,logistics,content,2023-10-31
+A21006,2023-08-22,team,18,27,283.21,EMEA,software,referral,
+A21381,2023-08-22,starter,4,4,53.16,AMER,education,organic,2023-11-15
+A20642,2023-08-24,starter,2,3,32.66,EMEA,public sector,paid search,
+A21554,2023-08-24,starter,3,4,45.83,EMEA,retail,organic,
+A22300,2023-08-25,team,18,22,201.28,EMEA,finance,organic,
+A22441,2023-08-25,team,22,28,319.23,APAC,finance,organic,
+A20227,2023-08-26,starter,2,1,13.36,EMEA,software,content,2023-12-01
+A20715,2023-08-26,team,24,24,239.24,AMER,media,paid search,2023-09-30
+A21544,2023-08-27,starter,3,3,41.06,EMEA,healthcare,referral,2023-12-28
+A21604,2023-08-27,starter,1,1,11.07,AMER,media,organic,2025-11-09
+A22187,2023-08-27,team,15,17,174.12,APAC,logistics,referral,
+A20874,2023-08-28,starter,1,1,11.72,AMER,public sector,content,2023-10-31
+A20240,2023-08-29,starter,4,3,39.58,AMER,logistics,organic,2024-07-09
+A22439,2023-08-29,team,10,8,78.62,AMER,finance,referral,2024-01-04
+A22178,2023-08-30,starter,4,6,74.6,EMEA,media,outbound,
+A21875,2023-08-31,starter,2,2,24.49,APAC,retail,paid search,2025-12-29
+A22059,2023-08-31,starter,2,2,23.74,AMER,education,content,2024-03-24
+A22310,2023-08-31,starter,4,4,51.22,APAC,healthcare,partner,2024-02-23
+A21865,2023-09-01,team,17,14,153.67,AMER,retail,referral,2025-05-13
+A21416,2023-09-03,starter,2,2,24.18,EMEA,healthcare,referral,2024-01-15
+A21235,2023-09-04,team,17,16,168.76,APAC,media,content,2023-11-03
+A20730,2023-09-05,team,8,13,122.9,AMER,education,partner,
+A20560,2023-09-06,team,18,22,245.07,AMER,retail,content,
+A21599,2023-09-06,team,24,30,304.21,APAC,software,organic,
+A21763,2023-09-07,starter,1,1,11.28,AMER,media,organic,2024-03-25
+A20357,2023-09-08,team,8,8,87.45,APAC,retail,outbound,2024-10-29
+A20881,2023-09-08,starter,3,3,33.04,EMEA,software,content,2024-01-03
+A21803,2023-09-08,starter,2,2,27.13,AMER,media,organic,2024-10-06
+A20965,2023-09-09,business,90,109,992.95,AMER,retail,content,
+A21199,2023-09-11,starter,2,3,39.91,AMER,finance,referral,
+A21891,2023-09-11,starter,3,5,65.37,LATAM,logistics,content,
+A21895,2023-09-11,team,12,11,121.15,AMER,healthcare,content,2024-07-28
+A20724,2023-09-12,business,38,50,485.15,LATAM,healthcare,partner,
+A20794,2023-09-12,starter,2,2,22.16,LATAM,software,outbound,2025-03-10
+A22265,2023-09-12,starter,2,3,38.75,AMER,healthcare,content,
+A20276,2023-09-13,enterprise,684,760,4736.03,AMER,healthcare,referral,
+A21078,2023-09-13,business,62,79,622.24,AMER,retail,partner,
+A21396,2023-09-13,team,14,19,199.1,EMEA,healthcare,referral,
+A21028,2023-09-14,starter,1,1,13.54,AMER,public sector,content,2023-12-28
+A21345,2023-09-14,starter,4,3,39.33,LATAM,healthcare,organic,2024-08-19
+A21253,2023-09-15,starter,2,2,26.24,APAC,retail,paid search,2024-12-07
+A21135,2023-09-16,starter,4,6,68.08,AMER,retail,paid search,
+A21568,2023-09-16,starter,1,1,10.84,AMER,education,content,2024-04-28
+A22025,2023-09-17,team,23,21,240.93,AMER,education,partner,2024-02-21
+A21009,2023-09-18,business,68,59,533.38,EMEA,finance,outbound,2024-06-25
+A21630,2023-09-18,starter,2,1,11.28,EMEA,healthcare,partner,2023-12-23
+A22206,2023-09-18,team,14,22,204.48,AMER,logistics,partner,
+A21050,2023-09-19,business,37,36,325.82,EMEA,education,outbound,2025-12-30
+A20350,2023-09-20,team,5,7,68.75,AMER,media,outbound,
+A20732,2023-09-21,starter,4,3,39.94,LATAM,media,outbound,2023-12-19
+A20944,2023-09-21,starter,2,3,34.15,AMER,public sector,partner,
+A21555,2023-09-21,team,12,18,189.52,APAC,public sector,paid search,
+A22140,2023-09-21,team,10,8,77.77,EMEA,logistics,outbound,2024-02-13
+A21468,2023-09-22,team,16,18,199.72,EMEA,media,outbound,
+A22183,2023-09-22,starter,3,2,22.34,AMER,software,content,2024-03-28
+A22192,2023-09-22,team,9,13,129.79,AMER,media,paid search,
+A20775,2023-09-24,starter,4,4,45.47,AMER,healthcare,partner,2024-10-15
+A20935,2023-09-24,team,18,18,183.23,APAC,media,content,2024-04-23
+A21371,2023-09-24,team,20,29,267.99,AMER,healthcare,referral,
+A21814,2023-09-24,starter,2,2,21.91,LATAM,retail,outbound,2024-05-12
+A22292,2023-09-24,team,19,23,263.53,EMEA,retail,referral,
+A20093,2023-09-25,starter,3,2,22.61,APAC,healthcare,paid search,2024-02-05
+A21228,2023-09-25,business,93,154,1443.81,AMER,logistics,organic,
+A21852,2023-09-25,starter,2,2,25.34,APAC,software,organic,2023-12-29
+A21236,2023-09-26,starter,4,3,34.53,AMER,education,content,2024-07-18
+A20828,2023-09-27,starter,1,2,22.57,AMER,logistics,organic,
+A21118,2023-09-27,team,23,35,347.19,AMER,education,referral,
+A20685,2023-09-29,starter,4,5,57.46,EMEA,retail,referral,
+A20689,2023-09-29,starter,4,3,33.32,AMER,healthcare,paid search,2025-11-25
+A20750,2023-09-29,team,13,20,187.84,EMEA,retail,organic,
+A20894,2023-09-29,starter,3,2,26.1,EMEA,finance,outbound,2024-03-11
+A20212,2023-09-30,team,17,26,237.21,AMER,retail,organic,
+A20269,2023-09-30,starter,1,1,13.25,AMER,healthcare,referral,
+A21160,2023-09-30,starter,2,2,25.49,AMER,public sector,organic,2023-12-21
+A21238,2023-09-30,starter,4,4,43.65,AMER,retail,organic,2024-03-31
+A20026,2023-10-02,team,20,20,227.24,EMEA,finance,organic,2024-02-18
+A20248,2023-10-02,team,22,23,255.92,EMEA,logistics,referral,2025-06-09
+A20788,2023-10-02,starter,4,3,36.02,EMEA,finance,organic,2025-04-09
+A20382,2023-10-03,starter,2,2,26.43,LATAM,public sector,referral,2024-03-03
+A22170,2023-10-03,team,22,21,233.64,APAC,public sector,organic,2024-02-04
+A21807,2023-10-04,starter,1,1,13.38,EMEA,media,content,2024-01-27
+A21977,2023-10-04,team,12,14,157.99,APAC,retail,content,
+A22052,2023-10-04,starter,1,1,13.62,AMER,retail,organic,2024-01-16
+A22493,2023-10-04,business,27,36,340.1,AMER,public sector,paid search,
+A22372,2023-10-05,team,22,32,359.6,EMEA,public sector,content,
+A22446,2023-10-05,business,69,114,953.37,APAC,software,outbound,
+A20892,2023-10-06,starter,1,1,11.66,AMER,healthcare,content,2025-12-20
+A21866,2023-10-06,starter,1,2,27.27,APAC,software,organic,
+A20851,2023-10-07,starter,3,3,40.77,EMEA,media,content,2024-02-25
+A22464,2023-10-07,team,20,16,165.28,APAC,software,outbound,2023-12-04
+A20373,2023-10-08,starter,3,3,39.57,EMEA,public sector,content,2024-02-13
+A22011,2023-10-09,business,102,81,760.39,EMEA,education,organic,2024-02-28
+A22047,2023-10-09,business,33,37,342.52,AMER,healthcare,outbound,
+A21298,2023-10-10,team,21,36,333.68,AMER,healthcare,organic,
+A21513,2023-10-10,business,116,173,1654.02,LATAM,finance,organic,
+A21821,2023-10-10,business,59,95,746.94,AMER,retail,referral,
+A20870,2023-10-11,enterprise,107,150,1107.19,AMER,software,paid search,
+A22381,2023-10-12,team,7,9,91.55,AMER,finance,outbound,
+A20835,2023-10-13,business,63,98,855.32,EMEA,software,organic,
+A21778,2023-10-13,starter,1,1,11.04,AMER,finance,content,2023-12-23
+A20027,2023-10-14,enterprise,564,629,4229.74,EMEA,public sector,paid search,
+A20746,2023-10-14,starter,4,7,77.14,EMEA,healthcare,organic,
+A21071,2023-10-14,starter,4,3,36.94,EMEA,public sector,organic,2024-02-22
+A20669,2023-10-15,team,17,21,225.65,EMEA,software,organic,
+A21905,2023-10-15,starter,4,6,81.79,EMEA,finance,outbound,
+A20800,2023-10-16,starter,4,3,34.01,AMER,logistics,paid search,2024-04-03
+A21096,2023-10-16,starter,4,6,65.54,EMEA,finance,referral,
+A21640,2023-10-16,starter,1,1,11.12,EMEA,logistics,organic,2024-09-11
+A21643,2023-10-17,team,7,6,61.33,AMER,finance,paid search,2024-02-06
+A20471,2023-10-18,business,81,112,890.88,APAC,retail,partner,
+A21246,2023-10-18,starter,4,4,46.97,AMER,education,organic,2024-03-07
+A21658,2023-10-18,team,17,15,167.13,EMEA,media,organic,2024-08-09
+A22443,2023-10-18,starter,3,2,24.36,APAC,media,referral,2024-01-27
+A20980,2023-10-19,starter,1,2,23.64,APAC,media,organic,
+A21361,2023-10-19,business,65,49,439.48,APAC,software,organic,2024-06-23
+A21556,2023-10-19,business,21,28,271.94,EMEA,logistics,outbound,
+A21988,2023-10-20,team,15,22,237.19,APAC,healthcare,partner,
+A20707,2023-10-21,team,21,24,245.52,EMEA,finance,paid search,
+A20877,2023-10-21,business,56,44,413.26,AMER,media,paid search,2024-01-18
+A21077,2023-10-21,enterprise,367,561,3723.33,EMEA,finance,partner,
+A22096,2023-10-21,business,37,58,448.81,AMER,software,partner,
+A20590,2023-10-22,starter,1,1,11.91,AMER,software,paid search,2024-04-12
+A21020,2023-10-22,starter,2,2,27.15,AMER,education,organic,2023-12-16
+A21220,2023-10-22,starter,3,3,36.04,AMER,logistics,partner,2024-02-10
+A20557,2023-10-23,business,37,63,614.68,EMEA,education,paid search,
+A20614,2023-10-24,starter,4,4,52.02,APAC,finance,organic,2024-11-18
+A20925,2023-10-25,starter,1,1,13.58,APAC,public sector,organic,2024-02-05
+A20545,2023-10-26,starter,4,4,49.03,AMER,media,organic,2024-04-24
+A21012,2023-10-26,starter,4,4,52.14,AMER,software,partner,2024-01-02
+A21839,2023-10-26,business,30,48,373.39,APAC,retail,referral,
+A22148,2023-10-26,business,82,121,960.58,LATAM,healthcare,paid search,
+A21144,2023-10-27,team,23,27,293.57,EMEA,education,referral,
+A20160,2023-10-29,starter,1,1,12.29,AMER,finance,outbound,2023-12-04
+A20011,2023-10-30,starter,2,2,26.26,LATAM,logistics,outbound,2024-02-06
+A21610,2023-10-30,starter,3,3,37.06,AMER,finance,organic,
+A20660,2023-10-31,starter,1,1,12.8,AMER,healthcare,content,2024-04-20
+A20059,2023-11-01,business,56,76,718.29,AMER,logistics,organic,
+A21268,2023-11-01,starter,2,2,25.12,APAC,finance,organic,2024-05-12
+A20356,2023-11-02,team,10,10,102.24,EMEA,healthcare,paid search,2024-06-01
+A22066,2023-11-02,starter,1,1,11.12,AMER,healthcare,outbound,2024-01-11
+A20602,2023-11-03,business,76,68,536.02,EMEA,retail,referral,2024-08-20
+A20479,2023-11-04,team,12,17,188.52,EMEA,logistics,partner,
+A20158,2023-11-05,starter,4,3,39.85,EMEA,public sector,paid search,2024-03-10
+A20217,2023-11-05,enterprise,395,520,3556.93,EMEA,healthcare,outbound,
+A21823,2023-11-05,team,13,19,200.1,EMEA,retail,organic,
+A22414,2023-11-05,business,35,36,289.03,AMER,public sector,content,2024-11-14
+A20169,2023-11-06,starter,3,2,23.81,APAC,retail,organic,2024-10-14
+A20620,2023-11-06,enterprise,825,1202,8465.72,LATAM,finance,organic,
+A20952,2023-11-06,team,25,35,355.74,EMEA,retail,organic,
+A22377,2023-11-06,starter,4,5,54.39,AMER,healthcare,organic,
+A22121,2023-11-07,team,10,9,103.35,AMER,finance,partner,2024-12-16
+A22241,2023-11-08,starter,1,1,11.28,AMER,media,referral,
+A20773,2023-11-09,team,13,16,163.77,EMEA,software,outbound,
+A21753,2023-11-09,team,23,18,197.72,EMEA,healthcare,referral,2024-02-23
+A20286,2023-11-10,starter,4,3,37.22,APAC,healthcare,referral,2024-04-23
+A21331,2023-11-10,starter,2,2,22.69,AMER,public sector,referral,2026-01-18
+A21404,2023-11-10,team,23,17,176.94,EMEA,media,partner,2024-06-07
+A21487,2023-11-10,team,21,15,170.9,EMEA,retail,paid search,2025-06-20
+A21076,2023-11-11,team,25,20,196,APAC,public sector,outbound,2024-07-04
+A21329,2023-11-11,team,25,30,294.77,EMEA,finance,outbound,
+A21933,2023-11-11,team,7,6,68.32,EMEA,logistics,paid search,2025-05-25
+A20048,2023-11-12,business,29,42,322.19,LATAM,public sector,paid search,
+A21500,2023-11-12,team,21,16,179.83,AMER,software,organic,2024-04-25
+A22366,2023-11-12,business,110,100,976.21,AMER,public sector,paid search,2024-04-08
+A20015,2023-11-13,starter,3,3,41.4,AMER,software,partner,2024-04-08
+A20784,2023-11-13,starter,3,3,40.15,AMER,finance,paid search,2024-02-12
+A21029,2023-11-13,starter,2,2,23.26,AMER,retail,organic,2025-10-09
+A21153,2023-11-13,team,5,4,36.98,AMER,retail,referral,2024-03-13
+A21907,2023-11-13,starter,2,3,36.12,EMEA,education,paid search,
+A20682,2023-11-14,starter,3,3,37,AMER,media,organic,2025-12-19
+A20728,2023-11-14,team,17,14,131.96,AMER,healthcare,outbound,2024-09-03
+A22074,2023-11-14,starter,1,1,12.71,APAC,education,paid search,
+A20673,2023-11-15,team,10,8,87.58,EMEA,education,paid search,2025-06-03
+A21503,2023-11-15,starter,4,4,47.05,LATAM,finance,organic,2024-11-06
+A21935,2023-11-17,starter,2,2,23.04,LATAM,logistics,paid search,2024-02-23
+A20494,2023-11-18,team,15,20,180.7,APAC,software,content,
+A21819,2023-11-18,team,13,12,109.97,EMEA,finance,organic,2024-09-22
+A21873,2023-11-19,team,10,8,78.51,AMER,public sector,referral,2024-04-27
+A22261,2023-11-19,starter,3,5,67.11,AMER,education,organic,
+A21162,2023-11-20,team,20,15,143.46,AMER,media,partner,2024-05-06
+A20937,2023-11-21,business,107,144,1238.18,AMER,public sector,partner,
+A20124,2023-11-22,team,24,23,227.13,AMER,public sector,outbound,2024-07-04
+A20152,2023-11-22,starter,1,1,12.4,AMER,media,partner,2024-11-17
+A20568,2023-11-23,team,14,22,217.14,AMER,retail,organic,
+A21156,2023-11-23,starter,1,1,11.56,EMEA,retail,organic,
+A21323,2023-11-23,enterprise,719,1204,8766.26,EMEA,public sector,partner,
+A22249,2023-11-23,team,23,21,213.36,AMER,retail,content,2024-05-26
+A20243,2023-11-24,enterprise,816,1207,7712.72,EMEA,software,content,
+A21264,2023-11-24,starter,2,2,22.54,AMER,software,referral,2024-02-23
+A22258,2023-11-24,business,101,94,751,EMEA,finance,organic,2024-06-25
+A20078,2023-11-25,team,6,5,56.73,EMEA,finance,organic,2024-12-20
+A20447,2023-11-25,enterprise,557,475,3219.03,AMER,education,paid search,2025-07-25
+A21176,2023-11-25,business,49,78,667.37,AMER,public sector,content,
+A20265,2023-11-26,starter,1,1,11.2,AMER,retail,organic,2025-01-05
+A21403,2023-11-26,business,81,97,889.29,AMER,retail,partner,
+A21662,2023-11-26,starter,1,1,11.49,AMER,public sector,content,
+A22041,2023-11-26,team,22,35,388.14,EMEA,media,organic,
+A20410,2023-11-28,team,5,7,79.63,AMER,public sector,outbound,
+A20982,2023-11-28,starter,1,1,11.88,APAC,media,paid search,2025-03-21
+A21026,2023-11-28,starter,2,2,26.12,APAC,media,paid search,2024-08-14
+A20060,2023-11-29,starter,4,3,36.63,LATAM,software,partner,2024-06-19
+A21257,2023-11-29,team,23,20,225.14,EMEA,finance,organic,2025-06-04
+A20205,2023-11-30,starter,1,1,12.55,APAC,finance,organic,2024-02-17
+A22457,2023-11-30,team,15,18,201.07,EMEA,software,organic,
+A22465,2023-11-30,business,43,40,388.79,AMER,finance,content,2025-08-18
+A20941,2023-12-01,starter,1,1,10.85,APAC,logistics,referral,2024-05-04
+A21782,2023-12-01,team,23,30,326.9,APAC,software,paid search,
+A21987,2023-12-01,starter,3,2,27.23,EMEA,education,paid search,2024-02-08
+A20663,2023-12-02,starter,4,4,54.45,EMEA,software,referral,2024-11-16
+A21043,2023-12-02,starter,2,2,24.27,AMER,media,content,2025-05-20
+A21093,2023-12-02,team,17,14,136.98,EMEA,media,paid search,2024-10-30
+A20405,2023-12-03,business,64,93,776.7,EMEA,software,organic,
+A22492,2023-12-03,team,25,42,438.89,AMER,finance,referral,
+A20354,2023-12-04,starter,2,3,34.43,AMER,software,content,
+A20984,2023-12-04,enterprise,825,937,5915.05,AMER,finance,organic,
+A21867,2023-12-04,team,20,19,184.94,AMER,education,organic,2024-07-26
+A20668,2023-12-05,team,15,17,173.71,APAC,healthcare,referral,
+A22003,2023-12-05,business,43,35,271.62,EMEA,media,paid search,2025-07-19
+A20610,2023-12-06,starter,4,4,43.32,LATAM,software,organic,2024-03-28
+A21939,2023-12-06,business,58,65,578.48,APAC,finance,referral,
+A21024,2023-12-07,business,70,112,865.73,AMER,healthcare,outbound,
+A20807,2023-12-08,team,22,16,168.09,AMER,logistics,outbound,2024-04-24
+A22224,2023-12-08,business,55,73,609.99,AMER,retail,outbound,
+A22235,2023-12-09,business,55,42,362.05,EMEA,retail,partner,2024-09-03
+A20664,2023-12-10,team,6,8,88.1,APAC,public sector,organic,
+A20791,2023-12-10,team,25,23,218.49,AMER,retail,organic,2024-04-19
+A20458,2023-12-11,starter,3,3,36.65,AMER,software,organic,2024-07-05
+A22424,2023-12-11,enterprise,227,309,1853.46,APAC,finance,organic,
+A21967,2023-12-12,team,5,4,44.26,LATAM,software,organic,2024-02-14
+A21682,2023-12-14,starter,3,3,35.9,APAC,logistics,paid search,2024-12-02
+A21454,2023-12-15,enterprise,485,785,5259.88,AMER,finance,paid search,
+A22382,2023-12-15,business,68,55,499.75,AMER,healthcare,referral,2025-09-27
+A21239,2023-12-16,business,71,69,669.06,AMER,logistics,paid search,2024-03-16
+A20581,2023-12-17,starter,3,2,22.37,EMEA,finance,referral,2024-07-08
+A21552,2023-12-17,team,7,9,90.76,AMER,logistics,content,
+A21458,2023-12-19,starter,1,1,13.35,APAC,logistics,paid search,2024-03-08
+A20825,2023-12-20,team,20,31,343.65,APAC,public sector,outbound,
+A22062,2023-12-20,team,11,13,139.55,EMEA,public sector,referral,
+A21523,2023-12-21,team,11,18,187.22,AMER,logistics,partner,
+A20291,2023-12-22,starter,4,6,81.11,AMER,retail,outbound,
+A20330,2023-12-22,business,34,57,508.48,LATAM,media,organic,
+A21289,2023-12-22,starter,4,3,39.92,AMER,finance,referral,2025-05-22
+A20127,2023-12-23,team,5,6,68.91,AMER,logistics,referral,
+A20025,2023-12-24,starter,4,6,78.35,AMER,retail,organic,
+A21164,2023-12-24,starter,2,2,23.52,APAC,public sector,partner,2024-11-17
+A21519,2023-12-24,business,60,45,361.3,AMER,logistics,organic,2025-01-30
+A20823,2023-12-25,business,41,64,568.6,AMER,finance,outbound,
+A21490,2023-12-25,team,17,21,206.96,AMER,logistics,outbound,
+A20918,2023-12-26,team,9,11,122.51,EMEA,media,partner,
+A21041,2023-12-26,business,72,56,463.68,AMER,healthcare,referral,2025-02-28
+A21084,2023-12-26,starter,3,3,34.21,EMEA,finance,referral,
+A21018,2023-12-27,starter,2,2,24.57,LATAM,healthcare,organic,2024-03-12
+A22158,2023-12-27,enterprise,637,783,4624.94,APAC,retail,paid search,
+A20460,2023-12-28,business,45,67,541.4,EMEA,healthcare,outbound,
+A20578,2023-12-28,team,19,30,328.69,AMER,software,partner,
+A20652,2023-12-28,business,61,101,776.64,LATAM,healthcare,paid search,
+A20910,2023-12-28,starter,1,1,13.6,AMER,public sector,outbound,2024-11-13
+A21301,2023-12-28,starter,2,2,22.42,AMER,software,organic,
+A22151,2023-12-28,enterprise,623,772,5064.48,EMEA,public sector,paid search,
+A20080,2023-12-29,team,22,35,362.72,EMEA,software,outbound,
+A20943,2023-12-29,business,41,33,267.44,APAC,education,paid search,2025-01-09
+A20634,2023-12-30,business,90,128,1217.4,APAC,logistics,partner,
+A21447,2023-12-30,business,38,46,376.31,AMER,finance,partner,
+A22416,2023-12-30,starter,3,3,33.92,EMEA,finance,referral,2025-02-24
+A21150,2023-12-31,team,16,27,266.77,EMEA,software,paid search,
+A21182,2023-12-31,business,36,38,296.08,AMER,software,partner,2024-09-22
+A22309,2023-12-31,team,18,15,135.55,APAC,media,referral,2025-02-18
+A22405,2023-12-31,business,96,142,1134.32,AMER,retail,paid search,
+A22435,2024-01-01,starter,2,2,22.54,EMEA,healthcare,paid search,2024-04-01
+A20355,2024-01-02,starter,2,2,25.07,EMEA,media,partner,
+A20176,2024-01-04,team,25,24,221.33,EMEA,logistics,paid search,2024-04-10
+A21027,2024-01-04,business,40,34,304.08,AMER,finance,organic,2024-11-03
+A21813,2024-01-04,starter,3,4,44.28,APAC,public sector,referral,
+A22222,2024-01-04,team,9,15,155.69,EMEA,media,content,
+A20250,2024-01-05,team,19,22,199.99,AMER,media,organic,
+A20948,2024-01-06,business,73,84,793.74,APAC,media,outbound,
+A20575,2024-01-07,starter,2,2,26.65,EMEA,public sector,content,2024-02-12
+A21105,2024-01-07,team,18,14,157.54,EMEA,media,referral,2025-05-18
+A21595,2024-01-07,team,17,17,191.34,AMER,public sector,organic,2024-04-04
+A20150,2024-01-08,team,20,18,192.19,AMER,media,partner,2024-09-12
+A22449,2024-01-08,business,80,101,797.02,LATAM,finance,partner,
+A20562,2024-01-09,team,19,31,324.77,APAC,finance,content,
+A20895,2024-01-09,team,6,10,100.86,EMEA,public sector,referral,
+A21688,2024-01-09,starter,3,3,38.22,AMER,media,outbound,2024-08-01
+A21121,2024-01-10,team,15,24,265.95,AMER,software,outbound,
+A21745,2024-01-10,team,25,18,177.63,AMER,software,paid search,2024-04-09
+A22243,2024-01-10,team,23,36,382.8,LATAM,healthcare,organic,
+A22397,2024-01-10,team,10,8,91.37,LATAM,education,organic,2025-06-16
+A22412,2024-01-10,business,96,127,1051.65,APAC,public sector,paid search,
+A20116,2024-01-11,business,112,90,751.36,APAC,retail,organic,2024-07-25
+A20375,2024-01-11,team,16,21,238.07,EMEA,finance,organic,
+A20510,2024-01-11,team,22,36,329.35,EMEA,retail,partner,
+A21485,2024-01-11,team,5,8,73.83,LATAM,logistics,content,
+A21450,2024-01-12,starter,2,1,12.49,APAC,media,organic,2024-02-16
+A20162,2024-01-13,starter,1,1,12.94,EMEA,finance,organic,2024-02-14
+A20820,2024-01-13,team,6,5,52.79,EMEA,finance,organic,2025-09-14
+A22138,2024-01-13,starter,1,1,13.77,EMEA,retail,content,
+A20714,2024-01-14,team,9,14,142.54,EMEA,media,referral,
+A21155,2024-01-15,team,25,26,292.48,EMEA,media,content,2024-12-09
+A21325,2024-01-15,team,25,22,236.27,EMEA,healthcare,content,2024-07-28
+A21385,2024-01-15,starter,3,4,48.55,AMER,software,organic,
+A21960,2024-01-15,team,11,14,160.74,APAC,media,partner,
+A22007,2024-01-15,team,8,7,73.09,APAC,software,outbound,2024-03-24
+A20467,2024-01-16,team,24,20,191.67,EMEA,healthcare,outbound,2024-10-12
+A21247,2024-01-16,starter,2,2,21.88,AMER,education,content,2024-11-08
+A21215,2024-01-17,starter,3,2,23.21,EMEA,healthcare,content,2024-08-17
+A22015,2024-01-17,starter,2,2,25.56,EMEA,software,partner,2024-06-01
+A22056,2024-01-17,team,14,15,164.79,EMEA,education,organic,
+A22271,2024-01-17,business,43,71,546.4,AMER,healthcare,referral,
+A22403,2024-01-17,starter,4,3,33.33,AMER,logistics,outbound,2024-03-28
+A22087,2024-01-19,starter,1,1,11.83,AMER,logistics,partner,2024-07-24
+A20294,2024-01-20,starter,4,4,53.38,AMER,education,referral,2024-05-31
+A20499,2024-01-20,starter,3,3,34.46,EMEA,public sector,content,2024-12-18
+A20806,2024-01-20,starter,4,3,38.68,APAC,logistics,outbound,2024-03-26
+A21415,2024-01-20,team,25,40,376.04,APAC,retail,paid search,
+A22092,2024-01-20,starter,2,2,23.97,EMEA,media,content,2024-05-31
+A22270,2024-01-20,starter,1,1,12.37,AMER,finance,organic,2024-04-23
+A20721,2024-01-21,starter,1,1,13.03,APAC,software,outbound,2024-05-16
+A21065,2024-01-21,starter,4,3,39.28,AMER,finance,referral,2025-04-28
+A22327,2024-01-21,team,13,12,113.36,APAC,media,outbound,2024-04-18
+A22336,2024-01-21,starter,3,4,53.49,LATAM,public sector,paid search,
+A21360,2024-01-22,starter,2,2,21.88,AMER,public sector,content,2024-03-22
+A20702,2024-01-23,team,14,10,103.4,AMER,public sector,paid search,2024-12-27
+A21132,2024-01-23,team,25,19,212.26,AMER,education,organic,2024-04-26
+A21219,2024-01-23,enterprise,333,407,2595.78,AMER,retail,partner,
+A21428,2024-01-23,team,25,19,173.15,AMER,software,organic,2024-11-21
+A21729,2024-01-23,business,100,143,1370.28,AMER,retail,outbound,
+A20561,2024-01-24,team,19,18,195.93,AMER,software,paid search,2024-06-28
+A22008,2024-01-24,starter,1,1,13.64,AMER,healthcare,organic,2024-08-05
+A22027,2024-01-24,starter,3,3,35.22,AMER,public sector,paid search,2024-04-11
+A20156,2024-01-26,team,12,18,182.02,LATAM,healthcare,referral,
+A20433,2024-01-26,starter,2,1,12.53,AMER,education,paid search,2024-06-21
+A21067,2024-01-26,team,7,9,91.68,AMER,logistics,content,
+A21405,2024-01-26,starter,3,2,26.57,APAC,media,organic,2024-04-08
+A21705,2024-01-26,starter,1,1,13.14,AMER,logistics,organic,2024-07-27
+A22411,2024-01-26,team,22,24,218.24,EMEA,retail,organic,
+A20037,2024-01-27,team,21,24,245.54,EMEA,retail,content,
+A20340,2024-01-27,enterprise,317,491,3580.83,APAC,healthcare,paid search,
+A20344,2024-01-27,team,10,8,87.85,AMER,software,organic,2024-05-25
+A20420,2024-01-27,starter,2,2,23.3,AMER,software,paid search,2024-07-30
+A22237,2024-01-27,starter,2,2,23.71,AMER,software,outbound,2024-04-12
+A22391,2024-01-27,starter,3,5,66.29,AMER,healthcare,organic,
+A20266,2024-01-28,starter,1,1,11.37,AMER,public sector,organic,2024-05-20
+A20133,2024-01-29,enterprise,718,593,3755.2,AMER,software,partner,2024-08-14
+A20454,2024-01-29,starter,3,3,34.73,LATAM,finance,organic,
+A21553,2024-01-30,starter,4,4,49.17,EMEA,retail,organic,2024-11-05
+A21878,2024-01-30,team,16,22,221.55,AMER,retail,organic,
+A22123,2024-01-30,business,103,156,1482.92,EMEA,healthcare,organic,
+A22413,2024-01-30,business,25,36,328.21,EMEA,retail,content,
+A20050,2024-01-31,starter,4,4,51.94,AMER,finance,referral,2025-04-28
+A20115,2024-01-31,starter,2,2,23.57,AMER,public sector,content,2024-03-03
+A20141,2024-01-31,starter,4,3,40.56,EMEA,media,content,2024-05-05
+A20144,2024-01-31,business,72,70,662.45,AMER,software,organic,2024-05-12
+A21514,2024-01-31,team,9,8,88.85,AMER,logistics,partner,2024-10-05
+A21284,2024-02-01,team,16,20,187.69,APAC,education,content,
+A20132,2024-02-02,business,101,84,706.81,AMER,software,organic,2025-12-25
+A20424,2024-02-02,starter,1,1,10.81,AMER,software,paid search,2024-03-21
+A21435,2024-02-02,starter,1,1,12.6,AMER,logistics,content,
+A20097,2024-02-04,starter,4,7,77.71,LATAM,healthcare,content,
+A21203,2024-02-04,starter,4,6,69.68,AMER,education,outbound,
+A21547,2024-02-04,starter,2,2,27.47,AMER,media,outbound,2024-06-18
+A21629,2024-02-04,business,78,88,710.52,AMER,logistics,paid search,
+A21442,2024-02-05,enterprise,504,807,5640.36,EMEA,retail,referral,
+A21097,2024-02-06,business,104,105,1025.58,AMER,media,outbound,2024-04-25
+A20172,2024-02-07,starter,4,4,47.55,AMER,public sector,outbound,2024-06-08
+A20218,2024-02-07,team,20,14,154.07,EMEA,media,outbound,2024-12-13
+A21476,2024-02-07,business,45,72,602.97,APAC,public sector,organic,
+A22463,2024-02-07,enterprise,437,615,4348.45,EMEA,finance,referral,
+A20672,2024-02-08,enterprise,713,1006,7037.37,EMEA,logistics,paid search,
+A21410,2024-02-08,team,25,20,180.65,AMER,media,paid search,2024-08-05
+A20495,2024-02-09,starter,1,1,13.57,APAC,healthcare,partner,2024-05-03
+A21613,2024-02-09,starter,3,4,46.09,AMER,finance,paid search,
+A22274,2024-02-09,team,21,30,291.27,LATAM,logistics,referral,
+A20311,2024-02-10,team,16,27,252.92,AMER,retail,referral,
+A22353,2024-02-10,team,11,10,103.43,APAC,education,content,2024-07-27
+A21628,2024-02-11,team,19,16,156.14,EMEA,media,content,2025-12-17
+A21515,2024-02-12,starter,1,1,11.73,AMER,healthcare,paid search,2024-06-17
+A21686,2024-02-12,enterprise,355,557,3484.93,EMEA,healthcare,organic,
+A21710,2024-02-12,team,20,19,182.62,EMEA,healthcare,content,2024-05-29
+A22499,2024-02-12,starter,4,5,64.88,EMEA,public sector,paid search,
+A20761,2024-02-13,business,106,131,1277.28,AMER,education,organic,
+A22272,2024-02-14,business,22,29,247.1,EMEA,public sector,referral,
+A20511,2024-02-15,enterprise,586,731,4578.41,EMEA,media,partner,
+A21195,2024-02-15,starter,2,2,22.95,APAC,healthcare,partner,2024-06-25
+A21739,2024-02-15,starter,4,3,40.26,EMEA,public sector,partner,2024-06-27
+A22451,2024-02-15,enterprise,476,751,5359.27,AMER,logistics,organic,
+A21044,2024-02-17,starter,1,1,13.57,AMER,media,paid search,2024-06-11
+A20051,2024-02-18,starter,2,2,22.8,APAC,public sector,organic,2025-05-03
+A20486,2024-02-18,starter,1,2,22.38,AMER,education,organic,
+A22426,2024-02-18,team,15,20,221.52,APAC,finance,referral,
+A21804,2024-02-19,business,24,33,273.08,EMEA,media,organic,
+A21932,2024-02-19,starter,1,1,13.49,EMEA,logistics,outbound,2025-10-01
+A22197,2024-02-21,team,22,21,194.41,EMEA,education,organic,2024-05-29
+A20623,2024-02-22,enterprise,794,1244,7988.81,EMEA,software,partner,
+A20838,2024-02-22,enterprise,256,422,2796.42,EMEA,retail,partner,
+A22191,2024-02-22,starter,4,3,35.83,AMER,education,paid search,2025-01-01
+A20483,2024-02-23,starter,3,2,25.75,EMEA,finance,partner,2024-05-31
+A20621,2024-02-23,starter,1,1,11.48,APAC,logistics,content,
+A20885,2024-02-23,starter,4,5,68.48,LATAM,logistics,referral,
+A21625,2024-02-23,starter,4,3,40.63,EMEA,healthcare,partner,2024-05-30
+A21409,2024-02-24,starter,4,3,35.63,EMEA,education,content,2024-05-18
+A20903,2024-02-25,starter,1,1,12.3,APAC,healthcare,organic,2025-09-12
+A21341,2024-02-26,team,11,15,167.12,AMER,healthcare,paid search,
+A20619,2024-02-27,business,65,102,995.16,LATAM,healthcare,content,
+A21953,2024-02-27,team,17,15,160.59,AMER,education,paid search,2025-08-11
+A22483,2024-02-27,starter,2,2,22.02,LATAM,education,content,
+A21727,2024-02-28,business,112,139,1306.2,AMER,retail,outbound,
+A21759,2024-02-28,team,15,11,114.61,AMER,finance,paid search,2024-05-27
+A22276,2024-02-28,business,87,81,737.84,LATAM,software,referral,2025-03-21
+A21074,2024-02-29,team,19,19,196.96,EMEA,software,paid search,2024-05-20
+A21201,2024-02-29,starter,1,1,11.14,EMEA,retail,content,
+A22325,2024-02-29,team,14,20,188.23,APAC,retail,content,
+A21947,2024-03-01,business,58,76,583.25,APAC,healthcare,referral,
+A22031,2024-03-01,enterprise,662,1019,7081.64,EMEA,logistics,paid search,
+A20245,2024-03-02,team,15,13,118.25,AMER,software,organic,2025-10-01
+A20857,2024-03-02,starter,3,3,36.58,APAC,education,partner,2024-11-24
+A20763,2024-03-03,starter,4,3,33.13,AMER,media,organic,2024-04-05
+A21302,2024-03-03,business,69,55,464.9,AMER,media,paid search,2024-07-28
+A22054,2024-03-03,business,101,144,1280.49,AMER,media,organic,
+A21708,2024-03-04,starter,3,4,50.16,APAC,healthcare,paid search,
+A22281,2024-03-04,enterprise,552,633,4636.57,AMER,healthcare,outbound,
+A20347,2024-03-05,team,6,7,75.37,APAC,logistics,outbound,
+A22387,2024-03-05,team,23,30,327.78,APAC,public sector,paid search,
+A20898,2024-03-06,starter,2,2,23.79,AMER,software,content,2025-01-18
+A20971,2024-03-06,team,13,17,155.33,APAC,finance,outbound,
+A21001,2024-03-06,starter,3,3,38.88,APAC,software,referral,2025-07-16
+A21262,2024-03-06,team,5,4,36.15,LATAM,healthcare,paid search,2024-06-02
+A20612,2024-03-07,starter,1,1,11.72,EMEA,healthcare,organic,
+A21962,2024-03-08,starter,3,4,54.37,AMER,logistics,organic,
+A20538,2024-03-09,team,12,16,159.07,LATAM,software,content,
+A20187,2024-03-10,team,10,16,148.38,EMEA,logistics,paid search,
+A20975,2024-03-10,team,23,33,307.02,AMER,education,partner,
+A21588,2024-03-10,starter,4,4,46.67,EMEA,retail,outbound,2025-04-08
+A20038,2024-03-12,team,8,6,66.3,AMER,media,content,2024-05-28
+A20370,2024-03-12,business,53,76,595.72,AMER,public sector,organic,
+A20519,2024-03-12,business,95,138,1234.08,EMEA,software,content,
+A20603,2024-03-12,team,9,7,78.84,AMER,logistics,content,2024-07-12
+A20666,2024-03-12,team,7,10,110.24,AMER,healthcare,outbound,
+A20803,2024-03-12,business,22,32,279.16,AMER,healthcare,content,
+A22001,2024-03-12,starter,4,4,53.01,AMER,logistics,paid search,2024-11-26
+A22185,2024-03-13,team,7,9,94.31,AMER,media,organic,
+A20539,2024-03-14,team,10,8,79.94,AMER,media,organic,2025-04-12
+A22370,2024-03-14,starter,1,1,13.71,EMEA,healthcare,referral,2024-08-08
+A20185,2024-03-15,starter,4,4,52.29,AMER,logistics,organic,2024-09-30
+A20559,2024-03-15,team,11,15,140.48,AMER,public sector,partner,
+A21190,2024-03-15,starter,4,4,43.6,LATAM,media,organic,2024-07-02
+A22068,2024-03-15,enterprise,222,295,1775.17,APAC,software,organic,
+A20280,2024-03-16,team,19,26,281.7,EMEA,public sector,organic,
+A20297,2024-03-17,starter,3,3,37.36,AMER,software,paid search,2024-07-19
+A20896,2024-03-17,starter,3,2,23.51,EMEA,retail,organic,2024-08-06
+A20753,2024-03-18,team,9,8,83.54,AMER,healthcare,partner,2024-05-04
+A20544,2024-03-19,business,39,40,363.2,AMER,healthcare,outbound,2024-07-14
+A22442,2024-03-19,business,61,80,763.08,AMER,logistics,content,
+A20117,2024-03-20,business,86,70,605.95,AMER,healthcare,organic,2024-06-05
+A20517,2024-03-20,starter,2,3,39.56,AMER,finance,referral,
+A20655,2024-03-20,business,63,98,800.54,LATAM,education,organic,
+A21092,2024-03-21,starter,2,1,11.04,APAC,media,content,2024-09-17
+A21226,2024-03-21,starter,2,3,35.66,AMER,finance,organic,
+A20052,2024-03-22,starter,1,1,12.48,AMER,media,referral,2025-05-30
+A20632,2024-03-22,starter,1,1,12.19,EMEA,logistics,content,2024-09-22
+A20922,2024-03-22,team,24,26,253.33,EMEA,finance,organic,
+A21245,2024-03-22,starter,4,3,37.78,AMER,logistics,referral,2025-05-20
+A22207,2024-03-24,starter,4,3,41.01,APAC,public sector,paid search,2024-07-02
+A22312,2024-03-24,enterprise,390,464,2945.78,AMER,finance,partner,
+A22326,2024-03-24,starter,3,3,35.46,AMER,logistics,referral,2024-05-24
+A20916,2024-03-25,starter,1,1,10.82,AMER,logistics,outbound,2024-04-29
+A20924,2024-03-25,team,23,21,201.77,AMER,education,outbound,2024-06-11
+A22476,2024-03-25,team,24,22,232.75,AMER,retail,outbound,2024-11-21
+A20618,2024-03-26,team,18,25,280.7,AMER,education,referral,
+A21700,2024-03-26,starter,2,2,22.47,AMER,healthcare,content,
+A21943,2024-03-26,starter,1,1,12.53,AMER,public sector,partner,2024-07-20
+A20257,2024-03-27,starter,2,2,26.18,APAC,media,organic,2024-08-05
+A20630,2024-03-27,team,17,19,199.06,EMEA,retail,partner,
+A21120,2024-03-27,starter,3,3,33.22,APAC,education,outbound,2024-06-11
+A20214,2024-03-28,starter,2,2,27.39,EMEA,healthcare,paid search,2024-09-16
+A21837,2024-03-28,team,10,12,117.85,AMER,education,content,
+A22035,2024-03-28,team,19,18,162.06,LATAM,retail,partner,2024-07-09
+A21348,2024-03-29,business,59,83,699.04,AMER,finance,organic,
+A20047,2024-03-30,starter,2,1,13,AMER,finance,referral,2024-07-09
+A20146,2024-03-30,starter,3,3,37.65,APAC,education,content,2024-07-18
+A20022,2024-03-31,starter,1,2,26.99,EMEA,finance,paid search,
+A20968,2024-03-31,starter,3,4,54.15,EMEA,logistics,outbound,
+A21038,2024-03-31,team,14,13,145.81,APAC,software,organic,2024-09-03
+A20333,2024-04-01,team,24,27,247.97,EMEA,education,paid search,
+A21079,2024-04-01,starter,2,2,24.61,EMEA,media,content,2024-06-08
+A20315,2024-04-02,starter,4,6,66.46,AMER,healthcare,content,
+A20824,2024-04-02,starter,4,3,40.4,AMER,finance,referral,2025-07-25
+A21142,2024-04-02,starter,1,1,13.09,EMEA,education,paid search,
+A21635,2024-04-02,team,15,11,106.94,EMEA,logistics,paid search,2024-07-21
+A21836,2024-04-02,team,12,17,194.02,EMEA,logistics,organic,
+A20797,2024-04-03,team,25,24,247.67,AMER,logistics,outbound,2024-11-07
+A21276,2024-04-03,business,58,94,883.07,EMEA,software,paid search,
+A20950,2024-04-04,team,9,10,96.55,AMER,software,referral,
+A20489,2024-04-05,business,118,167,1586.88,APAC,media,organic,
+A20740,2024-04-05,business,112,96,827.84,EMEA,education,referral,2024-08-29
+A21496,2024-04-05,starter,3,3,40.72,EMEA,healthcare,organic,2025-10-28
+A21864,2024-04-05,business,43,40,388.34,AMER,media,paid search,2025-08-03
+A22433,2024-04-05,enterprise,178,258,1902.34,AMER,public sector,content,
+A20089,2024-04-06,team,16,12,128.31,AMER,education,referral,2024-08-06
+A20112,2024-04-06,team,8,13,123.62,EMEA,media,content,
+A20931,2024-04-06,team,8,11,109.18,AMER,public sector,partner,
+A20056,2024-04-07,starter,2,2,23.01,APAC,media,outbound,2024-07-24
+A20946,2024-04-07,starter,2,2,24.24,AMER,software,organic,
+A22363,2024-04-07,team,25,34,387.47,AMER,software,organic,
+A22365,2024-04-07,team,8,7,78.12,AMER,logistics,content,2024-05-19
+A21618,2024-04-08,starter,2,2,25.16,AMER,finance,paid search,2024-06-13
+A21964,2024-04-08,team,7,7,76.26,EMEA,public sector,content,2024-07-23
+A22189,2024-04-08,starter,3,4,50.74,AMER,software,organic,
+A20224,2024-04-09,team,22,18,198.6,AMER,public sector,paid search,2025-12-31
+A20999,2024-04-09,business,97,132,1156.17,AMER,logistics,organic,
+A21904,2024-04-09,team,23,18,198.08,EMEA,education,content,2024-06-25
+A22256,2024-04-09,team,20,19,183.27,APAC,logistics,referral,2025-04-12
+A21802,2024-04-10,team,23,20,217.56,AMER,media,organic,2024-10-07
+A21921,2024-04-10,starter,3,2,22.71,AMER,logistics,paid search,2024-11-07
+A20400,2024-04-11,starter,3,2,21.76,APAC,public sector,organic,2025-09-18
+A20570,2024-04-12,team,17,20,186.75,APAC,healthcare,referral,
+A21707,2024-04-12,starter,4,4,54.04,EMEA,education,outbound,2024-09-08
+A21677,2024-04-13,team,5,7,76.15,EMEA,healthcare,organic,
+A21913,2024-04-13,starter,3,2,27.45,AMER,logistics,partner,2024-06-28
+A22389,2024-04-13,team,16,15,144.71,APAC,healthcare,partner,2025-02-02
+A22437,2024-04-13,team,21,20,228.41,AMER,retail,referral,2024-06-29
+A20058,2024-04-15,team,18,26,276.34,EMEA,education,referral,
+A22459,2024-04-15,starter,1,1,10.92,EMEA,retail,partner,2024-11-17
+A20020,2024-04-16,team,14,13,148.83,AMER,finance,organic,2024-08-18
+A21488,2024-04-16,starter,3,4,44.06,LATAM,logistics,content,
+A21785,2024-04-17,team,24,29,308.81,LATAM,public sector,referral,
+A20188,2024-04-18,starter,3,3,35.17,APAC,media,referral,2025-04-10
+A20475,2024-04-18,team,8,10,105.13,EMEA,media,content,
+A21772,2024-04-19,starter,4,3,38.46,AMER,education,organic,2025-09-27
+A20751,2024-04-20,team,21,22,211.39,APAC,education,paid search,2025-04-25
+A21911,2024-04-20,starter,1,1,13.02,AMER,healthcare,content,2024-11-27
+A22144,2024-04-20,starter,4,6,65.98,EMEA,public sector,paid search,
+A21660,2024-04-21,starter,1,1,13.56,AMER,healthcare,organic,2024-12-09
+A21457,2024-04-22,enterprise,583,747,5001.55,AMER,media,paid search,
+A22406,2024-04-22,business,106,159,1355.84,EMEA,retail,organic,
+A21000,2024-04-23,starter,1,1,12.09,APAC,public sector,organic,2025-12-09
+A20625,2024-04-24,business,26,29,282.62,AMER,education,partner,
+A20451,2024-04-25,starter,3,2,26.12,AMER,software,referral,2024-08-26
+A21826,2024-04-25,enterprise,532,446,2732.2,EMEA,software,organic,2024-06-24
+A22232,2024-04-25,team,9,12,134.92,APAC,healthcare,paid search,
+A22380,2024-04-25,enterprise,875,1385,8383.43,EMEA,media,content,
+A21736,2024-04-26,starter,3,2,23.28,AMER,media,referral,2024-09-14
+A22103,2024-04-27,team,17,14,142.1,LATAM,public sector,content,2025-10-21
+A22113,2024-04-27,starter,1,1,12.12,LATAM,education,referral,2025-03-14
+A20676,2024-04-28,business,89,114,949.05,AMER,healthcare,organic,
+A20849,2024-04-29,business,41,66,642.56,LATAM,finance,content,
+A22225,2024-04-29,starter,4,3,35.44,LATAM,retail,referral,2025-04-14
+A20601,2024-04-30,team,5,4,45.59,AMER,healthcare,referral,2025-01-27
+A21364,2024-04-30,starter,3,3,32.78,AMER,logistics,partner,2025-02-17
+A20406,2024-05-02,starter,4,4,54.92,EMEA,education,referral,2024-06-28
+A20412,2024-05-02,team,23,27,305.06,AMER,education,paid search,
+A21369,2024-05-02,team,8,11,103.59,AMER,retail,partner,
+A21750,2024-05-02,starter,4,3,35.28,EMEA,public sector,content,2024-10-03
+A21845,2024-05-02,starter,3,4,53.35,EMEA,media,paid search,
+A20166,2024-05-03,business,48,41,358.38,AMER,retail,partner,2024-08-12
+A20448,2024-05-03,team,12,9,84.13,AMER,education,organic,2025-04-08
+A20754,2024-05-03,business,27,37,347.54,AMER,software,outbound,
+A21858,2024-05-03,team,9,14,140.19,AMER,public sector,paid search,
+A22091,2024-05-03,team,24,25,285.69,APAC,retail,paid search,2024-08-03
+A20042,2024-05-05,team,14,19,200.77,AMER,retail,referral,
+A21689,2024-05-05,starter,3,2,25.82,EMEA,healthcare,referral,2024-09-19
+A20161,2024-05-06,team,21,20,185.46,AMER,public sector,paid search,2024-07-20
+A20259,2024-05-06,business,79,66,566.58,AMER,retail,outbound,2024-08-31
+A22159,2024-05-07,starter,3,3,33.03,APAC,logistics,partner,2024-08-31
+A22161,2024-05-08,business,117,84,722.56,AMER,education,organic,2024-11-07
+A20043,2024-05-10,team,9,8,73.73,AMER,healthcare,partner,2024-12-31
+A22450,2024-05-10,starter,1,1,12.55,AMER,public sector,outbound,2025-07-31
+A20287,2024-05-11,starter,1,1,12.66,AMER,education,content,2024-09-05
+A21089,2024-05-11,starter,3,2,24.48,AMER,media,outbound,2024-08-22
+A22160,2024-05-11,starter,4,3,34.74,APAC,healthcare,organic,2025-02-17
+A20007,2024-05-12,starter,4,3,35.34,AMER,software,referral,2024-08-05
+A22311,2024-05-12,starter,4,3,37.03,EMEA,public sector,paid search,2025-07-03
+A21880,2024-05-13,team,7,9,94.64,AMER,healthcare,content,
+A21069,2024-05-15,enterprise,856,1137,7637.24,EMEA,healthcare,partner,
+A21526,2024-05-15,business,51,58,443.85,AMER,healthcare,outbound,
+A22042,2024-05-15,business,24,31,289.51,AMER,finance,organic,
+A22277,2024-05-15,business,20,25,210.4,AMER,public sector,partner,
+A20232,2024-05-16,starter,4,4,50.52,EMEA,logistics,content,2024-10-24
+A20804,2024-05-16,team,20,31,326.07,EMEA,healthcare,paid search,
+A21666,2024-05-16,team,17,22,205.17,EMEA,retail,paid search,
+A21731,2024-05-16,business,22,28,233.4,APAC,media,partner,
+A20013,2024-05-17,enterprise,865,952,6941.61,AMER,education,content,
+A20292,2024-05-17,business,67,100,767.58,APAC,public sector,referral,
+A20808,2024-05-17,business,81,60,494.89,EMEA,finance,organic,2024-08-10
+A21743,2024-05-17,starter,2,3,35.15,LATAM,education,partner,
+A21949,2024-05-17,team,18,18,164.19,AMER,software,organic,2024-09-05
+A21652,2024-05-18,team,23,21,235.15,LATAM,public sector,outbound,2024-12-20
+A22229,2024-05-18,team,25,34,349.51,APAC,software,organic,
+A20316,2024-05-19,starter,2,3,40.86,APAC,logistics,organic,
+A20459,2024-05-19,team,13,19,189.16,AMER,media,paid search,
+A20662,2024-05-19,starter,3,3,35.8,AMER,media,partner,2025-04-15
+A21589,2024-05-19,business,25,24,212.93,EMEA,logistics,organic,2024-07-31
+A22126,2024-05-19,starter,2,2,24.89,EMEA,media,paid search,2024-07-27
+A20285,2024-05-20,team,13,15,136.97,AMER,software,referral,
+A20552,2024-05-20,team,18,15,164.07,EMEA,retail,outbound,2024-08-13
+A21353,2024-05-20,starter,2,2,23.69,EMEA,public sector,referral,2024-11-11
+A21675,2024-05-20,team,13,10,114.5,EMEA,healthcare,organic,2024-09-24
+A20901,2024-05-22,starter,4,3,33.62,AMER,public sector,organic,2025-01-13
+A20163,2024-05-23,team,15,18,166.52,LATAM,education,content,
+A21374,2024-05-23,starter,2,1,11.72,EMEA,public sector,organic,2025-04-23
+A20105,2024-05-24,business,43,62,580.61,AMER,software,content,
+A21535,2024-05-24,team,23,23,231.52,EMEA,finance,referral,2024-09-03
+A22078,2024-05-24,team,21,29,328.27,LATAM,finance,paid search,
+A20337,2024-05-25,starter,4,6,73.01,AMER,software,organic,
+A20921,2024-05-25,starter,1,1,13.23,LATAM,retail,content,
+A22245,2024-05-25,starter,3,3,34.03,AMER,software,referral,2024-08-22
+A22407,2024-05-25,team,10,9,100.3,AMER,finance,outbound,2024-12-30
+A21579,2024-05-26,business,111,164,1581.76,AMER,retail,organic,
+A20698,2024-05-28,starter,2,2,27.38,APAC,finance,organic,2024-08-21
+A22283,2024-05-28,starter,2,2,23.35,EMEA,finance,paid search,2025-03-13
+A21095,2024-05-29,starter,4,5,64.45,AMER,education,organic,
+A22384,2024-05-29,starter,1,1,12.33,LATAM,software,content,2024-08-01
+A21049,2024-05-30,starter,3,3,39.22,AMER,education,content,
+A21734,2024-05-30,business,113,142,1203.54,APAC,healthcare,paid search,
+A21122,2024-05-31,team,11,11,105.2,EMEA,public sector,partner,2024-12-23
+A21290,2024-05-31,starter,2,2,23.95,LATAM,finance,referral,2025-09-22
+A20325,2024-06-01,starter,2,3,34.14,APAC,media,organic,
+A21218,2024-06-01,enterprise,234,284,2038.17,AMER,education,content,
+A21795,2024-06-01,starter,3,2,23.14,APAC,finance,outbound,2025-08-23
+A22152,2024-06-01,starter,1,1,12.97,AMER,healthcare,organic,2025-01-11
+A22086,2024-06-02,starter,3,3,40.69,AMER,public sector,organic,2026-01-14
+A20358,2024-06-03,enterprise,546,659,4631.79,AMER,healthcare,paid search,
+A20371,2024-06-03,starter,1,1,13.12,APAC,finance,content,2025-07-08
+A21315,2024-06-03,business,27,35,296.36,AMER,retail,organic,
+A21930,2024-06-03,enterprise,388,424,2616.23,AMER,public sector,content,
+A20837,2024-06-04,business,72,72,638.34,EMEA,finance,paid search,2025-05-28
+A20853,2024-06-05,business,23,22,206.92,AMER,healthcare,paid search,2024-09-14
+A21116,2024-06-05,starter,1,1,12.41,AMER,education,paid search,2024-09-18
+A21558,2024-06-05,starter,4,5,66.8,EMEA,public sector,organic,
+A21100,2024-06-06,starter,2,2,23.26,EMEA,finance,partner,2024-08-28
+A20684,2024-06-07,team,22,19,210,EMEA,education,referral,2024-11-10
+A20977,2024-06-07,team,6,8,86.35,AMER,retail,organic,
+A22043,2024-06-07,team,19,14,155.95,APAC,media,organic,2024-08-20
+A22210,2024-06-07,team,13,11,107.71,AMER,media,outbound,2025-10-28
+A22308,2024-06-07,team,21,24,273.95,EMEA,media,organic,
+A20994,2024-06-08,starter,1,1,12.82,AMER,public sector,partner,2024-12-06
+A21862,2024-06-08,starter,3,3,38.45,AMER,software,organic,2024-12-03
+A20613,2024-06-09,starter,2,2,27.42,AMER,finance,content,2024-10-16
+A21761,2024-06-09,business,47,56,456.47,APAC,software,outbound,
+A20246,2024-06-10,business,20,24,231.52,EMEA,retail,paid search,
+A20987,2024-06-10,starter,3,3,33.52,AMER,public sector,organic,2024-09-09
+A21225,2024-06-11,starter,1,1,13.18,EMEA,retail,partner,2025-01-04
+A21398,2024-06-11,team,8,8,79.15,AMER,media,organic,2024-08-29
+A21612,2024-06-11,team,25,31,291.71,APAC,healthcare,organic,
+A21959,2024-06-11,starter,3,3,38.48,AMER,finance,paid search,2024-08-19
+A20255,2024-06-12,business,89,106,911.92,AMER,education,paid search,
+A21216,2024-06-12,starter,3,3,36.62,APAC,education,referral,2024-10-29
+A20272,2024-06-13,team,9,7,72.69,EMEA,retail,organic,2024-11-20
+A20403,2024-06-13,starter,4,3,37.89,APAC,logistics,partner,2025-02-26
+A22115,2024-06-13,business,43,49,434.83,EMEA,healthcare,content,
+A22358,2024-06-13,starter,2,2,26.48,EMEA,education,paid search,2025-06-30
+A21384,2024-06-14,starter,4,4,46.48,EMEA,healthcare,outbound,2025-04-07
+A22228,2024-06-14,team,21,18,178.41,AMER,finance,referral,2024-10-28
+A20461,2024-06-15,starter,4,3,35.71,AMER,media,referral,2024-09-17
+A20036,2024-06-16,team,9,12,108.47,APAC,retail,paid search,
+A20395,2024-06-16,team,11,8,81.72,AMER,media,outbound,2024-10-02
+A20388,2024-06-17,team,11,10,114.49,EMEA,retail,referral,2024-08-20
+A22211,2024-06-17,starter,1,1,12.03,EMEA,finance,organic,2024-10-14
+A22468,2024-06-18,starter,2,1,12.05,AMER,public sector,organic,2025-04-01
+A22088,2024-06-19,team,7,8,85.23,AMER,retail,paid search,
+A21799,2024-06-20,starter,1,1,12.51,APAC,software,referral,2025-05-11
+A21756,2024-06-21,starter,3,4,47.69,AMER,education,organic,
+A20274,2024-06-22,starter,4,5,58.65,EMEA,logistics,organic,
+A22205,2024-06-23,enterprise,634,925,6094.56,AMER,retail,organic,
+A20816,2024-06-24,team,24,24,228.3,AMER,healthcare,paid search,2024-08-26
+A21114,2024-06-24,starter,3,3,41.3,EMEA,public sector,partner,2025-03-11
+A21557,2024-06-24,team,8,6,64.34,LATAM,education,referral,2024-11-07
+A20019,2024-06-25,starter,1,1,12.65,AMER,media,content,
+A20530,2024-06-25,team,17,23,224.42,AMER,healthcare,paid search,
+A20046,2024-06-26,starter,1,1,10.82,AMER,logistics,referral,2024-09-25
+A20839,2024-06-27,starter,3,4,49.16,APAC,logistics,referral,
+A20110,2024-06-28,team,25,18,176.57,APAC,public sector,partner,2024-11-11
+A20650,2024-06-28,enterprise,786,1152,7111.55,APAC,media,organic,
+A21674,2024-06-28,team,18,26,286.56,LATAM,public sector,referral,
+A22220,2024-06-28,starter,1,1,12.66,EMEA,education,outbound,
+A20692,2024-06-29,starter,4,3,35.43,AMER,finance,organic,2024-10-27
+A20875,2024-06-29,starter,4,4,44.33,AMER,finance,content,2024-11-08
+A21070,2024-06-29,team,19,16,145.73,AMER,healthcare,outbound,2025-01-08
+A22392,2024-06-29,starter,2,2,21.86,APAC,healthcare,organic,2024-10-26
+A20367,2024-06-30,starter,1,1,12.73,LATAM,software,organic,2024-08-02
+A20504,2024-06-30,starter,2,3,36.3,AMER,logistics,content,
+A20789,2024-06-30,starter,2,2,25.68,APAC,public sector,paid search,2024-12-30
+A21319,2024-06-30,enterprise,603,884,6558.45,APAC,education,partner,
+A21834,2024-06-30,business,32,30,280.98,APAC,education,organic,2025-07-10
+A22179,2024-06-30,starter,4,6,81.52,AMER,software,content,
+A21527,2024-07-01,business,114,162,1317.7,EMEA,public sector,organic,
+A21576,2024-07-01,starter,1,1,11.55,EMEA,software,referral,2024-09-23
+A21072,2024-07-02,enterprise,800,1132,8070.97,AMER,healthcare,organic,
+A21461,2024-07-03,starter,3,2,24.76,EMEA,logistics,organic,2025-12-07
+A21842,2024-07-03,starter,2,2,27.03,EMEA,retail,content,2025-12-31
+A21928,2024-07-03,enterprise,724,832,5702.77,EMEA,finance,outbound,
+A22230,2024-07-03,team,7,9,89.76,LATAM,healthcare,organic,
+A20815,2024-07-04,starter,1,1,11.82,LATAM,public sector,content,2025-08-10
+A20891,2024-07-04,team,21,18,199.86,AMER,media,organic,2024-10-28
+A21768,2024-07-04,starter,2,1,11.24,AMER,finance,organic,2024-10-16
+A20041,2024-07-05,starter,4,3,34.28,AMER,software,organic,2024-12-09
+A20220,2024-07-05,team,11,15,144.99,AMER,retail,paid search,
+A20377,2024-07-05,starter,2,2,25.96,AMER,software,partner,2024-10-09
+A20847,2024-07-07,business,34,47,446.24,AMER,education,content,
+A22203,2024-07-07,starter,2,2,25.87,AMER,logistics,referral,2025-08-19
+A20472,2024-07-09,team,19,23,216.05,APAC,healthcare,referral,
+A20686,2024-07-09,business,66,82,647.39,APAC,healthcare,content,
+A20799,2024-07-09,team,9,13,117.59,AMER,retail,referral,
+A21475,2024-07-09,team,8,8,74.34,APAC,logistics,paid search,2024-09-12
+A22330,2024-07-10,starter,2,2,25.09,AMER,retail,organic,2025-03-21
+A20480,2024-07-11,starter,4,6,76.78,EMEA,healthcare,outbound,
+A20558,2024-07-11,starter,4,5,56.9,LATAM,education,content,
+A21061,2024-07-11,team,15,21,226.02,AMER,public sector,referral,
+A20856,2024-07-12,starter,1,1,13.76,APAC,software,referral,2024-10-30
+A21060,2024-07-12,business,71,106,979.26,EMEA,logistics,outbound,
+A21126,2024-07-12,team,5,7,70.16,EMEA,software,referral,
+A21438,2024-07-12,business,83,80,687.7,EMEA,finance,paid search,2024-11-01
+A21829,2024-07-12,team,14,14,143.18,EMEA,software,organic,2025-09-28
+A21565,2024-07-13,team,10,9,85.55,AMER,retail,paid search,2025-02-02
+A20226,2024-07-15,business,60,76,686.31,AMER,retail,content,
+A20277,2024-07-15,team,21,27,292.43,AMER,healthcare,organic,
+A21033,2024-07-15,starter,3,2,26.45,LATAM,education,organic,2025-02-22
+A22142,2024-07-15,team,5,6,64.84,AMER,retail,referral,
+A20711,2024-07-16,starter,4,3,40.39,EMEA,software,outbound,2024-09-25
+A21365,2024-07-18,team,24,18,189.85,AMER,public sector,content,2024-08-22
+A20230,2024-07-19,starter,1,1,13.32,LATAM,public sector,referral,2025-03-03
+A20390,2024-07-19,starter,3,2,22.99,APAC,logistics,referral,2025-03-10
+A21379,2024-07-19,starter,1,1,12.99,AMER,education,referral,2024-11-13
+A22045,2024-07-19,enterprise,885,761,4530.94,AMER,media,outbound,2024-12-02
+A20532,2024-07-20,starter,1,1,12.41,AMER,finance,partner,2025-01-07
+A21021,2024-07-20,business,39,55,500.17,LATAM,healthcare,organic,
+A20267,2024-07-21,starter,4,5,65.44,AMER,retail,content,
+A21838,2024-07-22,team,11,16,152.56,APAC,healthcare,organic,
+A22475,2024-07-22,enterprise,745,1081,6796.69,EMEA,public sector,referral,
+A20128,2024-07-23,starter,2,1,12.41,EMEA,healthcare,organic,2024-09-25
+A20481,2024-07-24,starter,2,2,25.58,AMER,finance,organic,2024-10-07
+A20211,2024-07-25,starter,4,4,45.64,EMEA,public sector,content,2025-11-08
+A20231,2024-07-25,starter,2,2,21.7,APAC,logistics,outbound,
+A21260,2024-07-25,starter,2,2,21.68,AMER,public sector,content,2024-09-27
+A20429,2024-07-26,business,95,136,1041.45,APAC,logistics,partner,
+A20801,2024-07-26,team,21,17,187.64,EMEA,software,content,2024-12-17
+A22447,2024-07-26,business,34,42,357.04,AMER,media,referral,
+A21086,2024-07-27,team,8,6,68.32,AMER,healthcare,paid search,2024-10-03
+A20279,2024-07-28,starter,3,2,24.6,AMER,education,content,2025-06-15
+A21633,2024-07-28,team,20,29,304.99,AMER,media,content,
+A20566,2024-07-29,starter,3,3,32.61,APAC,finance,partner,2025-05-30
+A20709,2024-07-29,starter,3,4,50.17,AMER,logistics,content,
+A20817,2024-07-29,starter,1,1,10.83,AMER,logistics,content,2024-11-06
+A21151,2024-07-29,business,81,98,854.87,AMER,public sector,content,
+A21596,2024-07-29,team,13,16,181.04,AMER,logistics,paid search,
+A22355,2024-07-29,business,59,80,749.18,EMEA,software,organic,
+A20418,2024-07-30,enterprise,259,389,2825.29,AMER,finance,referral,
+A22218,2024-07-30,team,17,15,136.97,AMER,media,referral,2025-02-03
+A20969,2024-07-31,starter,3,3,36.74,EMEA,retail,referral,2024-10-24
+A20003,2024-08-01,starter,4,6,78.62,APAC,logistics,partner,
+A21856,2024-08-01,starter,1,1,12.46,AMER,media,outbound,
+A20688,2024-08-02,starter,4,5,55.12,EMEA,healthcare,partner,
+A21154,2024-08-02,team,15,15,149.11,AMER,logistics,referral,2024-11-29
+A21119,2024-08-03,team,14,15,142.76,EMEA,finance,referral,
+A21449,2024-08-03,starter,1,1,13.04,APAC,retail,partner,2025-09-27
+A21892,2024-08-03,starter,4,4,48.3,EMEA,education,organic,
+A22110,2024-08-03,team,23,27,255.92,EMEA,finance,organic,
+A21296,2024-08-05,team,6,6,54.3,APAC,education,referral,2025-03-21
+A21810,2024-08-05,team,6,6,61.99,AMER,logistics,referral,2024-11-27
+A22135,2024-08-05,starter,2,2,22.4,AMER,software,partner,2025-03-02
+A20565,2024-08-06,team,9,10,91.92,AMER,software,organic,
+A21664,2024-08-06,starter,4,4,47.79,LATAM,logistics,outbound,2025-07-22
+A21472,2024-08-07,team,21,17,159.94,AMER,logistics,organic,2025-11-17
+A20812,2024-08-08,starter,2,2,25.48,APAC,logistics,paid search,2024-10-18
+A21493,2024-08-08,starter,2,2,24.36,AMER,logistics,partner,
+A22098,2024-08-08,starter,4,4,53.69,LATAM,media,organic,
+A20407,2024-08-09,starter,3,3,38.4,APAC,healthcare,outbound,
+A21328,2024-08-10,team,14,18,200.22,LATAM,education,organic,
+A21054,2024-08-11,starter,3,3,38.51,AMER,education,content,2025-02-21
+A22021,2024-08-11,starter,2,2,23.4,AMER,media,paid search,2025-02-11
+A20974,2024-08-12,starter,4,5,56.5,LATAM,finance,organic,
+A22356,2024-08-12,enterprise,319,357,2204.95,AMER,public sector,paid search,
+A20009,2024-08-13,starter,2,2,22.96,AMER,software,paid search,2025-02-20
+A20878,2024-08-13,starter,2,2,23.2,AMER,finance,organic,2024-12-20
+A22244,2024-08-14,enterprise,504,630,3824.12,EMEA,software,content,
+A20497,2024-08-15,team,5,4,43.19,AMER,media,content,2024-10-10
+A20536,2024-08-15,starter,4,4,48.66,LATAM,healthcare,organic,2025-05-25
+A20858,2024-08-15,team,25,21,210.32,AMER,education,partner,2025-05-01
+A21827,2024-08-15,team,6,8,79.9,AMER,retail,paid search,
+A20061,2024-08-16,starter,4,3,34.55,EMEA,retail,paid search,2025-04-10
+A20331,2024-08-16,team,11,14,143.5,AMER,healthcare,paid search,
+A22201,2024-08-17,starter,1,1,11.7,APAC,finance,referral,2025-05-16
+A20579,2024-08-18,business,102,143,1120.62,AMER,healthcare,organic,
+A20886,2024-08-18,starter,3,4,48.19,EMEA,software,paid search,
+A21173,2024-08-18,starter,3,3,41.3,AMER,education,organic,2024-09-19
+A22401,2024-08-18,business,61,57,520.26,AMER,education,paid search,2025-11-20
+A20103,2024-08-19,business,74,60,535.04,EMEA,public sector,content,2025-01-12
+A21885,2024-08-19,enterprise,895,1305,9751.35,EMEA,finance,content,
+A22080,2024-08-19,business,101,117,895.21,AMER,healthcare,content,
+A20852,2024-08-20,starter,4,6,80.52,AMER,retail,content,
+A21370,2024-08-20,starter,1,1,11.19,AMER,software,outbound,
+A20108,2024-08-21,starter,1,1,13.47,APAC,finance,outbound,2024-12-24
+A20271,2024-08-22,team,23,25,231.56,EMEA,logistics,organic,
+A21775,2024-08-22,team,18,23,232.14,EMEA,logistics,referral,
+A20462,2024-08-23,starter,4,4,52.72,EMEA,education,partner,2025-06-14
+A21255,2024-08-23,team,12,17,186.36,AMER,finance,content,
+A21648,2024-08-23,starter,4,4,48.06,AMER,finance,content,2024-10-23
+A22057,2024-08-23,starter,3,3,37.1,LATAM,media,organic,2024-11-21
+A20543,2024-08-24,team,16,21,211.12,EMEA,education,organic,
+A21109,2024-08-24,starter,2,2,26.54,AMER,healthcare,organic,2025-06-02
+A22388,2024-08-24,business,34,30,252.65,APAC,public sector,partner,2024-11-18
+A20312,2024-08-25,enterprise,819,1065,7913.2,EMEA,software,referral,
+A21185,2024-08-25,starter,1,1,12.1,LATAM,finance,paid search,2025-03-25
+A22000,2024-08-25,starter,2,2,22.54,AMER,finance,content,
+A20145,2024-08-26,business,48,35,337.39,AMER,retail,referral,2025-08-03
+A21297,2024-08-26,team,18,16,174.27,AMER,retail,referral,2024-11-04
+A21401,2024-08-26,team,16,18,167.9,LATAM,finance,outbound,
+A20183,2024-08-27,starter,1,1,11.6,EMEA,media,content,
+A21764,2024-08-27,business,51,61,471.79,AMER,public sector,referral,
+A21805,2024-08-27,starter,1,1,11.98,AMER,public sector,paid search,2024-12-09
+A22379,2024-08-27,starter,4,5,67.86,AMER,software,organic,
+A21882,2024-08-28,business,105,90,723.3,AMER,healthcare,content,2025-02-28
+A21573,2024-08-29,team,10,11,110.79,LATAM,media,paid search,
+A21269,2024-08-30,team,21,30,336.92,EMEA,software,outbound,
+A21889,2024-08-30,starter,4,4,47.22,APAC,public sector,organic,2024-12-27
+A22061,2024-08-30,starter,3,4,47.63,AMER,public sector,partner,
+A21574,2024-08-31,team,21,21,208.2,EMEA,retail,referral,2024-11-05
+A21798,2024-08-31,starter,2,2,25.19,EMEA,healthcare,partner,2025-09-05
+A20278,2024-09-01,starter,4,4,52.5,AMER,retail,referral,2024-11-13
+A20476,2024-09-01,business,71,60,534.28,AMER,software,organic,2025-04-06
+A21237,2024-09-01,starter,1,1,12.75,AMER,media,outbound,2025-06-02
+A21853,2024-09-01,enterprise,686,814,4984.73,AMER,education,content,
+A22153,2024-09-01,enterprise,361,517,3760.79,APAC,retail,organic,
+A20073,2024-09-02,team,23,19,190.72,APAC,logistics,organic,2026-01-14
+A20138,2024-09-02,team,17,20,187.21,AMER,finance,content,
+A20244,2024-09-02,team,21,28,276.16,EMEA,public sector,organic,
+A20008,2024-09-03,team,16,22,231.18,EMEA,finance,outbound,
+A20431,2024-09-03,team,18,15,163.67,EMEA,public sector,content,2025-08-30
+A21192,2024-09-03,team,14,15,154.29,AMER,software,referral,2025-03-09
+A22498,2024-09-03,starter,4,5,66.84,EMEA,education,organic,
+A20137,2024-09-04,starter,2,2,25.99,EMEA,healthcare,referral,2025-08-08
+A21243,2024-09-04,team,12,16,146.52,AMER,retail,partner,
+A21520,2024-09-04,team,8,10,97.03,AMER,software,outbound,
+A22213,2024-09-05,business,52,71,548.05,AMER,retail,referral,
+A22417,2024-09-05,starter,4,5,65.45,AMER,public sector,paid search,
+A22491,2024-09-05,team,9,13,149.3,AMER,logistics,content,
+A20200,2024-09-06,business,94,112,909.46,LATAM,software,partner,
+A20855,2024-09-06,business,21,21,177.59,AMER,education,organic,2025-11-20
+A22090,2024-09-06,team,6,8,76.32,APAC,healthcare,content,
+A22196,2024-09-06,business,21,27,231.48,EMEA,software,partner,
+A22101,2024-09-07,starter,4,3,36.42,APAC,public sector,partner,2025-06-27
+A20099,2024-09-08,business,45,60,583.52,AMER,public sector,content,
+A20164,2024-09-08,business,59,58,552.48,AMER,finance,outbound,2025-06-17
+A21306,2024-09-08,starter,1,1,12.95,AMER,education,organic,2025-04-18
+A21548,2024-09-08,starter,3,4,46.28,APAC,healthcare,paid search,
+A20198,2024-09-09,starter,1,1,12.4,EMEA,logistics,referral,
+A20321,2024-09-10,team,17,14,157.74,APAC,retail,organic,2024-12-21
+A20739,2024-09-10,team,16,15,155.05,AMER,logistics,content,2024-11-24
+A21871,2024-09-10,business,118,129,1224.76,AMER,public sector,paid search,
+A22097,2024-09-10,business,38,42,328.47,AMER,retail,partner,
+A20470,2024-09-11,starter,1,1,12.65,EMEA,finance,outbound,2025-12-30
+A21550,2024-09-11,starter,3,3,34.87,APAC,education,referral,2024-11-20
+A20456,2024-09-12,team,12,13,124.15,APAC,software,paid search,2025-01-12
+A20690,2024-09-12,business,87,119,1027.77,EMEA,education,paid search,
+A21019,2024-09-12,starter,3,3,34.03,AMER,logistics,organic,2025-01-10
+A21899,2024-09-13,team,7,8,72.85,EMEA,public sector,partner,
+A20199,2024-09-14,starter,4,3,39.29,AMER,logistics,organic,2025-06-18
+A21279,2024-09-15,business,80,94,820.7,EMEA,software,outbound,
+A22069,2024-09-15,business,102,131,1058,APAC,retail,partner,
+A22298,2024-09-15,team,10,7,63.09,AMER,software,outbound,2025-06-14
+A20533,2024-09-16,business,79,91,737.73,AMER,retail,paid search,
+A20772,2024-09-16,starter,4,5,67.23,AMER,logistics,paid search,
+A20845,2024-09-16,business,48,58,471.7,APAC,education,paid search,
+A22055,2024-09-16,starter,4,4,48.16,LATAM,healthcare,partner,2025-03-06
+A22130,2024-09-17,business,109,123,1179.87,EMEA,logistics,outbound,
+A20228,2024-09-18,starter,4,5,65.99,AMER,education,outbound,
+A20958,2024-09-18,business,64,89,821.59,EMEA,healthcare,paid search,
+A21063,2024-09-18,starter,1,1,13.14,EMEA,healthcare,outbound,
+A21507,2024-09-18,starter,3,4,50.23,APAC,education,referral,
+A21564,2024-09-18,business,119,154,1289.1,EMEA,public sector,organic,
+A21991,2024-09-18,team,25,24,225.46,EMEA,logistics,outbound,2025-04-29
+A22009,2024-09-18,business,118,114,900.34,AMER,media,referral,2025-06-06
+A21969,2024-09-19,starter,1,1,11.19,EMEA,software,content,2024-10-23
+A20859,2024-09-20,starter,2,2,21.88,AMER,retail,content,
+A22348,2024-09-20,starter,1,1,11.82,AMER,public sector,organic,2024-12-02
+A20360,2024-09-21,business,62,88,851.61,APAC,logistics,organic,
+A21590,2024-09-21,team,8,11,102.93,APAC,healthcare,referral,
+A22060,2024-09-21,starter,3,3,35.51,APAC,public sector,content,2025-02-15
+A20365,2024-09-22,team,12,14,131.01,AMER,healthcare,organic,
+A20995,2024-09-22,starter,3,4,53.6,AMER,public sector,content,
+A22105,2024-09-22,team,20,16,144.24,APAC,software,referral,2024-10-29
+A21352,2024-09-23,starter,4,4,51.3,APAC,finance,content,2025-01-03
+A21869,2024-09-23,team,13,12,125.91,AMER,healthcare,organic,2025-01-09
+A21429,2024-09-24,starter,2,1,11.89,APAC,media,outbound,2025-08-27
+A20106,2024-09-25,starter,1,1,12.55,APAC,media,referral,2025-10-01
+A20202,2024-09-25,starter,1,1,12.46,APAC,retail,outbound,
+A21530,2024-09-25,starter,1,1,12.58,AMER,retail,referral,2025-01-19
+A20798,2024-09-26,starter,3,4,47.52,APAC,public sector,paid search,
+A21240,2024-09-26,team,15,21,202.03,APAC,healthcare,organic,
+A21788,2024-09-26,starter,1,1,11.24,AMER,education,content,
+A22482,2024-09-26,enterprise,756,1051,7251.29,AMER,software,outbound,
+A20151,2024-09-27,starter,1,1,11.2,AMER,public sector,organic,2025-01-17
+A20595,2024-09-27,team,6,8,86.66,EMEA,media,organic,
+A21386,2024-09-27,starter,2,2,27.46,AMER,software,paid search,2024-11-30
+A21974,2024-09-27,team,22,25,268.06,APAC,public sector,outbound,
+A22046,2024-09-27,team,25,32,347.1,EMEA,media,referral,
+A20053,2024-09-28,team,6,8,76.86,AMER,retail,organic,
+A20299,2024-09-28,starter,3,4,55.12,APAC,software,paid search,
+A20670,2024-09-28,starter,1,1,12.84,AMER,logistics,paid search,2025-01-27
+A21053,2024-09-28,starter,1,1,11.23,EMEA,finance,content,2025-01-04
+A21191,2024-09-29,starter,2,2,25.05,AMER,healthcare,paid search,
+A21724,2024-09-29,starter,2,2,27.06,APAC,healthcare,organic,2025-02-08
+A21957,2024-09-29,enterprise,717,855,5794.18,AMER,media,outbound,
+A22415,2024-09-29,starter,1,1,12.78,AMER,media,referral,2024-12-12
+A20189,2024-09-30,starter,2,2,22.64,EMEA,software,referral,2025-07-10
+A21157,2024-09-30,starter,2,3,32.72,AMER,software,referral,
+A21336,2024-09-30,starter,4,4,51.87,AMER,healthcare,paid search,2025-10-10
+A20832,2024-10-02,team,21,22,236.21,APAC,logistics,paid search,
+A22321,2024-10-02,business,105,108,1013.13,EMEA,finance,paid search,2025-04-28
+A21412,2024-10-03,starter,3,3,33.97,APAC,finance,organic,2025-05-10
+A20070,2024-10-04,team,25,18,176.31,AMER,public sector,partner,2025-01-18
+A22257,2024-10-04,starter,3,2,22.79,APAC,software,paid search,2026-01-14
+A20184,2024-10-05,starter,1,1,12.61,EMEA,finance,referral,2025-01-31
+A20819,2024-10-05,starter,1,1,13.18,EMEA,education,organic,
+A21212,2024-10-05,team,8,9,95.6,EMEA,logistics,referral,
+A22089,2024-10-05,starter,3,3,33.32,APAC,logistics,content,
+A22108,2024-10-05,enterprise,883,971,5840.38,APAC,public sector,organic,
+A20525,2024-10-06,starter,3,3,33.49,AMER,retail,outbound,2025-09-27
+A21656,2024-10-06,starter,1,1,11.32,EMEA,software,organic,
+A22234,2024-10-06,starter,3,3,34.63,LATAM,media,referral,
+A20170,2024-10-07,team,21,24,232.03,AMER,public sector,paid search,
+A21545,2024-10-07,starter,4,4,49.73,EMEA,media,partner,2025-03-30
+A21859,2024-10-07,team,23,27,290.24,AMER,public sector,content,
+A21187,2024-10-08,starter,4,4,48.31,EMEA,software,organic,2025-02-03
+A20700,2024-10-09,team,23,21,236.52,AMER,education,paid search,2024-12-21
+A21169,2024-10-09,team,19,21,230.57,AMER,media,outbound,
+A22136,2024-10-09,starter,2,2,24.56,AMER,retail,paid search,2025-07-18
+A22344,2024-10-09,starter,1,1,11.54,AMER,public sector,organic,2024-11-11
+A20239,2024-10-10,starter,3,4,47.2,APAC,healthcare,outbound,
+A20513,2024-10-10,business,45,48,414.43,AMER,media,outbound,
+A20716,2024-10-10,starter,2,2,21.63,AMER,software,organic,2025-09-15
+A21624,2024-10-10,starter,4,4,52.96,LATAM,logistics,organic,2025-01-28
+A21973,2024-10-10,starter,4,4,47.46,APAC,software,outbound,2025-01-13
+A21668,2024-10-11,business,99,75,662.51,AMER,logistics,partner,2024-12-11
+A22378,2024-10-12,starter,2,2,25.98,AMER,software,referral,2025-09-29
+A21746,2024-10-13,starter,3,2,24.95,LATAM,media,partner,2025-08-15
+A20704,2024-10-14,team,18,21,219.24,APAC,software,organic,
+A20793,2024-10-14,starter,2,1,12.32,AMER,retail,organic,2025-05-21
+A20006,2024-10-15,business,55,72,558.67,AMER,public sector,partner,
+A21397,2024-10-15,team,13,13,143.54,EMEA,media,partner,2025-02-13
+A21424,2024-10-15,team,19,15,165.79,AMER,public sector,paid search,2025-11-22
+A21456,2024-10-15,starter,1,1,13.53,APAC,education,organic,
+A21672,2024-10-15,business,46,59,466.58,AMER,logistics,organic,
+A20648,2024-10-17,team,15,13,131.91,AMER,media,referral,2025-02-09
+A22266,2024-10-17,business,115,151,1461.12,APAC,logistics,paid search,
+A20057,2024-10-18,team,18,17,158.59,AMER,retail,paid search,2025-10-05
+A20131,2024-10-18,business,61,73,710.44,AMER,education,organic,
+A21380,2024-10-18,starter,3,3,38.35,AMER,logistics,organic,2025-02-12
+A21825,2024-10-19,team,11,9,93.06,AMER,software,content,2025-10-19
+A22314,2024-10-19,team,22,23,260.73,EMEA,finance,outbound,
+A21498,2024-10-20,starter,1,1,11.57,EMEA,logistics,paid search,2025-03-12
+A20417,2024-10-21,starter,2,2,24.16,LATAM,healthcare,referral,2025-03-22
+A22444,2024-10-21,starter,2,2,25.34,APAC,retail,organic,2025-03-09
+A20380,2024-10-22,team,8,8,76.05,EMEA,healthcare,outbound,2025-02-12
+A20450,2024-10-23,team,18,23,209.87,EMEA,retail,organic,
+A21436,2024-10-23,business,60,70,538.7,APAC,finance,paid search,
+A21441,2024-10-23,starter,4,5,54.02,AMER,retail,referral,
+A21938,2024-10-23,team,8,10,108.55,EMEA,software,referral,
+A22134,2024-10-23,team,6,8,85.72,EMEA,public sector,organic,
+A21305,2024-10-24,team,17,21,213.68,AMER,retail,organic,
+A21389,2024-10-24,team,19,21,200.24,APAC,media,organic,
+A22114,2024-10-24,starter,1,1,11.41,AMER,healthcare,content,2025-04-01
+A22221,2024-10-24,enterprise,559,693,4125.46,AMER,media,paid search,
+A21501,2024-10-25,team,10,13,129.82,AMER,finance,paid search,
+A20055,2024-10-26,starter,2,2,22,AMER,public sector,organic,2025-03-14
+A20256,2024-10-27,starter,4,6,71.29,EMEA,logistics,organic,
+A21007,2024-10-27,team,21,25,246.49,AMER,public sector,referral,
+A20811,2024-10-28,enterprise,125,173,1046.64,LATAM,logistics,partner,
+A22174,2024-10-28,team,7,5,54.56,AMER,logistics,organic,2025-08-10
+A22364,2024-10-28,team,6,5,53.18,AMER,retail,organic,2025-01-12
+A20591,2024-10-29,starter,3,2,22.87,EMEA,software,referral,2025-04-19
+A20640,2024-10-30,starter,3,4,51.99,AMER,software,outbound,
+A21183,2024-10-30,starter,4,4,52.12,AMER,media,referral,2025-01-31
+A22073,2024-10-30,business,110,84,726.74,LATAM,finance,referral,2025-06-27
+A21003,2024-10-31,starter,2,2,25.5,AMER,media,organic,2025-06-25
+A21531,2024-10-31,starter,4,3,41.28,EMEA,finance,partner,2025-03-29
+A22490,2024-10-31,team,17,13,120.57,EMEA,finance,partner,2025-07-19
+A20084,2024-11-01,starter,3,3,37.9,AMER,public sector,content,2025-07-04
+A20681,2024-11-01,team,10,12,115.51,APAC,public sector,content,
+A20693,2024-11-01,starter,4,4,48.62,AMER,education,organic,2025-07-01
+A21730,2024-11-01,business,78,78,614.39,APAC,public sector,organic,2025-06-02
+A20323,2024-11-02,starter,2,2,25.49,EMEA,logistics,organic,
+A20638,2024-11-02,starter,4,3,34.12,EMEA,retail,content,2025-05-24
+A21634,2024-11-02,business,49,45,348.83,EMEA,healthcare,outbound,2025-06-06
+A20444,2024-11-03,enterprise,703,877,6173.49,AMER,media,paid search,
+A21452,2024-11-03,starter,2,2,21.67,EMEA,public sector,partner,
+A21725,2024-11-03,team,13,13,123.87,AMER,software,paid search,2025-04-08
+A21897,2024-11-03,starter,4,3,38.19,AMER,finance,referral,2025-03-26
+A22284,2024-11-03,business,51,69,650.74,AMER,finance,paid search,
+A22295,2024-11-03,starter,2,2,25.66,EMEA,media,organic,2025-07-22
+A22030,2024-11-04,team,13,18,183.92,EMEA,public sector,paid search,
+A21011,2024-11-05,business,45,64,523.6,AMER,software,organic,
+A21492,2024-11-05,business,73,90,829.26,LATAM,media,content,
+A21566,2024-11-05,business,50,35,332.21,EMEA,public sector,referral,2025-07-18
+A21972,2024-11-05,starter,2,2,26.22,EMEA,public sector,outbound,2025-03-28
+A22461,2024-11-05,starter,2,2,27.51,EMEA,public sector,content,2025-03-09
+A20734,2024-11-06,starter,3,3,36.24,EMEA,logistics,paid search,
+A21923,2024-11-06,starter,4,4,52.93,APAC,public sector,content,2024-12-16
+A20597,2024-11-07,business,98,128,1047.11,EMEA,media,organic,
+A21281,2024-11-07,starter,4,4,55.08,AMER,logistics,paid search,2025-02-12
+A22359,2024-11-07,starter,3,4,45.85,AMER,media,organic,
+A21872,2024-11-10,business,54,58,494.29,AMER,software,outbound,
+A21874,2024-11-10,starter,4,4,45.34,AMER,media,paid search,2025-03-02
+A21884,2024-11-10,business,100,78,754.75,EMEA,healthcare,outbound,2025-10-01
+A22186,2024-11-10,starter,1,1,12.64,EMEA,finance,referral,2025-06-27
+A22390,2024-11-10,starter,3,4,48.92,AMER,retail,referral,
+A22453,2024-11-10,team,12,12,131.91,EMEA,education,partner,2025-07-06
+A21636,2024-11-11,team,23,29,292.38,APAC,software,content,
+A21780,2024-11-11,enterprise,390,473,3322.31,AMER,finance,partner,
+A20907,2024-11-12,starter,3,2,27.45,EMEA,public sector,paid search,2025-02-17
+A21678,2024-11-12,starter,3,3,33.77,AMER,media,content,2025-03-31
+A21735,2024-11-12,team,20,21,196.1,AMER,logistics,outbound,2025-03-10
+A21958,2024-11-12,team,6,5,50.12,AMER,education,paid search,2025-08-30
+A22399,2024-11-12,business,71,76,677.26,EMEA,logistics,organic,
+A22419,2024-11-12,team,11,9,102.21,APAC,media,content,2025-04-08
+A20092,2024-11-13,team,15,18,195.76,APAC,media,referral,
+A20854,2024-11-13,starter,3,3,38.18,APAC,healthcare,organic,2025-08-03
+A21313,2024-11-13,starter,4,4,47.1,EMEA,public sector,content,2025-01-16
+A21445,2024-11-13,starter,2,3,37.19,EMEA,healthcare,referral,
+A20071,2024-11-14,team,9,6,63.38,AMER,education,content,2025-10-06
+A20434,2024-11-14,starter,1,1,11.59,EMEA,media,referral,2025-02-20
+A21655,2024-11-14,business,104,102,966.53,EMEA,education,paid search,2025-09-16
+A21917,2024-11-15,business,109,92,861.23,LATAM,logistics,referral,2025-10-26
+A21975,2024-11-15,business,79,93,842.16,AMER,public sector,organic,
+A20241,2024-11-16,team,13,13,144.46,EMEA,public sector,organic,2025-08-26
+A22180,2024-11-16,team,18,22,203.07,AMER,public sector,organic,
+A22436,2024-11-16,starter,3,2,25.04,APAC,education,outbound,2025-04-10
+A21801,2024-11-17,starter,3,4,43.54,AMER,education,paid search,
+A22456,2024-11-17,starter,2,2,27.49,AMER,retail,referral,
+A20063,2024-11-18,starter,4,5,57.66,EMEA,education,referral,
+A21774,2024-11-18,starter,4,3,35.44,AMER,retail,paid search,2025-01-30
+A22329,2024-11-18,enterprise,486,618,3945.73,AMER,retail,paid search,
+A21273,2024-11-19,starter,2,3,37.45,APAC,software,content,
+A21483,2024-11-19,business,93,123,1201.98,APAC,healthcare,organic,
+A22020,2024-11-20,starter,2,2,22.4,AMER,media,paid search,
+A20792,2024-11-21,starter,1,1,12.25,AMER,public sector,referral,
+A20928,2024-11-21,team,9,10,106.6,APAC,media,paid search,
+A22478,2024-11-21,business,80,110,929.58,EMEA,healthcare,organic,
+A20085,2024-11-22,business,36,47,413.85,AMER,public sector,organic,
+A20301,2024-11-22,starter,2,3,33.96,EMEA,software,paid search,
+A20953,2024-11-22,team,18,18,196,AMER,logistics,content,2025-01-27
+A21809,2024-11-22,starter,4,3,33.51,AMER,education,referral,2025-06-17
+A22048,2024-11-22,enterprise,165,190,1384.45,AMER,public sector,content,
+A22188,2024-11-22,starter,4,3,39.21,AMER,healthcare,organic,2025-04-09
+A20109,2024-11-23,team,12,16,157.58,AMER,education,organic,
+A21536,2024-11-23,business,89,98,882,AMER,finance,organic,
+A21559,2024-11-23,starter,1,1,11.88,AMER,education,referral,2025-02-01
+A21769,2024-11-24,starter,1,1,12.27,EMEA,software,partner,2025-06-01
+A20628,2024-11-26,starter,2,2,27.01,APAC,software,paid search,2025-07-07
+A22250,2024-11-26,starter,4,3,36.32,APAC,public sector,paid search,2025-06-12
+A20589,2024-11-27,starter,1,1,13.08,AMER,education,outbound,
+A20493,2024-11-28,team,12,16,177.03,APAC,logistics,partner,
+A20512,2024-11-28,starter,3,3,36.32,AMER,finance,paid search,
+A20967,2024-11-28,starter,1,1,11.22,AMER,logistics,organic,2025-10-29
+A21031,2024-11-30,starter,1,1,12.2,AMER,retail,paid search,2025-01-24
+A21241,2024-11-30,starter,3,4,47.32,APAC,logistics,organic,
+A21413,2024-11-30,starter,2,3,32.96,AMER,public sector,organic,
+A22494,2024-11-30,team,15,15,151.24,AMER,media,referral,2025-07-22
+A20349,2024-12-01,team,15,15,137.18,EMEA,retail,outbound,2025-06-26
+A21275,2024-12-01,starter,1,1,13.5,AMER,public sector,content,2025-10-26
+A20827,2024-12-02,business,49,66,595.27,APAC,finance,content,
+A20942,2024-12-02,business,94,128,1107.24,AMER,logistics,outbound,
+A21368,2024-12-02,team,24,18,189.42,AMER,education,referral,2025-07-24
+A20081,2024-12-03,starter,1,1,12.91,AMER,media,partner,2025-05-04
+A21051,2024-12-03,team,12,10,100.07,AMER,healthcare,content,2025-04-29
+A22273,2024-12-03,starter,4,6,75.4,EMEA,logistics,referral,
+A20260,2024-12-04,team,24,17,168.92,AMER,software,paid search,2025-06-09
+A20904,2024-12-04,starter,4,4,48.41,EMEA,retail,content,2025-02-25
+A21179,2024-12-04,business,58,72,682.43,APAC,software,referral,
+A21204,2024-12-04,team,20,16,182.65,AMER,logistics,referral,2025-08-02
+A22049,2024-12-04,starter,3,2,27.2,LATAM,public sector,referral,2025-07-17
+A20717,2024-12-05,business,69,95,760.8,APAC,software,referral,
+A21346,2024-12-05,enterprise,470,545,3223.43,LATAM,retail,paid search,
+A20438,2024-12-06,business,115,136,1317.72,EMEA,logistics,organic,
+A20802,2024-12-06,enterprise,674,730,4838.86,AMER,public sector,content,
+A21002,2024-12-06,business,59,71,558.73,AMER,public sector,content,
+A21430,2024-12-06,business,28,34,286.58,APAC,retail,content,
+A21961,2024-12-06,starter,3,3,40.15,EMEA,retail,organic,2025-02-11
+A21392,2024-12-08,starter,2,2,24.49,AMER,healthcare,paid search,2025-02-05
+A20130,2024-12-10,starter,4,4,45.46,AMER,public sector,partner,2025-12-30
+A20756,2024-12-10,team,8,7,69.9,AMER,education,organic,2025-05-25
+A21209,2024-12-10,starter,1,1,11.96,APAC,logistics,referral,
+A22323,2024-12-10,business,43,51,480.87,EMEA,retail,paid search,
+A22467,2024-12-10,starter,4,4,45,EMEA,public sector,content,
+A21232,2024-12-11,starter,2,2,26.93,AMER,media,partner,
+A21647,2024-12-11,starter,2,2,25.31,EMEA,finance,paid search,2025-05-08
+A21997,2024-12-11,starter,3,3,36.61,EMEA,public sector,organic,2025-06-08
+A21230,2024-12-12,team,10,13,147.48,APAC,public sector,referral,
+A22131,2024-12-12,starter,3,3,35.01,APAC,education,partner,2025-02-12
+A22195,2024-12-12,team,25,33,337.12,AMER,education,paid search,
+A21317,2024-12-13,team,15,11,106.91,LATAM,software,organic,2025-02-13
+A22371,2024-12-14,team,7,8,81.25,AMER,healthcare,paid search,
+A20547,2024-12-15,team,21,21,224.58,AMER,finance,content,2025-05-15
+A20582,2024-12-15,starter,4,5,58.83,AMER,public sector,outbound,
+A22215,2024-12-16,team,12,9,96.52,APAC,public sector,referral,2025-05-09
+A21224,2024-12-17,business,35,46,382.78,AMER,logistics,referral,
+A20264,2024-12-18,team,22,28,300.2,EMEA,retail,partner,
+A21489,2024-12-18,team,10,12,127.45,AMER,retail,partner,
+A21850,2024-12-18,business,54,73,700.08,EMEA,healthcare,outbound,
+A20830,2024-12-19,business,33,36,319.66,AMER,media,referral,
+A21163,2024-12-19,team,19,14,132.11,AMER,finance,referral,2025-10-02
+A22083,2024-12-19,team,6,7,75.46,AMER,finance,outbound,
+A22137,2024-12-19,starter,2,3,34.82,AMER,retail,partner,
+A20554,2024-12-20,enterprise,148,169,1006.61,EMEA,media,content,
+A21427,2024-12-20,starter,4,4,53.41,AMER,logistics,referral,2025-03-13
+A21680,2024-12-21,business,57,73,688.56,AMER,software,content,
+A20225,2024-12-23,business,91,110,866.44,AMER,education,organic,
+A20273,2024-12-23,starter,1,1,11.64,EMEA,public sector,organic,
+A21016,2024-12-23,starter,3,3,40.66,LATAM,finance,organic,2025-12-04
+A21942,2024-12-23,business,40,36,313.48,EMEA,software,partner,2025-09-10
+A22339,2024-12-23,starter,3,4,44.97,LATAM,software,referral,
+A20683,2024-12-24,business,112,133,1186,AMER,logistics,partner,
+A20780,2024-12-24,starter,3,3,33.85,EMEA,software,paid search,
+A20963,2024-12-24,starter,3,4,53.13,AMER,finance,paid search,
+A21902,2024-12-24,business,63,76,636.24,EMEA,software,paid search,
+A21039,2024-12-25,team,15,20,210.81,AMER,retail,partner,
+A21167,2024-12-25,starter,3,3,40.05,APAC,healthcare,organic,
+A20378,2024-12-26,team,25,27,294,EMEA,public sector,organic,
+A21903,2024-12-26,business,44,57,486.43,EMEA,logistics,paid search,
+A21990,2024-12-26,business,100,125,1006.31,EMEA,public sector,organic,
+A20018,2024-12-27,business,37,43,356.95,EMEA,media,organic,
+A20346,2024-12-27,enterprise,234,258,1658.62,LATAM,retail,organic,
+A20351,2024-12-27,starter,4,4,48,APAC,media,partner,2025-02-22
+A21506,2024-12-27,team,11,11,105.94,APAC,finance,organic,2026-01-06
+A21797,2024-12-27,team,19,25,262.57,EMEA,finance,organic,
+A22251,2024-12-27,team,13,17,191.96,EMEA,software,paid search,
+A20387,2024-12-28,team,11,13,122.62,AMER,education,outbound,
+A21800,2024-12-28,team,19,26,258.69,EMEA,healthcare,content,
+A20123,2024-12-29,starter,2,3,34.19,EMEA,media,outbound,
+A20680,2024-12-30,starter,4,3,39.7,AMER,public sector,paid search,2025-03-22
+A21922,2024-12-30,business,57,57,514.99,AMER,public sector,organic,2025-04-05
+A20947,2024-12-31,business,117,102,967.82,EMEA,public sector,paid search,2025-04-05
+A20979,2024-12-31,team,21,28,252.02,EMEA,logistics,content,
+A21111,2024-12-31,team,21,25,263.05,EMEA,education,organic,
+A20094,2025-01-01,starter,4,4,44.41,AMER,healthcare,paid search,2025-05-02
+A20428,2025-01-02,starter,3,4,43.48,AMER,healthcare,content,
+A22402,2025-01-02,business,40,52,443.65,AMER,finance,paid search,
+A22352,2025-01-03,business,117,123,1049.05,EMEA,healthcare,organic,
+A22408,2025-01-03,team,17,23,245.47,APAC,media,paid search,
+A20207,2025-01-04,team,6,7,79.94,LATAM,software,organic,
+A21890,2025-01-04,team,24,31,353.21,APAC,logistics,organic,
+A22304,2025-01-04,starter,2,3,33.45,AMER,education,outbound,
+A20468,2025-01-06,business,21,24,209.03,AMER,public sector,referral,
+A21030,2025-01-06,starter,4,4,51.38,EMEA,public sector,partner,2025-04-17
+A22006,2025-01-06,team,15,19,177.98,AMER,software,outbound,
+A22104,2025-01-06,starter,3,4,55.09,EMEA,retail,organic,
+A21129,2025-01-07,starter,4,5,66.39,EMEA,finance,paid search,
+A21387,2025-01-07,starter,2,2,22.3,APAC,software,content,2025-04-28
+A21615,2025-01-07,starter,3,3,36.4,EMEA,software,organic,2025-09-08
+A21444,2025-01-08,business,50,54,524.24,EMEA,retail,outbound,
+A21989,2025-01-08,starter,3,4,51.74,AMER,education,referral,
+A21719,2025-01-09,business,72,82,678.19,AMER,finance,outbound,
+A20324,2025-01-10,team,5,5,54.9,EMEA,software,paid search,
+A21562,2025-01-10,starter,3,4,43.67,AMER,education,paid search,
+A21146,2025-01-11,starter,3,3,37.91,EMEA,media,partner,2025-05-29
+A20741,2025-01-12,team,15,18,203.47,APAC,education,organic,
+A21432,2025-01-12,enterprise,199,220,1353.27,AMER,education,organic,
+A20527,2025-01-13,business,79,68,603.15,EMEA,public sector,referral,2025-08-23
+A20101,2025-01-14,team,8,9,81.35,EMEA,media,paid search,
+A22162,2025-01-14,starter,4,4,52.5,EMEA,retail,paid search,2025-05-28
+A20534,2025-01-15,team,18,14,142.98,APAC,retail,organic,2025-09-22
+A20645,2025-01-15,business,75,67,627.29,LATAM,public sector,paid search,2025-08-10
+A20861,2025-01-15,starter,4,3,40.15,AMER,logistics,partner,2025-06-04
+A20626,2025-01-16,team,11,8,89.08,AMER,media,organic,2025-06-03
+A21497,2025-01-17,team,22,28,286.34,EMEA,software,referral,
+A21627,2025-01-17,starter,3,3,40.98,AMER,finance,outbound,2025-08-03
+A21744,2025-01-17,starter,4,4,43.23,AMER,finance,partner,2025-08-16
+A21994,2025-01-17,team,9,7,68.96,AMER,public sector,organic,2026-01-02
+A22297,2025-01-17,team,13,13,122.57,AMER,healthcare,outbound,2025-02-19
+A20000,2025-01-18,business,101,127,1103.61,AMER,finance,content,
+A20219,2025-01-18,team,17,23,235.14,AMER,logistics,referral,
+A20282,2025-01-18,team,19,23,248.39,EMEA,software,referral,
+A20289,2025-01-18,starter,1,1,12.64,AMER,software,paid search,2025-04-09
+A20492,2025-01-18,team,24,31,279.04,LATAM,finance,referral,
+A21402,2025-01-18,team,6,7,70.49,EMEA,logistics,partner,
+A21518,2025-01-18,starter,1,1,12.49,AMER,logistics,content,2025-03-31
+A22177,2025-01-18,business,37,32,247.84,EMEA,software,organic,2025-03-26
+A20776,2025-01-19,business,45,40,356.61,APAC,healthcare,organic,2025-03-01
+A21042,2025-01-19,business,69,84,782.79,AMER,education,partner,
+A21681,2025-01-19,enterprise,590,758,4633.87,EMEA,software,paid search,
+A20541,2025-01-20,team,18,21,191.8,APAC,education,referral,
+A20563,2025-01-20,team,5,5,46.1,AMER,media,outbound,2025-08-27
+A22386,2025-01-20,enterprise,531,594,3614.87,AMER,logistics,referral,
+A20114,2025-01-21,business,48,36,340.75,AMER,software,content,2025-12-23
+A20787,2025-01-21,enterprise,167,203,1417.54,EMEA,logistics,content,
+A22184,2025-01-21,team,24,32,289.11,APAC,finance,paid search,
+A22338,2025-01-21,starter,4,3,40.1,AMER,healthcare,content,2025-03-13
+A20850,2025-01-22,team,5,6,65.02,LATAM,education,paid search,
+A21459,2025-01-22,business,70,77,705.7,EMEA,education,referral,
+A22343,2025-01-22,team,8,10,90.54,AMER,software,organic,
+A22477,2025-01-22,enterprise,764,977,6588.78,LATAM,media,paid search,
+A21696,2025-01-23,starter,4,3,38.11,EMEA,media,paid search,2025-07-16
+A21952,2025-01-23,team,22,19,187.65,AMER,healthcare,paid search,2025-04-08
+A21657,2025-01-24,team,10,13,130.65,AMER,education,outbound,
+A22202,2025-01-24,team,5,7,73.41,EMEA,media,partner,
+A20361,2025-01-25,business,113,126,988.02,EMEA,finance,paid search,
+A21901,2025-01-25,team,21,20,213.39,EMEA,media,outbound,2025-05-29
+A22094,2025-01-25,team,15,16,145.17,AMER,retail,paid search,
+A22373,2025-01-27,team,14,18,166.32,APAC,public sector,partner,
+A21068,2025-01-28,enterprise,585,671,5006.52,LATAM,retail,partner,
+A20607,2025-01-29,enterprise,171,185,1127.86,LATAM,software,partner,
+A20553,2025-01-30,team,23,23,220.43,EMEA,media,partner,2025-03-04
+A21233,2025-01-30,enterprise,720,901,5950.03,AMER,public sector,paid search,
+A21910,2025-01-30,starter,2,1,12.9,EMEA,education,referral,2025-05-22
+A22026,2025-01-30,team,10,10,96.47,AMER,finance,content,
+A21477,2025-01-31,team,8,7,68.12,AMER,finance,referral,2026-01-16
+A21669,2025-01-31,starter,4,4,54.92,AMER,retail,content,
+A20627,2025-02-01,business,57,62,557.34,AMER,software,organic,
+A21171,2025-02-01,team,20,20,227.15,APAC,software,outbound,2025-04-13
+A21693,2025-02-01,team,19,21,190.83,AMER,education,referral,
+A21099,2025-02-02,team,14,17,177.23,APAC,education,content,
+A21102,2025-02-02,team,19,21,222.08,APAC,healthcare,paid search,
+A21149,2025-02-02,starter,3,4,47.32,AMER,software,outbound,
+A21600,2025-02-02,team,22,22,204.67,AMER,public sector,outbound,2025-07-08
+A21950,2025-02-02,starter,1,1,10.89,AMER,logistics,outbound,2025-06-28
+A22182,2025-02-02,team,9,10,90.44,EMEA,finance,partner,
+A20100,2025-02-03,business,113,134,1071.87,AMER,healthcare,organic,
+A20427,2025-02-03,team,13,17,178.52,EMEA,media,outbound,
+A20765,2025-02-03,team,20,21,205.61,AMER,retail,organic,
+A21088,2025-02-03,team,23,26,272.17,APAC,public sector,content,
+A21437,2025-02-03,business,58,61,534.4,AMER,healthcare,organic,
+A21638,2025-02-03,starter,1,1,11.27,LATAM,healthcare,content,
+A22253,2025-02-03,starter,3,4,47.42,APAC,retail,organic,
+A20872,2025-02-04,starter,2,2,21.7,EMEA,media,partner,2025-05-22
+A21287,2025-02-04,starter,4,5,69,APAC,retail,paid search,
+A22375,2025-02-04,starter,2,2,27.01,LATAM,logistics,organic,
+A20587,2025-02-05,team,24,27,289.18,AMER,education,referral,
+A21749,2025-02-05,business,85,105,1025.92,AMER,healthcare,paid search,
+A21898,2025-02-05,team,25,18,178.82,APAC,public sector,referral,2025-05-16
+A22077,2025-02-05,team,24,30,343.79,EMEA,education,organic,
+A20049,2025-02-06,business,120,153,1205.33,APAC,finance,outbound,
+A21434,2025-02-06,starter,1,1,13.56,AMER,software,organic,2025-11-11
+A22332,2025-02-06,starter,1,1,12.3,LATAM,retail,paid search,2025-11-07
+A21894,2025-02-07,starter,1,1,11.43,AMER,education,content,2025-05-17
+A22010,2025-02-07,starter,4,5,63.3,AMER,media,referral,
+A20091,2025-02-08,starter,3,2,25.8,APAC,finance,partner,2025-09-05
+A21181,2025-02-08,starter,1,1,11.51,AMER,logistics,organic,2025-03-13
+A22239,2025-02-08,business,72,91,770,EMEA,retail,organic,
+A21783,2025-02-09,starter,4,4,49.94,AMER,finance,content,2025-04-21
+A21822,2025-02-09,starter,1,1,12.89,EMEA,finance,outbound,
+A20556,2025-02-10,starter,1,1,11.46,AMER,software,organic,2025-04-02
+A20633,2025-02-10,starter,2,2,27.05,AMER,finance,content,2025-10-28
+A20653,2025-02-10,starter,4,5,67.32,APAC,public sector,paid search,
+A21347,2025-02-10,enterprise,790,998,7152.01,EMEA,public sector,paid search,
+A21578,2025-02-10,team,11,13,137.21,APAC,media,paid search,
+A20523,2025-02-11,starter,4,3,39.57,AMER,education,organic,2025-04-22
+A20962,2025-02-11,team,20,24,271.45,EMEA,retail,partner,
+A21200,2025-02-11,starter,1,1,11.67,AMER,public sector,content,
+A21334,2025-02-11,business,108,115,1112.32,AMER,logistics,referral,
+A20223,2025-02-12,starter,4,4,49.74,AMER,finance,outbound,2025-04-25
+A20402,2025-02-12,business,38,49,383.33,EMEA,software,paid search,
+A20996,2025-02-12,starter,2,1,12.72,AMER,education,partner,2025-07-02
+A21534,2025-02-12,starter,3,2,23.5,AMER,retail,referral,2025-06-10
+A22351,2025-02-12,starter,2,2,26.02,AMER,software,organic,
+A20233,2025-02-13,team,15,14,140.15,EMEA,healthcare,organic,2025-05-17
+A21242,2025-02-13,starter,4,4,48.42,EMEA,logistics,content,2025-04-20
+A21863,2025-02-13,starter,4,3,36.77,AMER,public sector,outbound,2025-07-15
+A22398,2025-02-13,starter,4,4,46.04,AMER,education,referral,2025-09-07
+A20263,2025-02-14,team,6,6,66.47,AMER,retail,paid search,
+A22431,2025-02-14,team,12,10,102.77,AMER,finance,outbound,2025-09-26
+A20030,2025-02-15,starter,1,1,13.37,AMER,software,paid search,
+A22016,2025-02-15,business,63,72,653.15,AMER,retail,organic,
+A21914,2025-02-16,team,9,9,90.02,EMEA,retail,organic,2025-08-29
+A22204,2025-02-16,business,113,137,1277.97,EMEA,logistics,content,
+A21075,2025-02-17,business,22,24,196.37,EMEA,finance,paid search,
+A22495,2025-02-17,starter,1,1,12.49,EMEA,software,paid search,2025-12-31
+A20464,2025-02-18,starter,4,4,46.38,EMEA,retail,organic,2025-06-21
+A20920,2025-02-18,enterprise,684,727,4373.17,EMEA,logistics,partner,
+A20646,2025-02-19,starter,3,4,55,EMEA,education,organic,
+A20725,2025-02-19,business,115,115,1115.3,EMEA,media,content,2025-11-28
+A20998,2025-02-19,starter,4,5,67.67,EMEA,education,organic,
+A21924,2025-02-19,starter,4,3,34.76,AMER,media,outbound,2025-05-27
+A20064,2025-02-20,team,12,9,82.1,EMEA,public sector,organic,2025-06-01
+A20661,2025-02-20,starter,2,2,25.9,EMEA,finance,referral,2025-10-15
+A22102,2025-02-20,starter,1,1,12.52,AMER,education,referral,
+A21034,2025-02-21,team,15,18,174.65,AMER,healthcare,content,
+A21757,2025-02-21,starter,4,5,63.06,AMER,retail,referral,
+A21796,2025-02-21,starter,2,2,26.91,AMER,media,content,
+A20270,2025-02-22,starter,1,1,11.11,EMEA,software,content,2026-01-16
+A21166,2025-02-22,starter,1,1,12.16,AMER,software,organic,2025-04-15
+A22208,2025-02-22,starter,4,4,54.34,AMER,healthcare,referral,
+A22347,2025-02-22,team,15,18,167.67,AMER,software,outbound,
+A22458,2025-02-22,team,9,11,114.52,EMEA,public sector,content,
+A20102,2025-02-23,team,12,14,154.91,AMER,logistics,organic,
+A21047,2025-02-23,starter,2,2,25.29,AMER,retail,referral,2025-06-07
+A21248,2025-02-23,team,14,18,201.49,AMER,finance,paid search,
+A22037,2025-02-23,team,6,6,58.12,APAC,logistics,referral,2025-10-02
+A20090,2025-02-24,team,23,23,224.45,AMER,retail,organic,2025-04-23
+A21101,2025-02-24,team,12,15,165.41,EMEA,public sector,organic,
+A21174,2025-02-24,business,45,48,438.39,EMEA,education,content,
+A22318,2025-02-24,starter,4,4,45.19,EMEA,public sector,paid search,2025-11-22
+A20098,2025-02-25,business,112,119,1064.3,LATAM,healthcare,referral,
+A20383,2025-02-25,starter,4,4,55.19,AMER,public sector,referral,
+A20404,2025-02-25,business,23,27,226.7,AMER,healthcare,content,
+A21411,2025-02-25,team,8,10,113.23,LATAM,healthcare,referral,
+A21582,2025-02-25,team,11,8,91.66,LATAM,media,partner,2026-01-06
+A21738,2025-02-25,starter,1,1,12.19,APAC,media,paid search,2025-05-09
+A22236,2025-02-25,team,9,9,102.08,APAC,software,paid search,
+A21469,2025-02-26,starter,1,1,11.14,AMER,retail,paid search,
+A21509,2025-02-26,team,17,21,215.01,AMER,software,content,
+A22360,2025-02-26,starter,2,2,25.82,AMER,public sector,organic,
+A21261,2025-02-28,starter,1,1,12.43,EMEA,healthcare,outbound,2025-05-26
+A21685,2025-02-28,team,5,5,49.45,AMER,education,organic,2025-12-26
+A20326,2025-03-02,starter,1,1,11.65,AMER,retail,partner,2025-07-01
+A20871,2025-03-02,team,9,10,105.02,EMEA,public sector,organic,
+A21597,2025-03-02,starter,2,2,23.44,EMEA,finance,outbound,2025-12-26
+A21594,2025-03-03,enterprise,793,842,5292.04,AMER,healthcare,partner,
+A21073,2025-03-04,team,8,8,77.06,AMER,logistics,paid search,
+A21363,2025-03-05,team,14,16,159.05,AMER,logistics,content,
+A21533,2025-03-05,team,18,16,145.54,EMEA,logistics,content,2025-11-16
+A20531,2025-03-06,team,9,11,109.9,APAC,retail,content,
+A21474,2025-03-06,starter,4,4,43.62,AMER,finance,organic,2025-07-07
+A21948,2025-03-06,team,19,20,208.01,AMER,education,outbound,
+A22122,2025-03-06,team,24,27,279.53,AMER,retail,paid search,
+A20029,2025-03-07,starter,3,3,40.63,AMER,healthcare,content,2025-09-23
+A20253,2025-03-07,starter,1,1,13.54,EMEA,software,outbound,2025-11-09
+A20809,2025-03-07,starter,3,3,38.65,APAC,retail,organic,2025-10-22
+A21622,2025-03-07,starter,1,1,11.51,EMEA,logistics,paid search,
+A21986,2025-03-07,business,53,60,471.14,AMER,finance,content,
+A20624,2025-03-08,business,54,61,531.91,AMER,healthcare,content,
+A20718,2025-03-08,team,15,17,187.84,AMER,healthcare,outbound,
+A20731,2025-03-08,starter,4,4,49.37,EMEA,finance,referral,2025-06-11
+A22116,2025-03-08,team,13,14,145.03,AMER,media,content,
+A21091,2025-03-09,starter,3,3,34.84,LATAM,finance,referral,2025-10-02
+A21645,2025-03-09,business,87,102,982.48,APAC,software,content,
+A21123,2025-03-10,starter,1,1,13.74,AMER,finance,paid search,
+A21470,2025-03-10,enterprise,508,533,3450.46,EMEA,finance,content,
+A20639,2025-03-11,team,11,13,132.05,EMEA,healthcare,organic,
+A22246,2025-03-11,team,19,18,172.57,EMEA,education,content,2025-11-06
+A20415,2025-03-12,team,21,22,248.01,AMER,education,outbound,
+A21918,2025-03-12,team,8,6,65.91,EMEA,retail,organic,2025-07-02
+A21473,2025-03-13,business,49,54,477.12,LATAM,public sector,content,
+A21505,2025-03-13,business,102,128,1217.71,AMER,media,outbound,
+A21642,2025-03-13,business,25,29,273.5,AMER,finance,partner,
+A21820,2025-03-13,starter,3,4,43.72,AMER,software,organic,
+A20251,2025-03-14,business,109,98,905.26,AMER,education,partner,2025-05-27
+A20469,2025-03-15,enterprise,381,411,2408.3,AMER,education,paid search,
+A20844,2025-03-15,starter,3,3,34.67,LATAM,healthcare,paid search,2025-06-03
+A20983,2025-03-15,starter,2,2,25.1,EMEA,retail,referral,2025-07-07
+A21106,2025-03-16,team,14,12,132.33,EMEA,education,paid search,2025-07-09
+A22470,2025-03-16,team,25,26,296.16,APAC,healthcare,content,
+A20062,2025-03-17,team,13,16,153.79,AMER,education,partner,
+A21147,2025-03-17,team,10,11,113.17,APAC,retail,partner,
+A20054,2025-03-18,business,117,118,912.65,AMER,education,referral,2025-10-01
+A20087,2025-03-18,team,12,14,128.19,EMEA,healthcare,organic,
+A20178,2025-03-18,enterprise,725,752,5209.34,EMEA,software,content,
+A20252,2025-03-18,starter,3,3,32.93,AMER,education,organic,2025-08-21
+A20687,2025-03-18,team,20,24,263.1,AMER,logistics,referral,
+A20774,2025-03-18,starter,1,1,10.82,LATAM,logistics,paid search,
+A21267,2025-03-18,enterprise,373,436,2676.78,AMER,healthcare,paid search,
+A21066,2025-03-19,team,17,17,159.85,LATAM,healthcare,content,2025-06-20
+A21250,2025-03-19,starter,1,1,12.62,APAC,media,outbound,
+A21528,2025-03-20,team,10,11,102.3,EMEA,logistics,organic,
+A22423,2025-03-20,starter,2,2,26.89,EMEA,logistics,paid search,2025-06-13
+A20023,2025-03-21,starter,2,2,22.98,AMER,public sector,referral,
+A20254,2025-03-21,starter,4,4,51.34,EMEA,education,content,2025-08-07
+A21440,2025-03-21,enterprise,106,115,758.9,AMER,education,outbound,
+A21637,2025-03-22,starter,1,1,13.36,AMER,healthcare,content,
+A20993,2025-03-23,starter,2,2,22.97,AMER,software,content,
+A21292,2025-03-23,team,24,24,240.3,AMER,logistics,organic,2025-12-12
+A20384,2025-03-24,starter,4,3,36.13,AMER,education,paid search,2025-04-29
+A20767,2025-03-24,team,11,10,106.5,APAC,logistics,organic,2025-08-12
+A20490,2025-03-25,starter,2,1,12.91,EMEA,finance,organic,2025-06-19
+A21004,2025-03-25,starter,3,3,37.89,APAC,finance,paid search,2025-05-04
+A20348,2025-03-26,starter,2,2,22.05,AMER,retail,outbound,2025-05-03
+A21529,2025-03-26,business,26,29,239.01,AMER,media,partner,
+A21359,2025-03-27,starter,4,5,66.7,APAC,logistics,organic,
+A22143,2025-03-27,starter,2,2,25.55,AMER,public sector,organic,2025-05-30
+A21087,2025-03-28,starter,1,1,12.63,AMER,software,paid search,2025-07-23
+A21184,2025-03-28,business,26,19,168.88,EMEA,logistics,organic,2025-06-01
+A21208,2025-03-28,starter,2,2,22.42,AMER,logistics,outbound,
+A22212,2025-03-28,team,16,17,154.48,APAC,public sector,paid search,
+A20528,2025-03-29,starter,2,2,23.25,APAC,software,referral,
+A21342,2025-03-29,team,11,12,117.29,AMER,software,content,
+A20713,2025-03-30,team,20,25,247.32,AMER,logistics,partner,
+A20906,2025-03-30,team,11,12,110.22,EMEA,retail,content,
+A21375,2025-03-31,team,7,7,76.15,APAC,healthcare,partner,
+A22150,2025-03-31,team,21,16,162.01,LATAM,healthcare,outbound,2025-07-15
+A21085,2025-04-01,business,47,58,510.26,EMEA,media,organic,
+A21909,2025-04-01,business,55,68,558.64,APAC,healthcare,content,
+A22440,2025-04-01,business,34,40,375.95,AMER,software,outbound,
+A21206,2025-04-02,starter,3,4,49.76,AMER,healthcare,outbound,
+A22176,2025-04-02,starter,4,4,53.02,APAC,media,content,2025-12-16
+A22480,2025-04-02,team,10,12,111.13,AMER,software,organic,
+A20573,2025-04-03,starter,4,5,64.24,AMER,retail,paid search,
+A21202,2025-04-04,business,78,90,864.78,EMEA,retail,referral,
+A21542,2025-04-04,team,24,28,303.12,EMEA,education,outbound,
+A22157,2025-04-04,starter,1,1,13.68,APAC,healthcare,paid search,
+A20322,2025-04-05,starter,2,2,22.54,EMEA,logistics,outbound,
+A20482,2025-04-05,business,67,79,681.59,EMEA,logistics,organic,
+A20516,2025-04-05,starter,2,2,22.7,AMER,healthcare,organic,2025-07-05
+A20973,2025-04-05,team,9,6,59.2,AMER,education,referral,2025-07-14
+A20376,2025-04-06,team,7,6,65.46,AMER,software,content,2025-07-06
+A20442,2025-04-06,team,14,17,176.07,EMEA,retail,referral,
+A20679,2025-04-06,business,94,98,956.34,LATAM,media,organic,
+A21651,2025-04-06,team,25,30,319.19,APAC,public sector,organic,
+A21714,2025-04-06,starter,4,5,55.66,AMER,software,outbound,
+A21982,2025-04-06,team,17,21,222.67,AMER,logistics,organic,
+A20518,2025-04-07,starter,3,3,34.42,AMER,finance,paid search,2025-06-16
+A21231,2025-04-07,business,107,124,1113.77,AMER,public sector,content,
+A21843,2025-04-07,team,12,13,119.18,APAC,public sector,organic,
+A22209,2025-04-07,business,69,72,553.92,EMEA,healthcare,referral,
+A22305,2025-04-07,starter,4,4,46.14,AMER,healthcare,paid search,2025-11-14
+A20834,2025-04-08,team,18,17,192.23,AMER,healthcare,content,2025-09-04
+A21251,2025-04-09,business,105,109,1035.9,APAC,public sector,paid search,
+A21373,2025-04-09,starter,3,4,51.56,AMER,retail,paid search,
+A21532,2025-04-09,team,19,23,251.46,AMER,retail,outbound,
+A21773,2025-04-10,team,11,13,131.87,AMER,media,partner,
+A22079,2025-04-10,team,25,22,216.65,AMER,software,organic,2025-06-03
+A22082,2025-04-10,team,9,10,114.45,AMER,finance,organic,
+A20423,2025-04-11,team,19,20,225.63,AMER,retail,content,
+A20484,2025-04-11,starter,4,3,37.35,LATAM,healthcare,organic,2025-05-11
+A21158,2025-04-11,starter,3,3,32.66,EMEA,software,content,2025-07-04
+A21587,2025-04-11,starter,1,1,10.97,EMEA,media,content,
+A21846,2025-04-11,enterprise,871,1045,7529.25,AMER,finance,outbound,
+A21312,2025-04-12,starter,4,3,34.67,AMER,software,paid search,2025-12-11
+A21650,2025-04-12,starter,4,5,66.73,AMER,software,paid search,
+A22076,2025-04-12,starter,2,2,26.81,APAC,software,partner,2025-08-07
+A20606,2025-04-13,starter,4,3,38.87,AMER,healthcare,partner,2025-09-09
+A21383,2025-04-13,business,116,120,1164.43,APAC,education,referral,
+A21499,2025-04-13,team,11,13,135.36,EMEA,retail,outbound,
+A22313,2025-04-13,team,24,22,206.54,AMER,public sector,content,2025-07-29
+A20293,2025-04-14,business,104,118,1098.15,AMER,education,outbound,
+A20465,2025-04-14,team,8,7,72.52,AMER,logistics,referral,2025-08-17
+A20236,2025-04-15,team,15,17,173.76,AMER,education,content,
+A20288,2025-04-15,team,13,12,137.48,AMER,media,referral,2025-09-01
+A22317,2025-04-15,team,19,20,198.24,AMER,public sector,outbound,
+A20599,2025-04-16,starter,2,2,22.88,AMER,healthcare,organic,2025-07-25
+A20882,2025-04-16,team,11,11,122.09,EMEA,public sector,outbound,2025-07-17
+A21676,2025-04-16,team,18,21,198.46,AMER,logistics,content,
+A21965,2025-04-16,starter,4,4,47.35,APAC,healthcare,partner,2025-09-18
+A20585,2025-04-17,business,104,107,935.43,EMEA,public sector,content,
+A21032,2025-04-17,team,20,15,167,AMER,media,organic,2025-12-19
+A21900,2025-04-17,team,21,20,181.45,AMER,finance,organic,2025-07-17
+A22404,2025-04-17,team,17,20,216.59,EMEA,logistics,organic,
+A20608,2025-04-18,starter,3,3,36.95,EMEA,education,organic,
+A21271,2025-04-18,team,15,11,124.59,AMER,media,organic,2026-01-01
+A22497,2025-04-18,starter,1,1,11.6,AMER,public sector,organic,2025-06-26
+A20076,2025-04-19,business,109,123,983.55,AMER,software,referral,
+A21266,2025-04-20,team,22,23,249.18,EMEA,media,organic,
+A22107,2025-04-20,starter,4,5,64.83,AMER,education,referral,
+A20515,2025-04-21,business,89,102,937.14,APAC,media,content,
+A21048,2025-04-21,starter,1,1,12.22,APAC,logistics,organic,2025-07-17
+A22024,2025-04-23,team,9,7,63.32,EMEA,software,referral,2025-08-06
+A21580,2025-04-24,team,11,12,108.56,AMER,education,content,
+A22282,2025-04-24,business,43,45,435.87,APAC,healthcare,organic,
+A22434,2025-04-24,starter,3,3,38.25,EMEA,logistics,paid search,
+A20507,2025-04-25,enterprise,207,241,1574.01,APAC,software,referral,
+A21107,2025-04-25,starter,4,3,35.33,AMER,logistics,content,2025-07-03
+A22014,2025-04-25,starter,2,2,26.7,AMER,healthcare,organic,
+A22240,2025-04-25,team,5,6,56.59,AMER,logistics,organic,
+A22368,2025-04-26,enterprise,290,334,2394.55,EMEA,finance,referral,
+A20095,2025-04-27,enterprise,463,487,3213.92,EMEA,finance,partner,
+A20487,2025-04-27,starter,4,3,38.87,EMEA,media,paid search,2025-10-15
+A20719,2025-04-27,team,25,23,207.34,EMEA,education,content,2025-08-21
+A21137,2025-04-27,team,10,8,82.26,AMER,software,paid search,2025-07-08
+A21210,2025-04-27,starter,4,5,59.16,APAC,retail,paid search,
+A21609,2025-04-27,starter,4,4,54.35,EMEA,finance,referral,
+A21806,2025-04-27,business,70,81,672.86,LATAM,finance,paid search,
+A22488,2025-04-27,team,20,19,180.99,AMER,finance,referral,2025-07-20
+A20129,2025-04-28,starter,2,2,24.28,AMER,education,partner,
+A22294,2025-04-28,team,9,10,101.36,AMER,logistics,organic,
+A22383,2025-04-28,business,115,136,1167.24,EMEA,public sector,content,
+A21023,2025-04-29,starter,2,1,11.71,AMER,retail,organic,2025-07-21
+A22320,2025-04-29,team,18,19,215.38,AMER,software,partner,
+A20508,2025-04-30,business,116,140,1209.55,APAC,media,organic,
+A20783,2025-04-30,business,101,113,1072.07,AMER,logistics,referral,
+A20930,2025-05-01,team,19,16,168.9,APAC,finance,organic,2025-10-23
+A20992,2025-05-01,starter,3,2,25.03,EMEA,finance,paid search,2025-08-31
+A21128,2025-05-01,business,109,117,1117.21,EMEA,healthcare,paid search,
+A20320,2025-05-02,team,12,12,121.3,AMER,public sector,paid search,
+A20334,2025-05-02,team,10,11,107.56,EMEA,public sector,content,
+A22328,2025-05-02,starter,1,1,10.99,EMEA,media,partner,2025-11-06
+A22337,2025-05-02,starter,1,1,11.93,AMER,education,paid search,2025-08-19
+A20592,2025-05-03,starter,4,4,54.4,EMEA,healthcare,partner,
+A21139,2025-05-03,business,91,105,876.44,EMEA,education,paid search,
+A21937,2025-05-03,starter,4,3,41.01,AMER,education,organic,2025-11-01
+A20762,2025-05-05,starter,1,1,12.92,AMER,public sector,outbound,
+A22418,2025-05-05,business,62,67,619.99,APAC,logistics,referral,
+A20455,2025-05-06,enterprise,157,175,1145.59,AMER,public sector,organic,
+A20586,2025-05-06,business,31,34,295.94,AMER,healthcare,referral,
+A20605,2025-05-06,starter,4,4,52,EMEA,education,outbound,2025-08-21
+A21170,2025-05-07,team,19,13,136.39,EMEA,media,outbound,2025-07-26
+A22322,2025-05-08,business,57,44,382.14,EMEA,media,outbound,2025-12-11
+A20699,2025-05-09,starter,4,5,68.08,APAC,logistics,organic,
+A20766,2025-05-09,starter,1,1,12.51,AMER,logistics,content,
+A21177,2025-05-09,starter,2,2,27.44,AMER,healthcare,referral,
+A21481,2025-05-09,starter,2,2,25.73,AMER,software,organic,
+A20306,2025-05-10,business,87,101,973.73,LATAM,healthcare,organic,
+A21421,2025-05-10,starter,1,1,12.74,EMEA,public sector,outbound,
+A21767,2025-05-10,enterprise,173,201,1287.65,EMEA,media,organic,
+A20408,2025-05-11,business,119,126,968.97,AMER,education,paid search,
+A20742,2025-05-11,starter,1,1,11.2,AMER,software,organic,
+A21912,2025-05-11,business,34,37,346.03,EMEA,logistics,partner,
+A20313,2025-05-12,team,7,7,77.68,AMER,healthcare,content,
+A20368,2025-05-12,starter,2,2,23.54,AMER,logistics,referral,
+A21062,2025-05-12,team,12,11,115.73,APAC,public sector,paid search,2025-07-22
+A21324,2025-05-12,business,61,72,646.74,APAC,software,organic,
+A20829,2025-05-13,team,10,8,88.04,AMER,public sector,organic,2025-08-17
+A21460,2025-05-13,starter,1,1,13.02,EMEA,logistics,partner,
+A21543,2025-05-13,starter,1,1,13.02,AMER,public sector,content,2025-08-18
+A21946,2025-05-13,starter,4,5,55.59,APAC,public sector,organic,
+A22172,2025-05-13,team,10,11,101.52,AMER,logistics,outbound,
+A22226,2025-05-14,starter,1,1,12.81,EMEA,retail,referral,2025-08-31
+A20154,2025-05-15,starter,3,4,46.67,APAC,education,content,
+A20949,2025-05-15,business,25,27,261.28,AMER,healthcare,content,
+A21433,2025-05-15,starter,3,3,39.57,LATAM,finance,referral,
+A21752,2025-05-15,starter,1,1,12.55,APAC,logistics,organic,
+A22396,2025-05-15,starter,2,2,22.91,AMER,public sector,organic,2025-08-25
+A21035,2025-05-16,team,21,23,243.22,AMER,healthcare,organic,
+A21479,2025-05-16,team,19,21,202.3,EMEA,healthcare,organic,
+A20425,2025-05-17,starter,4,4,45.19,AMER,media,paid search,2025-10-09
+A21758,2025-05-17,team,7,8,74.57,APAC,media,organic,
+A21482,2025-05-18,starter,3,3,33.57,LATAM,public sector,outbound,
+A22247,2025-05-18,starter,1,1,12.63,AMER,education,organic,2025-10-05
+A20748,2025-05-19,starter,2,2,25.23,AMER,education,referral,
+A21124,2025-05-19,starter,3,2,26.75,EMEA,media,outbound,2025-08-01
+A21252,2025-05-19,business,59,65,535.09,AMER,logistics,organic,
+A21349,2025-05-19,starter,4,3,33.09,EMEA,healthcare,organic,2025-11-17
+A22002,2025-05-19,team,19,15,161.59,AMER,retail,organic,2025-08-13
+A22149,2025-05-19,team,5,6,55.9,AMER,logistics,content,
+A22175,2025-05-19,team,13,14,132.84,LATAM,logistics,organic,
+A21577,2025-05-20,business,75,82,683.42,AMER,healthcare,partner,
+A22291,2025-05-20,starter,2,2,25.14,LATAM,retail,paid search,2025-12-07
+A20083,2025-05-21,team,10,10,93.96,AMER,software,outbound,2026-01-14
+A21992,2025-05-21,starter,4,5,59.83,APAC,public sector,organic,
+A21057,2025-05-22,team,8,9,94.5,AMER,finance,outbound,
+A20635,2025-05-23,business,77,92,828.37,AMER,public sector,referral,
+A21117,2025-05-23,starter,1,1,13.25,EMEA,public sector,referral,2025-07-12
+A21665,2025-05-23,business,84,100,845.21,EMEA,public sector,content,
+A21945,2025-05-23,starter,3,3,40.81,AMER,finance,outbound,2025-07-23
+A20352,2025-05-24,business,119,143,1283.29,AMER,healthcare,outbound,
+A20392,2025-05-24,starter,2,2,24.35,AMER,education,outbound,2025-09-21
+A20466,2025-05-24,starter,3,3,40.16,AMER,public sector,paid search,
+A21549,2025-05-25,team,9,9,84.7,AMER,logistics,organic,2025-08-11
+A21591,2025-05-25,business,21,24,209.96,AMER,healthcare,content,
+A21857,2025-05-25,starter,2,1,11.64,AMER,finance,organic,2025-08-24
+A22075,2025-05-25,starter,4,4,49.43,AMER,software,content,2025-09-27
+A20196,2025-05-26,starter,1,1,11.34,AMER,media,organic,
+A20822,2025-05-26,team,25,24,224.39,APAC,healthcare,content,2025-07-25
+A21828,2025-05-26,starter,4,4,47.27,APAC,retail,referral,
+A21971,2025-05-26,starter,1,1,13.05,AMER,retail,organic,
+A20374,2025-05-27,starter,2,2,26.45,EMEA,finance,referral,
+A21291,2025-05-27,starter,4,4,49.39,EMEA,retail,content,
+A22133,2025-05-27,business,95,105,809.55,AMER,media,outbound,
+A20654,2025-05-28,starter,3,3,36.67,AMER,education,referral,
+A21390,2025-05-28,business,83,79,631.55,AMER,media,outbound,2025-11-05
+A21426,2025-05-30,enterprise,802,950,5710.77,AMER,public sector,paid search,
+A21883,2025-05-30,starter,1,1,11.44,EMEA,healthcare,referral,2025-11-18
+A20411,2025-05-31,team,12,9,91.68,EMEA,retail,organic,2025-07-03
+A20752,2025-05-31,business,115,125,1036.45,AMER,software,content,
+A20846,2025-05-31,enterprise,358,377,2455.71,EMEA,retail,outbound,
+A20864,2025-05-31,team,19,20,202.01,EMEA,healthcare,organic,
+A20305,2025-06-02,starter,3,3,38.06,APAC,healthcare,organic,
+A21541,2025-06-02,starter,3,3,38.29,AMER,finance,organic,2025-08-26
+A22109,2025-06-02,starter,3,3,39.98,EMEA,retail,referral,
+A20435,2025-06-03,starter,3,3,41.34,APAC,public sector,referral,
+A20703,2025-06-03,starter,2,2,23.83,EMEA,healthcare,organic,2025-11-22
+A20769,2025-06-03,starter,4,4,52.95,AMER,finance,outbound,
+A21178,2025-06-03,team,9,10,112.11,AMER,software,outbound,
+A21431,2025-06-03,team,23,24,244.86,AMER,public sector,organic,
+A21981,2025-06-03,team,20,21,217.54,EMEA,healthcare,organic,
+A22193,2025-06-03,business,104,109,927.46,EMEA,logistics,paid search,
+A20722,2025-06-04,team,17,20,194.26,AMER,healthcare,partner,
+A20569,2025-06-05,starter,1,1,13.01,APAC,public sector,referral,
+A21605,2025-06-05,starter,3,3,35.17,EMEA,software,paid search,2025-10-10
+A22022,2025-06-05,starter,4,4,46.63,EMEA,logistics,referral,
+A21463,2025-06-06,starter,4,4,48.65,APAC,retail,outbound,
+A20710,2025-06-07,team,6,7,67.18,AMER,healthcare,partner,
+A20985,2025-06-07,team,13,14,134.44,AMER,education,organic,
+A21112,2025-06-07,team,8,8,86.05,AMER,finance,paid search,2025-07-22
+A21616,2025-06-07,starter,2,2,21.98,AMER,logistics,outbound,
+A22394,2025-06-07,starter,3,3,39.26,AMER,media,organic,
+A20362,2025-06-08,business,92,96,850.88,APAC,software,organic,2025-10-03
+A21340,2025-06-08,starter,2,2,22.87,EMEA,media,outbound,
+A20912,2025-06-09,starter,2,2,25.3,EMEA,public sector,partner,2025-10-29
+A21393,2025-06-09,team,16,18,188.67,AMER,healthcare,organic,
+A20810,2025-06-10,starter,1,1,11.74,EMEA,logistics,organic,
+A20441,2025-06-11,starter,3,3,40.26,EMEA,media,paid search,
+A21010,2025-06-11,team,10,9,84.84,AMER,media,referral,2025-09-07
+A20960,2025-06-12,team,11,12,134.45,EMEA,education,content,
+A21148,2025-06-12,enterprise,653,766,5321.94,LATAM,public sector,organic,
+A21161,2025-06-12,team,9,10,110.41,AMER,software,referral,
+A21486,2025-06-12,team,16,17,179.56,AMER,finance,paid search,
+A21847,2025-06-12,starter,1,1,12.38,AMER,retail,referral,2025-10-22
+A22217,2025-06-12,business,77,81,687.93,AMER,software,organic,
+A20796,2025-06-13,starter,4,4,53.65,AMER,software,outbound,
+A21103,2025-06-14,team,17,19,205.8,EMEA,software,paid search,
+A22147,2025-06-14,team,17,20,207.34,LATAM,media,content,
+A20564,2025-06-15,team,23,27,305.75,LATAM,education,referral,
+A20865,2025-06-15,business,96,112,1033.07,EMEA,retail,partner,
+A21786,2025-06-15,team,8,9,89.6,APAC,logistics,organic,
+A20588,2025-06-16,enterprise,757,821,5067.48,AMER,retail,organic,
+A21223,2025-06-17,starter,2,2,22.88,EMEA,software,paid search,2025-09-04
+A22125,2025-06-17,starter,3,3,37.57,AMER,retail,referral,
+A20529,2025-06-19,team,14,16,173.52,EMEA,media,organic,
+A21214,2025-06-19,team,9,10,94.58,APAC,education,content,
+A22466,2025-06-19,team,7,8,77.76,APAC,logistics,content,
+A20107,2025-06-20,enterprise,415,426,3019.46,AMER,software,organic,
+A20307,2025-06-20,business,80,84,724.39,APAC,software,organic,
+A20863,2025-06-20,team,22,24,250.99,APAC,education,referral,
+A21751,2025-06-20,team,7,7,75.07,APAC,healthcare,partner,
+A21765,2025-06-20,business,50,58,536.58,LATAM,media,paid search,
+A22474,2025-06-20,business,92,107,926.89,EMEA,education,content,
+A20413,2025-06-21,business,53,62,504.71,AMER,software,organic,
+A20473,2025-06-21,starter,4,4,44.01,EMEA,public sector,organic,
+A22290,2025-06-21,starter,2,2,25.07,APAC,logistics,partner,2025-09-08
+A20155,2025-06-22,business,73,68,613.6,EMEA,software,organic,2025-11-10
+A21133,2025-06-22,enterprise,704,830,5933.57,AMER,public sector,organic,
+A21172,2025-06-22,business,22,26,247.86,AMER,retail,organic,
+A21985,2025-06-23,team,22,22,207.05,EMEA,education,content,2025-10-07
+A20213,2025-06-24,starter,2,2,23.96,APAC,retail,partner,2025-11-16
+A20887,2025-06-24,team,20,22,230.72,EMEA,education,organic,
+A21366,2025-06-24,business,64,73,709.38,LATAM,healthcare,content,
+A21996,2025-06-24,team,10,11,121.72,AMER,education,organic,
+A22422,2025-06-24,team,23,20,215.22,AMER,finance,paid search,2025-07-29
+A22428,2025-06-24,team,18,18,179.28,AMER,education,partner,2025-11-08
+A20035,2025-06-25,business,37,27,230.49,AMER,education,content,2025-11-03
+A21197,2025-06-25,starter,3,3,38.2,APAC,public sector,referral,
+A20936,2025-06-26,team,16,14,131.73,AMER,logistics,referral,2025-11-21
+A21234,2025-06-26,team,23,26,294.84,AMER,finance,organic,
+A21311,2025-06-26,starter,1,1,13.27,AMER,media,outbound,2025-11-27
+A21926,2025-06-26,starter,3,3,40.57,AMER,retail,paid search,2025-11-20
+A20179,2025-06-27,business,69,58,519.57,AMER,finance,paid search,2026-01-21
+A20866,2025-06-27,enterprise,616,649,4232.21,APAC,logistics,content,
+A22081,2025-06-27,team,13,14,130.35,EMEA,public sector,outbound,
+A20044,2025-06-28,business,22,25,201.02,EMEA,media,paid search,
+A20111,2025-06-28,starter,2,2,25.34,EMEA,finance,organic,2025-12-17
+A20345,2025-06-28,starter,4,5,65.35,EMEA,logistics,organic,
+A22254,2025-06-28,starter,1,1,13.1,APAC,media,outbound,2026-01-03
+A22409,2025-06-28,starter,3,4,43.53,AMER,logistics,organic,
+A20012,2025-06-29,enterprise,423,463,3180.66,EMEA,finance,outbound,
+A20391,2025-06-29,starter,2,2,22.33,AMER,media,paid search,
+A21941,2025-06-29,business,35,38,337.11,EMEA,media,partner,
+A20203,2025-06-30,starter,3,3,41.12,AMER,education,paid search,
+A20016,2025-07-01,team,9,10,114.35,AMER,finance,organic,
+A21108,2025-07-01,starter,2,2,25.22,AMER,finance,referral,
+A20764,2025-07-02,enterprise,362,381,2455.5,EMEA,software,paid search,
+A20831,2025-07-02,team,7,8,77.1,AMER,healthcare,organic,
+A20005,2025-07-03,starter,2,2,22.42,EMEA,finance,content,2025-09-09
+A20738,2025-07-03,starter,1,1,11.48,AMER,finance,organic,
+A21561,2025-07-03,starter,3,3,39.9,LATAM,healthcare,paid search,2025-10-03
+A21211,2025-07-04,team,16,17,178.68,AMER,media,organic,
+A22093,2025-07-04,business,82,85,709.41,APAC,education,paid search,
+A20843,2025-07-05,starter,4,4,52.93,AMER,healthcare,content,
+A22262,2025-07-05,starter,1,1,10.99,EMEA,healthcare,content,
+A20506,2025-07-06,team,16,17,156.66,APAC,healthcare,paid search,
+A20913,2025-07-06,team,9,10,109.25,APAC,media,partner,
+A21265,2025-07-06,enterprise,661,730,4430,AMER,software,organic,
+A21303,2025-07-06,team,14,15,144.61,AMER,software,referral,
+A20909,2025-07-07,team,20,15,144.7,AMER,logistics,content,2025-11-16
+A21446,2025-07-07,starter,1,1,11.46,EMEA,retail,organic,
+A20342,2025-07-08,starter,2,2,23.3,APAC,education,content,2025-10-11
+A21059,2025-07-08,starter,4,4,49.2,APAC,logistics,paid search,
+A20617,2025-07-09,team,6,7,64.63,APAC,software,paid search,
+A21083,2025-07-09,starter,1,1,12.53,EMEA,software,content,
+A21694,2025-07-09,starter,4,4,46.19,AMER,education,content,2025-10-16
+A20955,2025-07-10,enterprise,793,854,5757.63,AMER,retail,partner,
+A21316,2025-07-10,team,22,24,245.82,APAC,finance,organic,
+A21337,2025-07-10,starter,1,1,12.12,EMEA,media,referral,2025-11-23
+A20171,2025-07-11,team,20,21,239.17,AMER,retail,organic,
+A20757,2025-07-11,enterprise,515,534,3712.18,EMEA,public sector,outbound,
+A21110,2025-07-11,starter,4,4,49.36,AMER,logistics,organic,
+A21263,2025-07-11,starter,2,2,23.12,AMER,healthcare,content,2025-09-19
+A21784,2025-07-11,business,90,98,862.2,AMER,public sector,paid search,
+A21927,2025-07-11,team,21,23,217.73,EMEA,healthcare,organic,
+A22342,2025-07-11,starter,1,1,13.41,EMEA,software,paid search,
+A22385,2025-07-11,starter,3,3,36.51,LATAM,finance,referral,2025-10-24
+A20221,2025-07-12,starter,4,4,47.26,AMER,software,content,2025-11-29
+A20726,2025-07-12,starter,4,4,53.04,APAC,finance,content,2025-09-24
+A21586,2025-07-12,starter,2,2,24.51,AMER,education,outbound,
+A21617,2025-07-12,team,20,23,218.87,APAC,public sector,referral,
+A21740,2025-07-12,business,73,78,607.03,AMER,media,referral,
+A21995,2025-07-12,team,12,12,136.46,AMER,retail,referral,
+A22452,2025-07-12,team,20,22,240.5,LATAM,retail,content,
+A20295,2025-07-13,starter,1,1,10.85,EMEA,logistics,organic,
+A20966,2025-07-13,business,117,108,1024.4,LATAM,retail,outbound,2025-11-17
+A22167,2025-07-13,team,17,17,169.47,AMER,software,partner,
+A22248,2025-07-13,team,13,15,142.77,AMER,software,organic,
+A20463,2025-07-14,business,24,27,217.69,EMEA,retail,outbound,
+A20818,2025-07-14,team,14,12,129.44,AMER,public sector,content,2025-08-20
+A20833,2025-07-14,starter,1,1,13.74,APAC,logistics,referral,
+A21464,2025-07-14,enterprise,531,545,3807.87,EMEA,logistics,content,
+A21717,2025-07-15,enterprise,105,119,838.93,AMER,finance,referral,
+A20290,2025-07-16,business,101,111,892.94,EMEA,education,paid search,
+A21330,2025-07-17,enterprise,839,878,5682.22,AMER,public sector,organic,
+A21641,2025-07-17,team,15,17,185.86,LATAM,public sector,referral,
+A22146,2025-07-17,starter,1,1,11.89,EMEA,media,paid search,2025-11-27
+A20821,2025-07-18,starter,2,2,26.87,AMER,logistics,organic,
+A21285,2025-07-18,team,9,10,110.12,EMEA,retail,paid search,
+A22139,2025-07-18,starter,2,2,24.88,EMEA,finance,referral,
+A20457,2025-07-19,team,18,13,119.7,AMER,education,partner,2025-11-02
+A20706,2025-07-19,business,32,36,316.4,AMER,public sector,organic,
+A21877,2025-07-19,team,8,8,89.98,APAC,finance,partner,
+A21521,2025-07-20,starter,3,3,37.84,EMEA,education,outbound,2025-11-28
+A20175,2025-07-21,starter,2,2,26.91,AMER,retail,organic,2025-10-30
+A21741,2025-07-21,enterprise,141,152,1108.51,EMEA,healthcare,outbound,
+A22119,2025-07-21,starter,4,3,38.19,AMER,education,partner,2025-09-29
+A20317,2025-07-22,team,10,10,99.17,APAC,software,referral,2025-12-02
+A20359,2025-07-22,business,75,80,651.85,EMEA,software,organic,
+A20899,2025-07-22,team,20,21,215.02,EMEA,public sector,outbound,
+A21790,2025-07-22,starter,3,2,26.93,EMEA,media,organic,2025-12-27
+A20247,2025-07-23,enterprise,231,252,1686.09,LATAM,finance,organic,
+A20414,2025-07-23,starter,4,4,51.49,AMER,software,organic,
+A20474,2025-07-23,enterprise,596,658,4508.43,APAC,software,paid search,
+A22427,2025-07-23,team,7,7,73.58,APAC,public sector,referral,
+A20024,2025-07-24,business,33,37,284.79,AMER,logistics,organic,
+A20430,2025-07-24,team,9,7,66.06,EMEA,public sector,content,2025-08-30
+A21524,2025-07-24,starter,3,2,26.95,APAC,media,organic,2025-12-01
+A22361,2025-07-24,starter,1,1,11.2,AMER,public sector,organic,
+A20034,2025-07-26,starter,1,1,13.55,EMEA,media,referral,
+A20491,2025-07-26,starter,1,1,11.78,AMER,public sector,partner,
+A20736,2025-07-26,business,99,72,621.94,EMEA,retail,organic,2025-10-29
+A20759,2025-07-26,starter,4,5,61.68,EMEA,media,outbound,
+A21484,2025-07-26,enterprise,356,388,2824.71,APAC,software,referral,
+A21654,2025-07-27,starter,4,4,54.74,EMEA,retail,referral,
+A20961,2025-07-28,starter,1,1,13.58,AMER,education,partner,2025-11-12
+A21045,2025-07-28,starter,2,2,23.81,AMER,public sector,outbound,
+A21720,2025-07-28,business,21,22,200.19,AMER,media,referral,
+A21771,2025-07-28,starter,4,4,50.2,LATAM,retail,organic,
+A20502,2025-07-29,starter,2,2,25.41,AMER,education,outbound,
+A20157,2025-07-30,enterprise,87,96,712.35,AMER,healthcare,organic,
+A21046,2025-07-30,business,97,103,905.39,AMER,software,paid search,
+A21495,2025-07-30,starter,1,1,11.35,EMEA,logistics,organic,
+A21697,2025-07-30,team,5,5,48.84,EMEA,public sector,paid search,
+A21781,2025-07-30,team,16,17,168.95,AMER,public sector,organic,
+A21575,2025-07-31,team,8,9,99.3,AMER,education,partner,
+A22164,2025-07-31,starter,3,3,40.02,APAC,public sector,referral,2025-10-12
+A20069,2025-08-01,starter,2,2,24.06,EMEA,education,outbound,2025-09-14
+A20616,2025-08-02,enterprise,529,554,3248.92,AMER,logistics,partner,
+A20622,2025-08-02,team,15,15,145.24,AMER,retail,outbound,
+A20915,2025-08-02,team,11,12,113.84,LATAM,logistics,organic,
+A21718,2025-08-02,team,8,8,76.21,AMER,software,outbound,
+A21886,2025-08-02,enterprise,725,817,5413.68,AMER,education,organic,
+A22166,2025-08-02,team,8,8,78.14,AMER,logistics,partner,
+A22255,2025-08-02,team,21,23,221.71,EMEA,logistics,organic,
+A22479,2025-08-02,starter,2,2,25.93,AMER,healthcare,organic,2025-10-12
+A20181,2025-08-04,starter,3,3,40.02,AMER,logistics,paid search,
+A21621,2025-08-04,business,82,88,814.27,AMER,education,referral,
+A20813,2025-08-05,team,12,12,133.91,AMER,retail,content,
+A20897,2025-08-05,starter,3,3,37.25,AMER,software,paid search,2025-12-27
+A21052,2025-08-05,business,77,81,790.67,EMEA,media,outbound,
+A21659,2025-08-05,team,24,26,264.23,AMER,public sector,content,
+A22200,2025-08-05,starter,2,2,23.29,LATAM,public sector,organic,2025-11-29
+A20873,2025-08-06,business,36,39,374.82,LATAM,media,referral,
+A20954,2025-08-06,team,20,18,206.38,EMEA,public sector,organic,2025-12-23
+A20957,2025-08-06,business,94,99,834.02,EMEA,logistics,organic,
+A22064,2025-08-06,business,98,105,817.37,AMER,software,content,
+A20182,2025-08-07,starter,2,2,25.82,AMER,education,content,2025-12-11
+A20938,2025-08-07,business,115,118,1134.72,EMEA,healthcare,content,
+A22469,2025-08-07,team,10,11,106.52,EMEA,retail,organic,
+A20328,2025-08-08,starter,1,1,12.45,EMEA,public sector,paid search,2025-11-13
+A21607,2025-08-08,starter,3,3,33.14,APAC,retail,organic,
+A20657,2025-08-09,starter,1,1,11.08,LATAM,finance,referral,2025-10-22
+A20028,2025-08-11,starter,2,2,25.82,EMEA,education,paid search,
+A20159,2025-08-12,starter,2,2,22.14,EMEA,finance,referral,
+A20275,2025-08-12,business,54,57,533.54,AMER,healthcare,referral,
+A22168,2025-08-12,starter,1,1,12.71,LATAM,retail,content,2025-10-30
+A21832,2025-08-14,team,19,20,200.03,EMEA,public sector,paid search,
+A21844,2025-08-14,starter,4,4,48.17,AMER,retail,content,
+A22099,2025-08-14,starter,4,4,47.77,AMER,public sector,paid search,
+A21227,2025-08-15,starter,2,2,25.39,APAC,retail,referral,
+A22095,2025-08-15,starter,3,3,32.51,AMER,finance,referral,
+A20332,2025-08-16,starter,1,1,13.73,AMER,software,outbound,
+A21418,2025-08-16,starter,3,3,41,EMEA,media,referral,
+A21748,2025-08-16,starter,2,2,25.57,AMER,media,referral,
+A20033,2025-08-17,team,8,9,88.18,AMER,finance,referral,
+A21081,2025-08-17,team,5,5,55.43,EMEA,public sector,referral,
+A21466,2025-08-17,team,11,11,101.5,AMER,education,paid search,2025-11-21
+A21560,2025-08-17,business,63,69,588.68,EMEA,media,organic,
+A22154,2025-08-17,enterprise,877,901,6292.82,APAC,media,referral,
+A21611,2025-08-18,starter,3,3,34.24,EMEA,healthcare,paid search,
+A20389,2025-08-19,business,87,92,868.96,APAC,media,partner,
+A20735,2025-08-19,starter,3,3,37.15,AMER,finance,paid search,2025-11-10
+A21881,2025-08-19,starter,4,4,47.59,AMER,logistics,content,
+A22268,2025-08-19,starter,2,2,22.41,APAC,retail,organic,2025-11-08
+A22275,2025-08-19,team,23,24,270.92,AMER,education,paid search,
+A22489,2025-08-19,starter,1,1,12.52,AMER,logistics,content,
+A20298,2025-08-20,business,57,60,510.98,AMER,healthcare,content,
+A20421,2025-08-20,starter,3,2,27.55,EMEA,logistics,outbound,2025-12-15
+A20584,2025-08-20,business,31,32,245.65,AMER,finance,content,
+A21737,2025-08-21,starter,1,1,11.4,EMEA,public sector,organic,2025-10-02
+A21382,2025-08-23,starter,1,1,11.17,EMEA,retail,content,2025-12-14
+A22374,2025-08-23,team,8,9,93.76,AMER,public sector,organic,
+A20319,2025-08-24,starter,1,1,11.34,EMEA,software,organic,
+A21818,2025-08-24,team,5,5,56.97,EMEA,finance,paid search,
+A21870,2025-08-24,team,11,12,127.35,AMER,public sector,paid search,
+A21951,2025-08-24,enterprise,149,157,1154.55,APAC,software,content,
+A22307,2025-08-24,team,24,26,240.36,AMER,public sector,content,
+A20671,2025-08-25,team,18,18,198.58,EMEA,software,paid search,
+A21372,2025-08-25,team,19,20,180.67,EMEA,media,outbound,
+A22118,2025-08-25,starter,3,3,34.59,AMER,education,referral,
+A22155,2025-08-25,starter,3,2,25.52,EMEA,education,content,2025-11-22
+A22357,2025-08-26,starter,4,3,39.98,EMEA,media,content,2025-11-02
+A20338,2025-08-27,business,99,108,921.73,APAC,logistics,content,
+A21367,2025-08-27,starter,1,1,11.46,EMEA,finance,organic,
+A22350,2025-08-27,starter,2,2,25.88,AMER,public sector,content,2025-10-14
+A22369,2025-08-27,starter,1,1,11.58,APAC,public sector,organic,2026-01-13
+A20905,2025-08-29,team,23,21,202.35,APAC,media,partner,2025-10-30
+A22438,2025-08-29,starter,1,1,12.55,AMER,public sector,partner,
+A20379,2025-08-30,starter,2,2,21.73,APAC,media,referral,2025-11-03
+A21776,2025-08-30,starter,4,4,53.61,EMEA,retail,content,2026-01-17
+A20522,2025-08-31,starter,1,1,11.76,APAC,healthcare,referral,
+A22028,2025-08-31,team,11,10,110.14,EMEA,retail,paid search,2026-01-24
+A20381,2025-09-01,starter,4,4,52.77,EMEA,media,paid search,
+A21812,2025-09-01,team,11,8,82.45,APAC,healthcare,referral,2025-12-21
+A22219,2025-09-01,starter,3,3,35.32,AMER,retail,organic,
+A22302,2025-09-01,starter,3,3,32.61,AMER,finance,partner,
+A20066,2025-09-02,team,11,12,130.24,AMER,healthcare,paid search,
+A21293,2025-09-02,starter,3,3,33.02,EMEA,finance,outbound,
+A21684,2025-09-02,starter,2,2,22.85,AMER,public sector,paid search,
+A22269,2025-09-02,starter,1,1,12.38,APAC,media,organic,
+A20193,2025-09-03,team,7,7,70.48,EMEA,retail,content,
+A21288,2025-09-03,starter,1,1,12.13,AMER,retail,outbound,
+A21936,2025-09-03,starter,1,1,11.61,AMER,education,paid search,
+A21728,2025-09-04,starter,1,1,12.13,AMER,education,partner,2025-12-16
+A21849,2025-09-04,team,8,8,91.02,APAC,logistics,content,
+A22023,2025-09-04,starter,2,1,11.79,EMEA,public sector,partner,2025-12-24
+A22425,2025-09-04,starter,2,2,25.36,EMEA,logistics,referral,
+A20991,2025-09-05,starter,4,4,48.01,AMER,software,outbound,
+A21194,2025-09-05,starter,3,3,37.24,AMER,logistics,paid search,
+A21585,2025-09-05,starter,4,4,48.57,EMEA,media,partner,
+A21671,2025-09-05,starter,1,1,11.19,EMEA,logistics,organic,
+A20001,2025-09-06,enterprise,322,330,2382.44,EMEA,logistics,organic,
+A22227,2025-09-06,team,21,22,209.17,AMER,healthcare,partner,2025-10-12
+A22454,2025-09-06,starter,2,2,25.24,AMER,public sector,organic,
+A20125,2025-09-07,team,12,12,118.24,EMEA,media,organic,
+A20261,2025-09-07,team,12,13,117.05,AMER,public sector,organic,
+A21131,2025-09-07,business,27,29,258.14,EMEA,public sector,organic,
+A21193,2025-09-07,starter,2,2,25.6,AMER,software,outbound,
+A20031,2025-09-08,starter,1,1,13.12,LATAM,logistics,outbound,2025-12-08
+A21583,2025-09-08,business,71,76,710.04,EMEA,education,paid search,
+A21830,2025-09-08,team,25,20,210.29,AMER,education,referral,2025-11-14
+A22263,2025-09-08,starter,4,4,52.23,AMER,logistics,partner,
+A22484,2025-09-08,team,15,16,168.45,EMEA,logistics,referral,
+A20242,2025-09-09,enterprise,608,636,4689.54,EMEA,education,content,
+A21760,2025-09-09,team,21,22,208.68,AMER,education,partner,2025-11-01
+A21940,2025-09-09,team,20,21,212.95,AMER,healthcare,content,
+A22303,2025-09-09,starter,4,4,49.14,EMEA,retail,paid search,
+A22481,2025-09-09,starter,4,4,51.04,EMEA,education,referral,
+A20032,2025-09-10,team,23,23,235.71,AMER,media,content,2025-12-22
+A20364,2025-09-10,starter,1,1,10.88,EMEA,public sector,organic,
+A20770,2025-09-10,business,79,86,746.37,AMER,healthcare,organic,
+A21277,2025-09-10,team,24,25,255.73,AMER,software,organic,
+A20509,2025-09-11,enterprise,895,931,6409.42,AMER,education,referral,
+A21008,2025-09-11,team,7,6,56.35,APAC,retail,organic,2025-11-22
+A21196,2025-09-11,team,17,18,191.39,EMEA,logistics,content,
+A22349,2025-09-11,business,101,104,801.1,AMER,healthcare,content,
+A20372,2025-09-12,enterprise,766,782,5347.91,AMER,retail,outbound,
+A20440,2025-09-12,starter,3,3,40.44,AMER,retail,organic,
+A20795,2025-09-13,business,120,131,1237.19,APAC,public sector,organic,
+A21516,2025-09-13,business,97,99,833.27,AMER,healthcare,referral,
+A21632,2025-09-13,team,22,24,234.59,APAC,software,partner,
+A21954,2025-09-13,business,74,78,634.34,AMER,public sector,content,
+A21286,2025-09-14,enterprise,431,456,2952.75,AMER,retail,partner,
+A21394,2025-09-15,starter,3,3,36.97,AMER,finance,organic,
+A20485,2025-09-16,business,103,112,1079.46,AMER,software,organic,
+A21314,2025-09-16,business,35,36,321.93,LATAM,finance,organic,
+A21378,2025-09-16,starter,1,1,11.53,AMER,software,paid search,2025-11-27
+A21860,2025-09-16,starter,4,4,50.09,EMEA,public sector,organic,
+A22005,2025-09-16,starter,4,4,44.7,AMER,finance,outbound,2025-12-31
+A22058,2025-09-16,business,44,48,416.33,EMEA,public sector,content,
+A22216,2025-09-16,starter,1,1,11.12,APAC,finance,organic,2026-01-07
+A22335,2025-09-16,starter,4,4,54.14,AMER,software,partner,
+A20567,2025-09-17,business,56,57,520.27,EMEA,software,organic,
+A20637,2025-09-17,starter,1,1,10.89,EMEA,media,partner,2026-01-12
+A21310,2025-09-17,team,25,26,280.96,APAC,media,outbound,
+A20501,2025-09-19,business,46,48,367.43,EMEA,finance,organic,
+A21357,2025-09-19,business,63,65,630.01,AMER,logistics,organic,
+A21704,2025-09-19,starter,2,2,22.08,AMER,software,partner,
+A21868,2025-09-19,team,7,7,73.1,EMEA,education,organic,
+A20191,2025-09-20,business,112,121,1120,EMEA,healthcare,organic,
+A20526,2025-09-20,team,25,26,293.38,LATAM,media,paid search,
+A21136,2025-09-20,starter,4,4,52.72,AMER,public sector,organic,
+A21304,2025-09-20,business,89,96,805.88,APAC,education,partner,
+A21906,2025-09-20,starter,2,2,21.99,AMER,public sector,referral,2026-01-03
+A20452,2025-09-21,starter,3,3,34.75,EMEA,education,organic,
+A21036,2025-09-21,team,16,17,186.14,APAC,media,organic,
+A20120,2025-09-22,team,13,10,114.56,EMEA,logistics,paid search,2025-12-20
+A20675,2025-09-22,team,13,14,149.45,AMER,software,organic,
+A20768,2025-09-22,business,30,32,299.14,AMER,logistics,referral,
+A21013,2025-09-22,team,23,24,274.68,AMER,public sector,paid search,
+A21425,2025-09-22,starter,4,4,54.75,APAC,logistics,paid search,
+A20869,2025-09-23,starter,2,2,24.2,APAC,education,content,
+A20927,2025-09-23,starter,1,1,11.89,APAC,finance,content,
+A21732,2025-09-24,team,16,15,147.87,APAC,logistics,outbound,2026-01-03
+A20535,2025-09-25,starter,3,3,33.31,AMER,retail,referral,
+A20629,2025-09-25,starter,2,2,27.07,AMER,media,organic,
+A21614,2025-09-25,business,105,112,865.07,LATAM,finance,organic,
+A21699,2025-09-25,business,116,126,1225.62,APAC,finance,organic,
+A20386,2025-09-26,starter,3,3,33.26,AMER,media,content,
+A20876,2025-09-26,starter,4,4,55.16,EMEA,healthcare,content,
+A21976,2025-09-26,team,11,12,125.75,AMER,logistics,content,
+A20072,2025-09-27,starter,2,2,23.33,AMER,public sector,paid search,
+A21113,2025-09-27,starter,1,1,11.84,APAC,public sector,outbound,
+A21143,2025-09-27,enterprise,745,785,5727.39,LATAM,education,content,
+A21606,2025-09-27,team,6,6,64.73,AMER,public sector,partner,
+A21831,2025-09-27,starter,4,4,48.56,AMER,logistics,paid search,
+A22279,2025-09-27,team,22,23,220.04,APAC,logistics,partner,
+A20593,2025-09-29,business,44,46,444.09,AMER,public sector,organic,
+A20929,2025-09-29,starter,4,4,50.56,AMER,media,outbound,
+A21934,2025-09-29,team,9,9,94.69,AMER,retail,organic,
+A20781,2025-09-30,starter,2,2,23.65,EMEA,software,outbound,
+A20065,2025-10-01,enterprise,730,757,4867.4,EMEA,software,partner,
+A20611,2025-10-01,starter,2,2,26.01,AMER,public sector,referral,
+A21491,2025-10-01,starter,1,1,11.36,AMER,software,organic,
+A21377,2025-10-02,team,9,9,87.49,AMER,retail,organic,
+A22067,2025-10-02,starter,4,4,52.33,AMER,public sector,organic,
+A20398,2025-10-03,business,116,122,1177.66,LATAM,retail,content,
+A20981,2025-10-03,team,8,8,81.89,EMEA,healthcare,paid search,
+A21308,2025-10-03,starter,1,1,11.4,EMEA,retail,organic,2025-12-07
+A22485,2025-10-03,starter,3,3,36.5,AMER,logistics,organic,
+A21295,2025-10-04,enterprise,804,832,5262.41,LATAM,logistics,referral,
+A21698,2025-10-04,team,14,15,167.93,EMEA,education,content,
+A20281,2025-10-05,starter,2,1,13.75,EMEA,software,outbound,2025-12-16
+A20296,2025-10-06,starter,4,4,46.21,AMER,logistics,content,
+A22319,2025-10-06,business,50,51,461.15,EMEA,logistics,organic,
+A21422,2025-10-07,starter,4,4,48.8,EMEA,logistics,paid search,
+A22487,2025-10-07,enterprise,719,757,5313.69,APAC,media,partner,
+A20437,2025-10-08,starter,1,1,11.27,AMER,public sector,content,
+A20747,2025-10-08,team,9,9,103.28,EMEA,healthcare,organic,
+A21571,2025-10-08,starter,4,4,53.73,AMER,finance,partner,
+A21608,2025-10-08,team,6,6,61.3,APAC,healthcare,paid search,
+A21388,2025-10-09,enterprise,805,820,5948.42,AMER,media,outbound,
+A20914,2025-10-10,starter,4,3,39.77,AMER,media,organic,2025-12-10
+A20919,2025-10-10,starter,2,2,25.16,APAC,public sector,referral,
+A21399,2025-10-10,starter,1,1,11.3,EMEA,logistics,partner,
+A21888,2025-10-10,business,27,27,242.83,EMEA,finance,organic,
+A20210,2025-10-11,team,22,22,208.89,LATAM,finance,paid search,
+A20923,2025-10-11,starter,4,4,43.27,AMER,healthcare,referral,
+A21702,2025-10-11,starter,4,4,51.65,EMEA,education,outbound,
+A21712,2025-10-11,starter,2,2,26.71,EMEA,healthcare,organic,2025-12-10
+A21851,2025-10-11,business,28,29,270.68,APAC,software,organic,
+A21115,2025-10-12,enterprise,415,419,3014.53,AMER,retail,partner,
+A21517,2025-10-12,business,88,91,719.45,EMEA,finance,outbound,
+A21140,2025-10-13,business,41,42,327.51,APAC,software,partner,
+A21925,2025-10-13,starter,3,3,38.64,EMEA,retail,paid search,
+A20079,2025-10-15,starter,4,4,49.51,EMEA,logistics,organic,
+A20004,2025-10-16,business,70,73,659.51,AMER,finance,paid search,
+A21408,2025-10-16,starter,3,3,36.35,AMER,education,organic,
+A22036,2025-10-16,starter,4,4,52.05,EMEA,finance,paid search,
+A20168,2025-10-17,team,25,26,295.86,LATAM,healthcare,organic,
+A20180,2025-10-17,starter,2,2,23.84,AMER,logistics,outbound,
+A20701,2025-10-17,starter,4,4,47,EMEA,media,referral,
+A20397,2025-10-18,team,5,5,54.89,APAC,healthcare,partner,
+A20514,2025-10-18,business,66,69,642.32,EMEA,healthcare,outbound,
+A21344,2025-10-18,starter,1,1,11.43,AMER,public sector,partner,
+A20396,2025-10-19,starter,4,4,51.22,EMEA,public sector,content,
+A21512,2025-10-19,enterprise,607,640,4380.69,EMEA,healthcare,paid search,
+A21721,2025-10-19,business,97,101,833.71,APAC,media,organic,
+A22198,2025-10-19,business,87,89,814.13,AMER,retail,paid search,
+A21318,2025-10-20,starter,3,3,36.58,EMEA,retail,paid search,2026-01-06
+A22018,2025-10-20,enterprise,486,505,3126.54,AMER,education,paid search,
+A22430,2025-10-20,team,16,17,158.7,AMER,finance,paid search,
+A20647,2025-10-21,starter,4,4,50.43,APAC,retail,referral,
+A20665,2025-10-21,enterprise,374,381,2288.67,AMER,logistics,referral,
+A21098,2025-10-21,starter,4,4,48.15,AMER,logistics,organic,
+A21294,2025-10-21,team,9,9,99.03,LATAM,logistics,outbound,
+A21592,2025-10-21,business,57,58,465.49,EMEA,retail,outbound,
+A21833,2025-10-21,team,11,11,102.84,AMER,software,referral,
+A20197,2025-10-22,starter,3,3,36.1,AMER,media,organic,2025-12-20
+A21055,2025-10-22,starter,2,2,27.48,EMEA,logistics,outbound,
+A22084,2025-10-22,team,24,25,274.08,AMER,healthcare,partner,
+A22286,2025-10-22,starter,1,1,12.16,APAC,healthcare,content,
+A20385,2025-10-23,team,8,8,74.96,EMEA,healthcare,paid search,2025-12-23
+A21931,2025-10-23,team,24,25,259.7,APAC,logistics,partner,
+A22173,2025-10-23,starter,4,4,45.98,APAC,healthcare,paid search,
+A20758,2025-10-24,starter,2,2,25.83,APAC,logistics,paid search,2025-12-08
+A21966,2025-10-24,business,98,100,865.59,AMER,logistics,outbound,
+A20596,2025-10-25,team,24,25,278.57,LATAM,healthcare,content,
+A21138,2025-10-25,starter,3,3,39.18,EMEA,healthcare,content,2026-01-20
+A21213,2025-10-25,team,24,24,273.88,EMEA,finance,content,
+A20366,2025-10-26,business,119,117,932.66,AMER,media,organic,2026-01-22
+A21779,2025-10-26,starter,3,3,40.68,APAC,public sector,organic,2026-01-14
+A21794,2025-10-26,business,25,26,221.89,APAC,retail,outbound,
+A21984,2025-10-26,starter,3,3,33.55,EMEA,education,referral,
+A20177,2025-10-27,starter,1,1,13.14,AMER,logistics,organic,
+A20867,2025-10-27,business,106,109,928.59,AMER,finance,referral,
+A21307,2025-10-27,starter,3,3,33.9,APAC,education,paid search,
+A21733,2025-10-28,team,21,22,252.65,LATAM,healthcare,partner,
+A22071,2025-10-28,starter,1,1,10.99,AMER,retail,content,
+A20153,2025-10-29,team,24,25,265.9,APAC,education,partner,
+A22132,2025-10-29,starter,4,4,54.69,AMER,public sector,referral,
+A20082,2025-10-30,business,101,105,827.89,AMER,software,content,
+A20419,2025-10-30,business,106,112,1093.31,LATAM,software,content,
+A20594,2025-10-30,team,5,5,48.69,AMER,finance,organic,
+A20836,2025-10-30,business,24,25,239.19,AMER,education,paid search,
+A21653,2025-10-30,starter,3,3,35.59,EMEA,healthcare,content,
+A22460,2025-10-30,enterprise,346,352,2528.71,EMEA,software,referral,
+A20862,2025-10-31,team,17,18,194.17,LATAM,finance,referral,
+A20997,2025-11-01,business,52,54,451.26,APAC,finance,content,
+A21282,2025-11-01,starter,4,4,45.34,AMER,finance,content,
+A22448,2025-11-01,starter,3,3,32.76,APAC,software,partner,
+A20500,2025-11-02,starter,4,4,53.14,EMEA,media,partner,
+A21280,2025-11-02,enterprise,377,380,2395.46,LATAM,education,content,
+A21916,2025-11-03,starter,1,1,13.45,APAC,healthcare,organic,
+A20651,2025-11-04,starter,2,2,23.78,LATAM,healthcare,organic,
+A21811,2025-11-04,starter,2,2,21.84,AMER,logistics,organic,
+A22331,2025-11-04,starter,3,3,34.09,EMEA,public sector,organic,
+A20729,2025-11-05,starter,4,4,48.73,AMER,education,content,
+A21134,2025-11-05,starter,4,4,48.97,AMER,healthcare,content,
+A21663,2025-11-05,starter,2,2,24.33,AMER,finance,organic,2025-12-20
+A20521,2025-11-06,team,13,13,139.34,LATAM,education,partner,
+A21309,2025-11-06,starter,4,4,49.84,APAC,media,content,
+A22346,2025-11-06,starter,2,2,24.99,AMER,education,referral,
+A20786,2025-11-07,enterprise,713,718,4491.59,EMEA,education,outbound,
+A21451,2025-11-07,team,21,21,231.59,LATAM,retail,organic,
+A20268,2025-11-08,business,92,92,705.96,AMER,retail,referral,
+A20911,2025-11-08,business,50,51,475.15,AMER,finance,organic,
+A21332,2025-11-08,team,7,7,72.46,EMEA,media,outbound,
+A21626,2025-11-08,starter,1,1,12.09,EMEA,healthcare,organic,
+A20147,2025-11-09,starter,2,2,23.94,EMEA,healthcare,paid search,
+A20945,2025-11-09,starter,4,3,41.37,AMER,media,organic,2025-12-14
+A21998,2025-11-09,team,16,16,147.37,AMER,media,partner,
+A22156,2025-11-09,enterprise,213,218,1347.71,AMER,public sector,partner,
+A22267,2025-11-09,enterprise,853,866,5868.63,AMER,finance,organic,
+A20951,2025-11-10,starter,4,4,50.15,EMEA,retail,referral,
+A21471,2025-11-10,starter,1,1,11.37,EMEA,finance,content,2025-12-17
+A21581,2025-11-10,starter,2,2,27.58,EMEA,public sector,organic,
+A21840,2025-11-10,starter,3,3,35.78,AMER,software,referral,
+A21979,2025-11-10,team,10,10,97.47,LATAM,software,organic,
+A22345,2025-11-10,team,20,20,217.89,EMEA,retail,outbound,
+A20436,2025-11-11,team,10,10,97.48,AMER,retail,outbound,
+A21258,2025-11-12,team,12,12,127.69,AMER,media,paid search,
+A21417,2025-11-12,starter,4,4,47.77,EMEA,healthcare,referral,
+A21915,2025-11-12,business,72,73,610.77,AMER,finance,content,
+A20708,2025-11-13,business,76,77,739.76,AMER,finance,organic,
+A20890,2025-11-13,starter,1,1,11.9,AMER,public sector,paid search,
+A20989,2025-11-13,team,8,8,80.57,EMEA,software,referral,
+A21221,2025-11-13,team,16,16,151.82,APAC,software,paid search,
+A21715,2025-11-13,team,21,22,207.8,AMER,retail,paid search,
+A21848,2025-11-13,starter,2,2,25.72,APAC,retail,paid search,
+A21701,2025-11-15,team,10,10,100.07,AMER,retail,outbound,
+A22127,2025-11-15,business,95,98,837.73,AMER,education,referral,
+A22367,2025-11-15,starter,4,4,46.29,AMER,education,content,
+A20805,2025-11-16,team,11,11,107.79,EMEA,retail,paid search,
+A20879,2025-11-16,starter,1,1,12.78,AMER,education,partner,
+A21058,2025-11-16,starter,1,1,11.4,EMEA,education,content,
+A21094,2025-11-16,team,23,24,221.57,EMEA,retail,organic,
+A20868,2025-11-17,team,24,25,263.43,LATAM,software,referral,
+A21244,2025-11-17,starter,2,2,23.79,EMEA,education,paid search,
+A20040,2025-11-18,starter,2,2,23.53,AMER,education,content,
+A20309,2025-11-18,starter,4,4,54.35,APAC,logistics,outbound,
+A21198,2025-11-18,starter,2,2,25.84,EMEA,healthcare,referral,
+A20173,2025-11-19,team,5,5,53.52,AMER,media,organic,
+A20343,2025-11-19,starter,1,1,10.92,EMEA,logistics,partner,
+A21999,2025-11-19,starter,3,3,41.01,AMER,media,organic,
+A22194,2025-11-19,starter,1,1,12.05,LATAM,retail,content,2025-12-31
+A22362,2025-11-19,business,106,109,883.21,EMEA,public sector,organic,
+A20842,2025-11-20,starter,4,4,54.03,EMEA,media,organic,
+A21339,2025-11-20,team,17,17,184.01,AMER,logistics,organic,
+A21723,2025-11-20,business,83,84,664.66,EMEA,logistics,referral,
+A20229,2025-11-21,starter,4,4,52.35,AMER,retail,paid search,
+A21603,2025-11-21,starter,3,3,34.55,AMER,finance,organic,2025-12-22
+A20136,2025-11-22,starter,3,3,40.46,AMER,finance,outbound,
+A20201,2025-11-22,business,91,93,750.53,APAC,finance,partner,
+A20658,2025-11-22,team,23,24,272.38,EMEA,public sector,referral,
+A22072,2025-11-22,starter,1,1,11.73,APAC,finance,paid search,
+A22306,2025-11-22,starter,1,1,11.96,EMEA,logistics,content,
+A22455,2025-11-22,team,24,25,278.67,EMEA,retail,referral,
+A20574,2025-11-23,business,45,45,397.53,EMEA,logistics,referral,
+A21687,2025-11-23,team,18,18,197.3,EMEA,logistics,organic,
+A22299,2025-11-23,enterprise,561,575,4017.49,AMER,retail,paid search,
+A22324,2025-11-23,team,20,21,237.1,AMER,logistics,paid search,
+A20959,2025-11-24,team,6,6,65.14,AMER,healthcare,paid search,
+A20972,2025-11-24,team,17,17,184.48,EMEA,software,organic,
+A20075,2025-11-25,team,6,6,60.72,LATAM,software,referral,
+A21414,2025-11-25,team,5,5,55.5,APAC,media,content,
+A20369,2025-11-26,team,21,22,239.08,AMER,software,outbound,
+A20604,2025-11-26,business,36,37,299.08,AMER,media,content,
+A21478,2025-11-26,business,47,47,381.43,AMER,education,content,
+A22163,2025-11-26,starter,3,3,34.5,AMER,retail,partner,
+A20194,2025-11-27,business,72,73,608.04,AMER,healthcare,referral,
+A20577,2025-11-27,starter,3,3,32.69,AMER,software,organic,
+A20956,2025-11-27,business,88,89,727.83,APAC,logistics,organic,
+A21667,2025-11-27,business,78,78,689.39,AMER,logistics,content,
+A22120,2025-11-27,starter,1,1,10.91,AMER,education,content,
+A22199,2025-11-27,starter,3,3,33.17,EMEA,finance,paid search,
+A22376,2025-11-27,starter,1,1,12.77,AMER,software,paid search,
+A20422,2025-11-28,team,15,15,140.24,EMEA,public sector,content,
+A22065,2025-11-28,team,16,16,168.32,AMER,retail,organic,
+A20644,2025-11-29,team,24,24,250,EMEA,logistics,organic,
+A21598,2025-11-29,starter,2,2,21.61,EMEA,media,organic,
+A22410,2025-11-29,starter,2,2,27.32,AMER,education,organic,
+A20118,2025-11-30,starter,1,1,11.15,AMER,software,referral,
+A20814,2025-11-30,starter,3,3,35.83,APAC,healthcare,referral,
+A20990,2025-11-30,starter,1,1,11.48,AMER,education,paid search,
+A21395,2025-11-30,team,22,22,214.78,EMEA,retail,content,
+A22400,2025-11-30,team,24,24,264.44,AMER,finance,referral,
+A20002,2025-12-01,team,13,13,131.91,AMER,logistics,content,
+A20021,2025-12-01,team,11,11,102.37,EMEA,media,referral,
+A20045,2025-12-01,team,24,24,268.68,AMER,retail,outbound,
+A20067,2025-12-01,starter,4,4,52.18,EMEA,media,content,
+A20077,2025-12-01,starter,2,2,23.12,EMEA,software,partner,
+A20113,2025-12-01,starter,1,1,12.69,AMER,logistics,referral,
+A20165,2025-12-01,business,50,51,416.08,LATAM,public sector,referral,
+A20192,2025-12-01,team,10,10,99.04,EMEA,retail,organic,
+A20235,2025-12-01,team,25,25,262.79,AMER,public sector,outbound,
+A20284,2025-12-01,starter,2,2,22.34,AMER,software,referral,
+A20303,2025-12-01,business,92,93,779.95,EMEA,healthcare,partner,
+A20327,2025-12-01,team,7,7,73.84,EMEA,logistics,referral,
+A20399,2025-12-01,starter,3,3,40.21,AMER,retail,content,
+A20426,2025-12-01,team,18,18,178.27,AMER,retail,referral,
+A20445,2025-12-01,starter,4,4,46.71,AMER,logistics,organic,
+A20478,2025-12-01,team,18,18,175.69,EMEA,healthcare,outbound,
+A20520,2025-12-01,team,22,23,263.5,EMEA,software,organic,
+A20524,2025-12-01,starter,1,1,12.94,AMER,education,referral,
+A20537,2025-12-01,starter,2,2,23.65,AMER,education,content,
+A20576,2025-12-01,starter,2,2,22.01,AMER,healthcare,referral,
+A20636,2025-12-01,enterprise,859,878,5643.97,AMER,healthcare,referral,
+A20649,2025-12-01,business,54,55,479.16,EMEA,finance,paid search,
+A20667,2025-12-01,enterprise,529,532,3678.69,AMER,finance,outbound,
+A20677,2025-12-01,business,117,120,1084.25,EMEA,logistics,referral,
+A20678,2025-12-01,business,27,28,236.12,EMEA,media,referral,
+A20691,2025-12-01,starter,2,2,27.13,AMER,retail,organic,
+A20712,2025-12-01,team,7,7,72.97,EMEA,education,organic,
+A20733,2025-12-01,starter,3,3,33.99,EMEA,education,content,
+A20745,2025-12-01,team,5,5,47.93,APAC,public sector,organic,
+A20902,2025-12-01,business,66,67,603.16,AMER,healthcare,partner,
+A20940,2025-12-01,team,9,9,87.98,AMER,healthcare,paid search,
+A20970,2025-12-01,enterprise,719,733,5323.68,EMEA,retail,paid search,
+A20978,2025-12-01,business,72,74,654.37,AMER,healthcare,outbound,
+A20988,2025-12-01,team,15,15,147.9,EMEA,education,referral,
+A21025,2025-12-01,team,8,8,72.63,EMEA,software,organic,
+A21056,2025-12-01,starter,1,1,11.24,APAC,public sector,paid search,
+A21082,2025-12-01,starter,3,3,33.97,APAC,finance,paid search,
+A21090,2025-12-01,business,22,22,181.41,APAC,media,organic,
+A21125,2025-12-01,enterprise,843,868,5511.08,APAC,public sector,referral,
+A21130,2025-12-01,business,52,53,448.36,APAC,healthcare,partner,
+A21145,2025-12-01,team,21,21,218.55,EMEA,media,referral,
+A21159,2025-12-01,team,20,20,209.94,AMER,public sector,partner,
+A21165,2025-12-01,business,48,48,468.65,AMER,logistics,organic,
+A21186,2025-12-01,starter,2,2,23.87,AMER,healthcare,outbound,
+A21222,2025-12-01,team,18,18,164.47,APAC,software,outbound,
+A21256,2025-12-01,business,86,88,849.56,APAC,retail,organic,
+A21300,2025-12-01,starter,2,2,23.89,AMER,media,content,
+A21321,2025-12-01,team,17,17,177.17,EMEA,retail,paid search,
+A21338,2025-12-01,team,17,17,181.88,EMEA,education,paid search,
+A21350,2025-12-01,starter,1,1,12.93,APAC,media,content,
+A21356,2025-12-01,starter,3,3,40.62,AMER,public sector,outbound,
+A21358,2025-12-01,business,85,87,826.71,EMEA,healthcare,partner,
+A21391,2025-12-01,starter,4,4,54.48,AMER,healthcare,partner,
+A21453,2025-12-01,team,23,24,231.8,AMER,media,paid search,
+A21465,2025-12-01,enterprise,894,898,6443.96,AMER,finance,partner,
+A21569,2025-12-01,starter,2,2,22.89,EMEA,public sector,organic,
+A21679,2025-12-01,starter,4,4,52.85,AMER,finance,organic,
+A21683,2025-12-01,team,18,18,188.32,AMER,retail,referral,
+A21762,2025-12-01,team,24,24,266.2,EMEA,retail,organic,
+A21791,2025-12-01,starter,4,4,52.34,AMER,finance,content,
+A21792,2025-12-01,starter,2,2,25.45,EMEA,healthcare,organic,
+A21808,2025-12-01,team,21,21,236.3,AMER,healthcare,partner,
+A21835,2025-12-01,starter,3,3,33.76,EMEA,media,organic,
+A21929,2025-12-01,business,57,58,514.94,AMER,retail,organic,
+A21944,2025-12-01,starter,2,2,26.98,AMER,retail,paid search,
+A21956,2025-12-01,starter,3,3,36.26,APAC,healthcare,partner,
+A21980,2025-12-01,team,18,18,185.32,EMEA,healthcare,paid search,
+A21993,2025-12-01,team,10,10,98.33,AMER,finance,content,
+A22012,2025-12-01,team,6,6,65.76,EMEA,logistics,organic,
+A22034,2025-12-01,starter,1,1,12.02,APAC,healthcare,content,
+A22038,2025-12-01,business,95,96,840.75,AMER,media,partner,
+A22039,2025-12-01,team,21,21,202.11,AMER,retail,paid search,
+A22040,2025-12-01,starter,2,2,23.08,EMEA,education,referral,2026-01-11
+A22106,2025-12-01,starter,3,3,38.7,AMER,public sector,organic,
+A22124,2025-12-01,team,5,5,52.7,AMER,education,organic,
+A22128,2025-12-01,starter,1,1,11.71,EMEA,finance,referral,
+A22141,2025-12-01,starter,3,3,37.22,EMEA,healthcare,content,
+A22181,2025-12-01,starter,2,2,26.75,AMER,finance,partner,
+A22231,2025-12-01,starter,3,3,39.11,APAC,software,referral,
+A22238,2025-12-01,starter,1,1,10.81,AMER,finance,outbound,
+A22280,2025-12-01,team,11,11,120.74,EMEA,education,referral,
+A22293,2025-12-01,starter,4,4,44.59,AMER,media,organic,
+A22315,2025-12-01,starter,2,2,26.88,APAC,software,organic,
+A22316,2025-12-01,enterprise,658,674,3986.3,APAC,finance,organic,
+A22395,2025-12-01,starter,3,3,36.49,EMEA,media,content,

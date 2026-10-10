@@ -1,0 +1,40 @@
+{
+  "logistic_regression": {
+    "model": "logistic_regression",
+    "prediction_horizon_days": 90,
+    "evaluation_start": "2024-04-01",
+    "training_rows": 1637,
+    "training_positive_rate": 0.15027489309712888,
+    "evaluation_rows": 2067,
+    "evaluation_positive_rate": 0.235607160135462,
+    "roc_auc": 0.5113924050632912,
+    "average_precision": 0.2433835256693816,
+    "brier_score": 0.187406450128134,
+    "precision_at_medium_threshold": 0.23816568047337278,
+    "recall_at_medium_threshold": 0.33059548254620125,
+    "medium_threshold": 0.16,
+    "risk_tier_thresholds": {
+      "low_below": 0.12,
+      "medium_below": 0.16
+    }
+  },
+  "random_forest": {
+    "model": "random_forest",
+    "prediction_horizon_days": 90,
+    "evaluation_start": "2024-04-01",
+    "training_rows": 1637,
+    "training_positive_rate": 0.15027489309712888,
+    "evaluation_rows": 2067,
+    "evaluation_positive_rate": 0.235607160135462,
+    "roc_auc": 0.5150969511085696,
+    "average_precision": 0.2435758926580389,
+    "brier_score": 0.2307222114186988,
+    "precision_at_medium_threshold": 0.235607160135462,
+    "recall_at_medium_threshold": 1.0,
+    "medium_threshold": 0.16,
+    "risk_tier_thresholds": {
+      "low_below": 0.12,
+      "medium_below": 0.16
+    }
+  }
+}

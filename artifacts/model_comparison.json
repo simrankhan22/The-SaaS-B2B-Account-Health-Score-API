@@ -1,0 +1,42 @@
+{
+  "logistic_regression": {
+    "model": "logistic_regression",
+    "prediction_horizon_days": 90,
+    "target_definition": "account_churn_date_within_90d",
+    "evaluation_start": "2025-07-01",
+    "training_rows": 14795,
+    "training_positive_rate": 0.12970598175059142,
+    "evaluation_rows": 5280,
+    "evaluation_positive_rate": 0.09545454545454546,
+    "roc_auc": 0.7303710184520487,
+    "average_precision": 0.20520918511137357,
+    "brier_score": 0.08102001460088055,
+    "precision_at_high_risk_threshold": 0.22472924187725632,
+    "recall_at_high_risk_threshold": 0.49404761904761907,
+    "high_risk_threshold": 0.16,
+    "risk_tier_thresholds": {
+      "low_below": 0.12,
+      "medium_below": 0.16
+    }
+  },
+  "random_forest": {
+    "model": "random_forest",
+    "prediction_horizon_days": 90,
+    "target_definition": "account_churn_date_within_90d",
+    "evaluation_start": "2025-07-01",
+    "training_rows": 14795,
+    "training_positive_rate": 0.12970598175059142,
+    "evaluation_rows": 5280,
+    "evaluation_positive_rate": 0.09545454545454546,
+    "roc_auc": 0.7244202992475606,
+    "average_precision": 0.21059008129530318,
+    "brier_score": 0.18999614360575615,
+    "precision_at_high_risk_threshold": 0.1008234585258084,
+    "recall_at_high_risk_threshold": 0.996031746031746,
+    "high_risk_threshold": 0.16,
+    "risk_tier_thresholds": {
+      "low_below": 0.12,
+      "medium_below": 0.16
+    }
+  }
+}
